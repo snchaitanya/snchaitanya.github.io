@@ -1,31 +1,99 @@
-body {
-  font-family: Arial, Helvetica, sans-serif;
+/* Base Reset */
+* {
   margin: 0;
   padding: 0;
-  background: #f8f9fb;
-  color: #222;
+  box-sizing: border-box;
 }
 
-header {
-  background: #0b3c5d;
-  color: #fff;
-  padding: 2rem;
-  text-align: center;
+/* Typography */
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif;
+  line-height: 1.6;
+  background-color: #f8fafc;
+  color: #0f172a;
 }
 
-section {
-  padding: 2rem;
+/* Layout */
+.container {
   max-width: 900px;
-  margin: auto;
+  margin: 0 auto;
+  padding: 40px 20px;
 }
 
-h2 {
-  color: #0b3c5d;
-}
-
-footer {
+/* Header */
+.site-header {
+  background: linear-gradient(135deg, #1e3a8a, #2563eb);
+  color: white;
+  padding: 50px 20px;
   text-align: center;
-  padding: 1rem;
-  background: #eaeaea;
+}
+
+.site-header h1 {
+  font-size: 2.4rem;
+  margin-bottom: 10px;
+}
+
+.tagline {
+  font-size: 1.1rem;
+  opacity: 0.95;
+}
+
+/* Sections */
+section {
+  margin-bottom: 50px;
+}
+
+section h2 {
+  font-size: 1.6rem;
+  margin-bottom: 16px;
+  color: #1e3a8a;
+}
+
+section p {
+  margin-bottom: 14px;
+}
+
+/* Lists */
+ul {
+  padding-left: 20px;
+}
+
+li {
+  margin-bottom: 10px;
+}
+
+/* Profile Links */
+.profile-links {
+  list-style: none;
+  padding-left: 0;
+}
+
+.profile-links li {
+  margin: 10px 0;
+}
+
+/* Links */
+a {
+  color: #2563eb;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Footer */
+.site-footer {
+  text-align: center;
+  padding: 25px;
+  background-color: #e2e8f0;
   font-size: 0.9rem;
+  color: #334155;
+}
+
+/* Responsive */
+@media (max-width: 600px) {
+  .site-header h1 {
+    font-size: 1.9rem;
+  }
 }
