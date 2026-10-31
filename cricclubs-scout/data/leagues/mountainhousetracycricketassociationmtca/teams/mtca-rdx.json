@@ -1,0 +1,3058 @@
+{
+  "team": "MTCA RDX",
+  "logo": "https://media.cricclubs.com/documentsRep/teamLogos/f61bd45c-8554-44e0-a716-99d64d3268ec.jpg",
+  "logos": {
+    "MTCA Azmari": "https://media.cricclubs.com/documentsRep/teamLogos/f9517260-8b82-480d-b12a-bf8582469783.jpg",
+    "MTCA SNIPERS": "https://media.cricclubs.com/documentsRep/teamLogos/e218535c-be05-4422-a033-14965ca3c2ed.jpg",
+    "MTCA Blasters": "https://media.cricclubs.com/documentsRep/teamLogos/b29f2fdc-fb29-4e1c-b5fa-e32895746e49.jpg",
+    "MTCA Khalsa Warriors": "https://media.cricclubs.com/documentsRep/teamLogos/768d4d96-1476-4703-a175-28c3b331e121.jpg",
+    "MTCA Game Strikers": "https://media.cricclubs.com/documentsRep/teamLogos/7d5c7d6d-0c82-4047-a5f3-67bfcef9dfdf.jpg",
+    "MTCA Royal Kings": "https://media.cricclubs.com/documentsRep/teamLogos/7bbfe602-f45b-45f8-b8f8-d07da7613246.jpeg",
+    "MTCA Blazers": "https://media.cricclubs.com/documentsRep/teamLogos/ea9efbed-1c79-4a4b-ae39-9366c4c7ec8f.jpg",
+    "MTCA Spartans": "https://media.cricclubs.com/documentsRep/teamLogos/26b84237-6348-45d5-ba36-9c1b1313c7c3.jpg",
+    "MTCA Hurricanes": "https://media.cricclubs.com/documentsRep/teamLogos/923e13da-3de0-4a4c-b4c3-6bbe3b3a2a30.jpg",
+    "MTCA Risers": "https://media.cricclubs.com/documentsRep/teamLogos/dcda0544-5c47-470c-81e4-5db09efaa4d4.jpg",
+    "MTCA Badgers": "https://media.cricclubs.com/documentsRep/teamLogos/97fe019d-0c36-4b60-afea-038bdd369230.jpg",
+    "MTCA Vintage Warriors": "https://media.cricclubs.com/documentsRep/teamLogos/efb0951f-b9ab-43e7-86aa-eeddaafe2051.jpg",
+    "MTCA RDX": "https://media.cricclubs.com/documentsRep/teamLogos/f61bd45c-8554-44e0-a716-99d64d3268ec.jpg",
+    "MTCA Dark Knights": "https://media.cricclubs.com/documentsRep/teamLogos/74a3e251-505c-4752-95af-38e61630c314.jpg",
+    "MTCA Sundance Warriors": "https://media.cricclubs.com/documentsRep/teamLogos/ee2bde70-2436-4d71-84b7-648eda8d7ce9.jpg",
+    "MTCA Mumbai Indians": "https://media.cricclubs.com/documentsRep/teamLogos/dbd04d47-f111-4f3f-928e-5c67e1964f72.jpg",
+    "MTCA Tri-Valley Titans": "https://media.cricclubs.com/documentsRep/teamLogos/a3ad8d13-c01a-451a-8c4a-6d31c8124bce.jpg",
+    "MTCA Legends": "https://media.cricclubs.com/documentsRep/teamLogos/ee1e598a-3459-4571-869e-2d180a80f519.jpg",
+    "MTCA Oakwood Mavericks": "https://media.cricclubs.com/documentsRep/teamLogos/f9f79711-1f39-4ab0-8a83-b5ed091c91c5.jpg",
+    "MTCA Legacy Lions": "https://media.cricclubs.com/documentsRep/teamLogos/05ca2286-3065-449f-b6cb-483765b4761f.jpg",
+    "MTCA Ellis Strikers": "https://media.cricclubs.com/documentsRep/teamLogos/f23b7d26-276f-4023-a6ef-1a29376a57da.jpg",
+    "MTCA Raging Bulls": "https://media.cricclubs.com/documentsRep/teamLogos/f23053f1-697f-4a4d-a9df-0dc3346c7880.jpg",
+    "MTCA All-Rounders": "https://media.cricclubs.com/documentsRep/teamLogos/25825f86-da6d-4fd1-ad94-e1bd565b2f3a.jpg",
+    "MTCA Phantoms": "https://media.cricclubs.com/documentsRep/teamLogos/f58550a4-b430-4872-8656-19916e2ef835.jpg",
+    "MTCA Smashers XI": "https://media.cricclubs.com/documentsRep/teamLogos/43c2a957-4f4d-49d7-9301-ae372cf24372.jpg",
+    "MTCA Hillview Eagles": "https://media.cricclubs.com/documentsRep/teamLogos/95bc83fa-551e-4cb3-81d9-14ba1ae018b0.jpg",
+    "MTCA Centurions": "https://media.cricclubs.com/documentsRep/teamLogos/a26a2c7b-3d2a-498a-8794-a735cb75ea6b.jpg",
+    "MTCA Sunrisers Manteca": "https://media.cricclubs.com/documentsRep/teamLogos/e609a03e-3f6d-4f50-93fe-43e59de1f8e7.jpg",
+    "MTCA Avatars": "https://media.cricclubs.com/documentsRep/teamLogos/cd82cf0c-8afa-4b59-a6d8-a2cbd87673af.jpeg",
+    "MTCA Power Stars": "https://media.cricclubs.com/documentsRep/teamLogos/25fb2f67-5f9b-4455-98d3-1411f43e9467.jpg",
+    "MTCA Asuras": "https://media.cricclubs.com/documentsRep/teamLogos/06657bd0-899c-49e8-b048-1abffdb39940.jpg",
+    "MTCA California Eagles": "https://media.cricclubs.com/documentsRep/teamLogos/119e8434-4687-43bc-97fe-83345e540454.jpg",
+    "MTCA Mountaineers": "https://media.cricclubs.com/documentsRep/teamLogos/68f9fcc5-67e8-462d-9199-20e9fc901ceb.jpg",
+    "MTCA Jolly-lo-Gymkhana": "https://media.cricclubs.com/documentsRep/teamLogos/63772208-c3ca-4281-a908-6e6a9c554d39.jpg",
+    "MTCA ICT": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+    "MTCA Dhurandhars": "https://media.cricclubs.com/documentsRep/teamLogos/457009a4-15de-4b7d-9138-aa1a62b169ca.jpg",
+    "MTCA Sky Risers": "https://media.cricclubs.com/documentsRep/teamLogos/4375726c-a0bf-4382-96d4-adf8cd6f4b29.jpg",
+    "MTCA Stanford Islanders": "https://media.cricclubs.com/documentsRep/teamLogos/08dcbe49-210f-4bf0-af03-517850ee2241.jpg",
+    "MTCA Sunheaven Leopards": "https://media.cricclubs.com/documentsRep/teamLogos/b9633797-ec72-4a0b-8e9c-98edac7a0d8b.jpg",
+    "MTCA Hawks": "https://media.cricclubs.com/documentsRep/teamLogos/5403f663-6bc9-40f0-a400-9d88a3489509.jpg",
+    "MTCA Golden Eagles": "https://media.cricclubs.com/documentsRep/teamLogos/45bf856d-80ca-4cbc-b519-9c70388a56c5.jpg",
+    "MTCA StanTerra Thunders": "https://media.cricclubs.com/documentsRep/teamLogos/d24f29a1-b2bf-4e09-95f2-29eb1dc06aaa.jpg",
+    "MTCA DevAsuras": "https://media.cricclubs.com/documentsRep/teamLogos/c87567e1-76e0-4527-8fa1-260c311d7188.jpg",
+    "MTCA Sapphires": "https://media.cricclubs.com/documentsRep/teamLogos/f99417ec-61fe-4aed-8734-368e68598b87.jpg",
+    "MTCA Manteca Rising Stars": "https://media.cricclubs.com/documentsRep/teamLogos/6cb01ac3-3fc9-42fa-87df-fecc3628fd90.jpg",
+    "MTCA Chargers": "https://media.cricclubs.com/documentsRep/teamLogos/92e14033-e281-4635-a3b3-967c7c7b8ebe.jpg",
+    "MTCA Brentwood Bulls": "https://media.cricclubs.com/documentsRep/teamLogos/36b3b9bd-33f1-4447-8e5e-82bbf29fd640.jpg",
+    "MTCA Elite XI": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team3.jpg",
+    "MTCA Singhz": "https://media.cricclubs.com/documentsRep/teamLogos/0b8af999-7bff-4d29-b592-85d81dd0f40f.jpg",
+    "MTCA RICC": "https://media.cricclubs.com/documentsRep/teamLogos/58341203-2511-44d0-ad32-bb5c84b19877.jpg",
+    "MTCA River Hawks": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+    "MTCA California Super Kings": "https://media.cricclubs.com/documentsRep/teamLogos/ba1e97a6-f18c-42da-9440-b79cd0bc00f2.jpg",
+    "MTCA Falcons": "https://media.cricclubs.com/documentsRep/teamLogos/bf07340b-37cb-4377-863f-8690d0c7a0cd.jpg",
+    "MTCA Valley Risers": "https://media.cricclubs.com/documentsRep/teamLogos/854ef9f3-24d7-411f-b3f5-4ce16b88f0bc.jpg",
+    "MTCA RICM": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg"
+  },
+  "league": {
+    "code": "MountainHouseTracyCricketAssociationMTCA",
+    "name": "MTCA"
+  },
+  "seasons": {
+    "current": {
+      "id": "legacy-93",
+      "name": "2026 MTCA Fall League",
+      "inSeason": true,
+      "scrapedAt": "2026-10-31T15:14:28.419Z"
+    },
+    "last": {
+      "id": "legacy-87",
+      "name": "2026 MTCA Spring League",
+      "inSeason": true,
+      "scrapedAt": "2026-10-31T15:15:07.141Z"
+    }
+  },
+  "matches": [
+    {
+      "id": "legacy-3460",
+      "date": "2026-10-24",
+      "series": "2026 MTCA Fall League",
+      "seriesId": "legacy-93",
+      "opponent": "MTCA Mumbai Indians",
+      "ground": "Hansen School - BaseBall 1",
+      "result": "MTCA Mumbai Indians won by 30 Runs",
+      "forfeit": false,
+      "outcome": "L",
+      "tossWonByUs": true,
+      "tossDecision": "bowl",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "MTCA Mumbai Indians",
+          "runs": 90,
+          "wkts": 6,
+          "overs": "20"
+        },
+        {
+          "team": "MTCA RDX",
+          "runs": 60,
+          "wkts": 10,
+          "overs": "16.5"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Pinda Guri",
+          "r": 8,
+          "b": 13,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ctw"
+        },
+        {
+          "name": "Sid Annapragada",
+          "r": 1,
+          "b": 8,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ct"
+        },
+        {
+          "name": "Kiran Dasari",
+          "r": 2,
+          "b": 8,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "b"
+        },
+        {
+          "name": "Yugandhar Dama",
+          "r": 15,
+          "b": 21,
+          "f": 0,
+          "s": 1,
+          "out": true,
+          "pos": 4,
+          "how": "ro"
+        },
+        {
+          "name": "Karthik Kannan",
+          "r": 2,
+          "b": 6,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "ro"
+        },
+        {
+          "name": "Anbarasan Elango",
+          "r": 4,
+          "b": 9,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "ctw"
+        },
+        {
+          "name": "Chandru S",
+          "r": 9,
+          "b": 15,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "ct"
+        },
+        {
+          "name": "Harsha V",
+          "r": 8,
+          "b": 9,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 8,
+          "how": "ct"
+        },
+        {
+          "name": "Harpreet Singh",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 9,
+          "how": "ct"
+        },
+        {
+          "name": "Raviteja Gettam",
+          "r": 2,
+          "b": 8,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 10,
+          "how": "b"
+        },
+        {
+          "name": "Praveen Nagarajan",
+          "r": 0,
+          "b": 3,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 11
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Harsha V",
+          "balls": 24,
+          "r": 13,
+          "w": 1,
+          "dots": 14,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Chandru S",
+          "balls": 18,
+          "r": 11,
+          "w": 0,
+          "dots": 8,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Praveen Nagarajan",
+          "balls": 18,
+          "r": 25,
+          "w": 0,
+          "dots": 6,
+          "wd": 0,
+          "nb": 2
+        },
+        {
+          "name": "Harpreet Singh",
+          "balls": 24,
+          "r": 21,
+          "w": 2,
+          "dots": 13,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Pinda Guri",
+          "balls": 18,
+          "r": 10,
+          "w": 2,
+          "dots": 9,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Rashid Stanak",
+          "balls": 12,
+          "r": 7,
+          "w": 0,
+          "dots": 6,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Raviteja Gettam",
+          "balls": 6,
+          "r": 2,
+          "w": 0,
+          "dots": 5,
+          "wd": 1,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Harsha V",
+          "c",
+          2
+        ],
+        [
+          "Karthik Kannan",
+          "c",
+          1
+        ],
+        [
+          "Harpreet Singh",
+          "c",
+          1
+        ],
+        [
+          "Harsha V",
+          "r",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-3454",
+      "date": "2026-10-18",
+      "series": "2026 MTCA Fall League",
+      "seriesId": "legacy-93",
+      "opponent": "MTCA All-Rounders",
+      "ground": "Altamont Park - BaseBall",
+      "result": "MTCA RDX won by 80 Runs",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": false,
+      "tossDecision": "bowl",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "MTCA RDX",
+          "runs": 123,
+          "wkts": 7,
+          "overs": "20"
+        },
+        {
+          "team": "MTCA All-Rounders",
+          "runs": 43,
+          "wkts": 10,
+          "overs": "12.1"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Sid Annapragada",
+          "r": 8,
+          "b": 15,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ct"
+        },
+        {
+          "name": "Pinda Guri",
+          "r": 36,
+          "b": 44,
+          "f": 1,
+          "s": 2,
+          "out": true,
+          "pos": 2,
+          "how": "ct"
+        },
+        {
+          "name": "Simarjit Singh",
+          "r": 8,
+          "b": 7,
+          "f": 0,
+          "s": 1,
+          "out": true,
+          "pos": 3,
+          "how": "b"
+        },
+        {
+          "name": "Kiran Dasari",
+          "r": 7,
+          "b": 13,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ct"
+        },
+        {
+          "name": "Deep Punian",
+          "r": 29,
+          "b": 20,
+          "f": 0,
+          "s": 3,
+          "out": true,
+          "pos": 5,
+          "how": "b"
+        },
+        {
+          "name": "Chandru S",
+          "r": 2,
+          "b": 5,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "ct"
+        },
+        {
+          "name": "Praveenkumar Balasubramaniyan",
+          "r": 2,
+          "b": 4,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "ct"
+        },
+        {
+          "name": "Sandeep Chahal",
+          "r": 12,
+          "b": 9,
+          "f": 0,
+          "s": 1,
+          "out": false,
+          "pos": 8
+        },
+        {
+          "name": "Harsha V",
+          "r": 2,
+          "b": 4,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 9
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Harsha V",
+          "balls": 12,
+          "r": 11,
+          "w": 1,
+          "dots": 7,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Chandru S",
+          "balls": 12,
+          "r": 6,
+          "w": 2,
+          "dots": 7,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Harpreet Singh",
+          "balls": 12,
+          "r": 8,
+          "w": 1,
+          "dots": 8,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Deep Punian",
+          "balls": 6,
+          "r": 5,
+          "w": 1,
+          "dots": 2,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Pradeep Kola",
+          "balls": 6,
+          "r": 3,
+          "w": 1,
+          "dots": 4,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Pinda Guri",
+          "balls": 12,
+          "r": 4,
+          "w": 2,
+          "dots": 9,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Simarjit Singh",
+          "balls": 6,
+          "r": 4,
+          "w": 0,
+          "dots": 4,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Praveenkumar Balasubramaniyan",
+          "balls": 6,
+          "r": 2,
+          "w": 0,
+          "dots": 6,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Sid Annapragada",
+          "balls": 1,
+          "r": 0,
+          "w": 1,
+          "dots": 1,
+          "wd": 0,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Simarjit Singh",
+          "c",
+          3
+        ],
+        [
+          "Pradeep Kola",
+          "k",
+          1
+        ],
+        [
+          "Harpreet Singh",
+          "r",
+          1
+        ],
+        [
+          "Pradeep Kola",
+          "c",
+          1
+        ],
+        [
+          "Harsha V",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-3404",
+      "date": "2026-10-10",
+      "series": "2026 MTCA Fall League",
+      "seriesId": "legacy-93",
+      "opponent": "MTCA Oakwood Mavericks",
+      "ground": "Altamont School ground",
+      "result": "MTCA RDX won by 1 Wicket",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": true,
+      "tossDecision": "bowl",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "MTCA Oakwood Mavericks",
+          "runs": 81,
+          "wkts": 10,
+          "overs": "19.5"
+        },
+        {
+          "team": "MTCA RDX",
+          "runs": 82,
+          "wkts": 9,
+          "overs": "19.5"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Sid Annapragada",
+          "r": 8,
+          "b": 14,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ro"
+        },
+        {
+          "name": "Anbarasan Elango",
+          "r": 8,
+          "b": 18,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ct"
+        },
+        {
+          "name": "Deep Punian",
+          "r": 12,
+          "b": 15,
+          "f": 0,
+          "s": 1,
+          "out": true,
+          "pos": 3,
+          "how": "b"
+        },
+        {
+          "name": "Yugandhar Dama",
+          "r": 1,
+          "b": 6,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ct"
+        },
+        {
+          "name": "Chandru S",
+          "r": 1,
+          "b": 6,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "ctw"
+        },
+        {
+          "name": "Nihar Devella",
+          "r": 1,
+          "b": 9,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "b"
+        },
+        {
+          "name": "Pinda Guri",
+          "r": 18,
+          "b": 18,
+          "f": 0,
+          "s": 2,
+          "out": true,
+          "pos": 7,
+          "how": "ct"
+        },
+        {
+          "name": "Praveenkumar Balasubramaniyan",
+          "r": 1,
+          "b": 11,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 8,
+          "how": "ct"
+        },
+        {
+          "name": "Hari Krishnan S",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 9,
+          "how": "ro"
+        },
+        {
+          "name": "Harsha V",
+          "r": 11,
+          "b": 13,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 10
+        },
+        {
+          "name": "Rashid Stanak",
+          "r": 5,
+          "b": 11,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 11
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Harsha V",
+          "balls": 23,
+          "r": 10,
+          "w": 2,
+          "dots": 16,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Chandru S",
+          "balls": 18,
+          "r": 10,
+          "w": 0,
+          "dots": 10,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Deep Punian",
+          "balls": 24,
+          "r": 20,
+          "w": 2,
+          "dots": 12,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Rashid Stanak",
+          "balls": 18,
+          "r": 13,
+          "w": 2,
+          "dots": 11,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Pinda Guri",
+          "balls": 24,
+          "r": 9,
+          "w": 1,
+          "dots": 17,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Praveenkumar Balasubramaniyan",
+          "balls": 12,
+          "r": 17,
+          "w": 1,
+          "dots": 5,
+          "wd": 2,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Sid Annapragada",
+          "c",
+          2
+        ],
+        [
+          "Praveenkumar Balasubramaniyan",
+          "c",
+          1
+        ],
+        [
+          "Harsha V",
+          "c",
+          1
+        ],
+        [
+          "Deep Punian",
+          "r",
+          1
+        ],
+        [
+          "Harsha V",
+          "r",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-3395",
+      "date": "2026-10-04",
+      "series": "2026 MTCA Fall League",
+      "seriesId": "legacy-93",
+      "opponent": "MTCA Legends",
+      "ground": "Hansen School - BaseBall 2",
+      "result": "MTCA RDX won by 2 Wickets",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": true,
+      "tossDecision": "bowl",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "MTCA Legends",
+          "runs": 59,
+          "wkts": 10,
+          "overs": "16"
+        },
+        {
+          "team": "MTCA RDX",
+          "runs": 62,
+          "wkts": 8,
+          "overs": "15.2"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Sid Annapragada",
+          "r": 4,
+          "b": 7,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ct"
+        },
+        {
+          "name": "Anbarasan Elango",
+          "r": 2,
+          "b": 6,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "b"
+        },
+        {
+          "name": "Ravinder Singh",
+          "r": 10,
+          "b": 10,
+          "f": 0,
+          "s": 1,
+          "out": true,
+          "pos": 3,
+          "how": "ct"
+        },
+        {
+          "name": "Kiran Dasari",
+          "r": 2,
+          "b": 6,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ct"
+        },
+        {
+          "name": "Yugandhar Dama",
+          "r": 11,
+          "b": 27,
+          "f": 0,
+          "s": 1,
+          "out": true,
+          "pos": 5,
+          "how": "ct"
+        },
+        {
+          "name": "Chandru S",
+          "r": 1,
+          "b": 6,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "ct"
+        },
+        {
+          "name": "Harsha V",
+          "r": 2,
+          "b": 8,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "ct"
+        },
+        {
+          "name": "Pinda Guri",
+          "r": 11,
+          "b": 10,
+          "f": 0,
+          "s": 1,
+          "out": true,
+          "pos": 8,
+          "how": "ctw"
+        },
+        {
+          "name": "Praveenkumar Balasubramaniyan",
+          "r": 10,
+          "b": 10,
+          "f": 2,
+          "s": 0,
+          "out": false,
+          "pos": 9
+        },
+        {
+          "name": "Hari Krishnan S",
+          "r": 1,
+          "b": 3,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 10
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Harsha V",
+          "balls": 24,
+          "r": 10,
+          "w": 3,
+          "dots": 20,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Praveen Nagarajan",
+          "balls": 18,
+          "r": 16,
+          "w": 1,
+          "dots": 11,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Chandru S",
+          "balls": 18,
+          "r": 13,
+          "w": 0,
+          "dots": 9,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Praveenkumar Balasubramaniyan",
+          "balls": 12,
+          "r": 12,
+          "w": 1,
+          "dots": 9,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Pinda Guri",
+          "balls": 24,
+          "r": 6,
+          "w": 4,
+          "dots": 20,
+          "wd": 2,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Kiran Dasari",
+          "c",
+          3
+        ],
+        [
+          "Pradeep Kola",
+          "k",
+          3
+        ],
+        [
+          "Sid Annapragada",
+          "c",
+          1
+        ],
+        [
+          "Hari Krishnan S",
+          "r",
+          1
+        ],
+        [
+          "Praveen Nagarajan",
+          "r",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-3349",
+      "date": "2026-09-26",
+      "series": "2026 MTCA Fall League",
+      "seriesId": "legacy-93",
+      "opponent": "MTCA Tri-Valley Titans",
+      "ground": "Hansen School - BaseBall 1",
+      "result": "MTCA RDX won by 4 Wickets",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": true,
+      "tossDecision": "bowl",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "MTCA Tri-Valley Titans",
+          "runs": 64,
+          "wkts": 10,
+          "overs": "20"
+        },
+        {
+          "team": "MTCA RDX",
+          "runs": 65,
+          "wkts": 6,
+          "overs": "15.4"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Chandru S",
+          "r": 1,
+          "b": 8,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ct"
+        },
+        {
+          "name": "Simarjit Singh",
+          "r": 32,
+          "b": 34,
+          "f": 2,
+          "s": 2,
+          "out": true,
+          "pos": 2,
+          "how": "ct"
+        },
+        {
+          "name": "Preet Multani",
+          "r": 7,
+          "b": 16,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ctw"
+        },
+        {
+          "name": "Deep Punian",
+          "r": 12,
+          "b": 19,
+          "f": 1,
+          "s": 0,
+          "out": false,
+          "pos": 4
+        },
+        {
+          "name": "Sid Annapragada",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "b"
+        },
+        {
+          "name": "Hari Krishnan S",
+          "r": 0,
+          "b": 5,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "b"
+        },
+        {
+          "name": "Anbarasan Elango",
+          "r": 1,
+          "b": 5,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "ct"
+        },
+        {
+          "name": "Harsha V",
+          "r": 2,
+          "b": 7,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 8
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Harsha V",
+          "balls": 24,
+          "r": 13,
+          "w": 2,
+          "dots": 17,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Chandru S",
+          "balls": 24,
+          "r": 7,
+          "w": 2,
+          "dots": 18,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Rashid Stanak",
+          "balls": 12,
+          "r": 9,
+          "w": 0,
+          "dots": 5,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Deep Punian",
+          "balls": 18,
+          "r": 13,
+          "w": 0,
+          "dots": 9,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Praveenkumar Balasubramaniyan",
+          "balls": 24,
+          "r": 14,
+          "w": 3,
+          "dots": 17,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Harpreet Singh",
+          "balls": 18,
+          "r": 8,
+          "w": 2,
+          "dots": 12,
+          "wd": 0,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Anbarasan Elango",
+          "c",
+          1
+        ],
+        [
+          "Deep Punian",
+          "c",
+          1
+        ],
+        [
+          "Praveenkumar Balasubramaniyan",
+          "c",
+          1
+        ],
+        [
+          "Pradeep Kola",
+          "k",
+          1
+        ],
+        [
+          "Pradeep Kola",
+          "r",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-3342",
+      "date": "2026-09-19",
+      "series": "2026 MTCA Fall League",
+      "seriesId": "legacy-93",
+      "opponent": "MTCA Legacy Lions",
+      "ground": "Hansen School - BaseBall 1",
+      "result": "MTCA RDX won by 9 Wickets",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": true,
+      "tossDecision": "bowl",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "MTCA Legacy Lions",
+          "runs": 55,
+          "wkts": 10,
+          "overs": "19.2"
+        },
+        {
+          "team": "MTCA RDX",
+          "runs": 61,
+          "wkts": 1,
+          "overs": "8.5"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Simarjit Singh",
+          "r": 48,
+          "b": 30,
+          "f": 3,
+          "s": 4,
+          "out": false,
+          "pos": 1
+        },
+        {
+          "name": "Deep Punian",
+          "r": 8,
+          "b": 18,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ctw"
+        },
+        {
+          "name": "Sid Annapragada",
+          "r": 4,
+          "b": 5,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 3
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Praveen Nagarajan",
+          "balls": 14,
+          "r": 6,
+          "w": 3,
+          "dots": 11,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Chandru S",
+          "balls": 18,
+          "r": 9,
+          "w": 0,
+          "dots": 13,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Harsha V",
+          "balls": 18,
+          "r": 12,
+          "w": 3,
+          "dots": 11,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Deep Punian",
+          "balls": 18,
+          "r": 8,
+          "w": 0,
+          "dots": 12,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Raviteja Gettam",
+          "balls": 12,
+          "r": 5,
+          "w": 0,
+          "dots": 8,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Pinda Guri",
+          "balls": 24,
+          "r": 7,
+          "w": 4,
+          "dots": 18,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Praveenkumar Balasubramaniyan",
+          "balls": 12,
+          "r": 8,
+          "w": 0,
+          "dots": 5,
+          "wd": 1,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Chandru S",
+          "c",
+          1
+        ],
+        [
+          "Raviteja Gettam",
+          "c",
+          1
+        ],
+        [
+          "Nihar Devella",
+          "k",
+          2
+        ],
+        [
+          "Hari Krishnan S",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-3292",
+      "date": "2026-08-22",
+      "series": "2026 MTCA Spring League",
+      "seriesId": "legacy-87",
+      "opponent": "MTCA Game Strikers",
+      "ground": "Hansen School - BaseBall 2",
+      "result": "Forfeited. Winner: MTCA Game Strikers",
+      "forfeit": true,
+      "outcome": "L",
+      "tossWonByUs": null,
+      "tossDecision": null,
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "MTCA Game Strikers",
+          "runs": 80,
+          "wkts": 10,
+          "overs": "20"
+        },
+        {
+          "team": "MTCA RDX",
+          "runs": 60,
+          "wkts": 10,
+          "overs": "20"
+        }
+      ],
+      "batting": [],
+      "bowling": [],
+      "fielding": []
+    },
+    {
+      "id": "legacy-3284",
+      "date": "2026-08-16",
+      "series": "2026 MTCA Spring League",
+      "seriesId": "legacy-87",
+      "opponent": "MTCA Khalsa Warriors",
+      "ground": "Hansen School - BaseBall 2",
+      "result": "MTCA Khalsa Warriors won by 8 Wickets",
+      "forfeit": false,
+      "outcome": "L",
+      "tossWonByUs": false,
+      "tossDecision": "bowl",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "MTCA RDX",
+          "runs": 59,
+          "wkts": 10,
+          "overs": "16.4"
+        },
+        {
+          "team": "MTCA Khalsa Warriors",
+          "runs": 60,
+          "wkts": 2,
+          "overs": "9"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Simarjit Singh",
+          "r": 3,
+          "b": 8,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "b"
+        },
+        {
+          "name": "Preet Multani",
+          "r": 6,
+          "b": 17,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ct"
+        },
+        {
+          "name": "Hari Krishnan S",
+          "r": 0,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ct"
+        },
+        {
+          "name": "Anbarasan Elango",
+          "r": 2,
+          "b": 10,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "b"
+        },
+        {
+          "name": "Deep Punian",
+          "r": 25,
+          "b": 30,
+          "f": 1,
+          "s": 2,
+          "out": true,
+          "pos": 5,
+          "how": "b"
+        },
+        {
+          "name": "Chandru S",
+          "r": 3,
+          "b": 13,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "b"
+        },
+        {
+          "name": "Sid Annapragada",
+          "r": 3,
+          "b": 5,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "ct"
+        },
+        {
+          "name": "Dharminder Singh",
+          "r": 2,
+          "b": 3,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 8,
+          "how": "ct"
+        },
+        {
+          "name": "Harpreet Singh",
+          "r": 0,
+          "b": 4,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 9,
+          "how": "ctw"
+        },
+        {
+          "name": "Mahendra Neel",
+          "r": 1,
+          "b": 6,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 10
+        },
+        {
+          "name": "Pradeep Kola",
+          "r": 0,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 11,
+          "how": "b"
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Dharminder Singh",
+          "balls": 12,
+          "r": 6,
+          "w": 0,
+          "dots": 9,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Chandru S",
+          "balls": 12,
+          "r": 8,
+          "w": 0,
+          "dots": 5,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Mahendra Neel",
+          "balls": 6,
+          "r": 7,
+          "w": 1,
+          "dots": 4,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Maninder Singh",
+          "balls": 12,
+          "r": 17,
+          "w": 0,
+          "dots": 6,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Harpreet Singh",
+          "balls": 6,
+          "r": 8,
+          "w": 0,
+          "dots": 3,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Deep Punian",
+          "balls": 6,
+          "r": 13,
+          "w": 1,
+          "dots": 3,
+          "wd": 0,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Mahendra Neel",
+          "c",
+          1
+        ],
+        [
+          "Deep Punian",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-3249",
+      "date": "2026-08-08",
+      "series": "2026 MTCA Spring League",
+      "seriesId": "legacy-87",
+      "opponent": "MTCA Dark Knights",
+      "ground": "Hansen Park",
+      "result": "MTCA Dark Knights won by 7 Wickets",
+      "forfeit": false,
+      "outcome": "L",
+      "tossWonByUs": true,
+      "tossDecision": "bat",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "MTCA RDX",
+          "runs": 78,
+          "wkts": 6,
+          "overs": "20"
+        },
+        {
+          "team": "MTCA Dark Knights",
+          "runs": 81,
+          "wkts": 3,
+          "overs": "15.3"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Sukhman Singh",
+          "r": 1,
+          "b": 7,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ct"
+        },
+        {
+          "name": "Deep Punian",
+          "r": 9,
+          "b": 8,
+          "f": 2,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ct"
+        },
+        {
+          "name": "Chandru S",
+          "r": 12,
+          "b": 18,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ct"
+        },
+        {
+          "name": "Preet Multani",
+          "r": 1,
+          "b": 4,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "b"
+        },
+        {
+          "name": "Yugandhar Dama",
+          "r": 3,
+          "b": 20,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "ct"
+        },
+        {
+          "name": "Sid Annapragada",
+          "r": 16,
+          "b": 29,
+          "f": 1,
+          "s": 0,
+          "out": false,
+          "pos": 6
+        },
+        {
+          "name": "Sandeep Chahal",
+          "r": 7,
+          "b": 16,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 7
+        },
+        {
+          "name": "MONTY SAINI",
+          "r": 5,
+          "b": 4,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 8,
+          "how": "b"
+        },
+        {
+          "name": "Praveen Nagarajan",
+          "r": 7,
+          "b": 8,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 9
+        },
+        {
+          "name": "Hari Krishnan S",
+          "r": 5,
+          "b": 6,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 10
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Rashid Stanak",
+          "balls": 6,
+          "r": 8,
+          "w": 0,
+          "dots": 1,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Praveen Nagarajan",
+          "balls": 18,
+          "r": 14,
+          "w": 0,
+          "dots": 9,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Chandru S",
+          "balls": 18,
+          "r": 21,
+          "w": 2,
+          "dots": 8,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Sukhman Singh",
+          "balls": 21,
+          "r": 15,
+          "w": 0,
+          "dots": 12,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Sid Annapragada",
+          "balls": 12,
+          "r": 9,
+          "w": 0,
+          "dots": 7,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Sandeep Chahal",
+          "balls": 6,
+          "r": 10,
+          "w": 0,
+          "dots": 2,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Pradeep Kola",
+          "balls": 12,
+          "r": 4,
+          "w": 1,
+          "dots": 8,
+          "wd": 0,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Pradeep Kola",
+          "k",
+          1
+        ],
+        [
+          "Sukhman Singh",
+          "c",
+          1
+        ],
+        [
+          "MONTY SAINI",
+          "k",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-3237",
+      "date": "2026-08-02",
+      "series": "2026 MTCA Spring League",
+      "seriesId": "legacy-87",
+      "opponent": "MTCA Blazers",
+      "ground": "Altamont Park - BaseBall",
+      "result": "",
+      "forfeit": true,
+      "outcome": "NR",
+      "tossWonByUs": null,
+      "tossDecision": null,
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "MTCA Blazers",
+          "runs": 80,
+          "wkts": 10,
+          "overs": "20"
+        },
+        {
+          "team": "MTCA RDX",
+          "runs": 70,
+          "wkts": 10,
+          "overs": "20"
+        }
+      ],
+      "batting": [],
+      "bowling": [],
+      "fielding": []
+    },
+    {
+      "id": "legacy-3187",
+      "date": "2026-06-28",
+      "series": "2026 MTCA Spring League",
+      "seriesId": "legacy-87",
+      "opponent": "MTCA Risers",
+      "ground": "Cordes Park",
+      "result": "MTCA Risers won by 2 Wickets",
+      "forfeit": false,
+      "outcome": "L",
+      "tossWonByUs": true,
+      "tossDecision": "bat",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "MTCA RDX",
+          "runs": 92,
+          "wkts": 10,
+          "overs": "18.5"
+        },
+        {
+          "team": "MTCA Risers",
+          "runs": 93,
+          "wkts": 8,
+          "overs": "16.5"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Simarjit Singh",
+          "r": 21,
+          "b": 12,
+          "f": 2,
+          "s": 2,
+          "out": true,
+          "pos": 1,
+          "how": "ro"
+        },
+        {
+          "name": "Anbarasan Elango",
+          "r": 12,
+          "b": 31,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ct"
+        },
+        {
+          "name": "Yugandhar Dama",
+          "r": 2,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ctw"
+        },
+        {
+          "name": "Sid Annapragada",
+          "r": 7,
+          "b": 13,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ct"
+        },
+        {
+          "name": "Harman Singh",
+          "r": 8,
+          "b": 6,
+          "f": 0,
+          "s": 1,
+          "out": true,
+          "pos": 5,
+          "how": "ctw"
+        },
+        {
+          "name": "Preet Multani",
+          "r": 5,
+          "b": 9,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "b"
+        },
+        {
+          "name": "Maninder Singh",
+          "r": 0,
+          "b": 0,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "ro"
+        },
+        {
+          "name": "Rashid Stanak",
+          "r": 5,
+          "b": 13,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 8,
+          "how": "ct"
+        },
+        {
+          "name": "Hari Krishnan S",
+          "r": 10,
+          "b": 18,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 9,
+          "how": "ct"
+        },
+        {
+          "name": "Deep Punian",
+          "r": 6,
+          "b": 11,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 10,
+          "how": "ct"
+        },
+        {
+          "name": "Praveen Nagarajan",
+          "r": 1,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 11
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Deep Punian",
+          "balls": 18,
+          "r": 30,
+          "w": 1,
+          "dots": 8,
+          "wd": 0,
+          "nb": 3
+        },
+        {
+          "name": "Maninder Singh",
+          "balls": 18,
+          "r": 10,
+          "w": 0,
+          "dots": 9,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Praveen Nagarajan",
+          "balls": 23,
+          "r": 14,
+          "w": 1,
+          "dots": 15,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Harman Singh",
+          "balls": 18,
+          "r": 19,
+          "w": 2,
+          "dots": 11,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Rashid Stanak",
+          "balls": 12,
+          "r": 6,
+          "w": 2,
+          "dots": 8,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Sid Annapragada",
+          "balls": 12,
+          "r": 14,
+          "w": 1,
+          "dots": 5,
+          "wd": 1,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Preet Multani",
+          "c",
+          1
+        ],
+        [
+          "Simarjit Singh",
+          "k",
+          2
+        ],
+        [
+          "Maninder Singh",
+          "c",
+          1
+        ],
+        [
+          "Praveen Nagarajan",
+          "r",
+          1
+        ],
+        [
+          "Yugandhar Dama",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-3153",
+      "date": "2026-06-20",
+      "series": "2026 MTCA Spring League",
+      "seriesId": "legacy-87",
+      "opponent": "MTCA Royal Kings",
+      "ground": "Hansen School - BaseBall 2",
+      "result": "MTCA Royal Kings won by 7 Wickets",
+      "forfeit": false,
+      "outcome": "L",
+      "tossWonByUs": true,
+      "tossDecision": "bat",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "MTCA RDX",
+          "runs": 52,
+          "wkts": 10,
+          "overs": "15.2"
+        },
+        {
+          "team": "MTCA Royal Kings",
+          "runs": 53,
+          "wkts": 3,
+          "overs": "6"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Simarjit Singh",
+          "r": 5,
+          "b": 18,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ct"
+        },
+        {
+          "name": "SriRam Vasala",
+          "r": 2,
+          "b": 3,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ct"
+        },
+        {
+          "name": "Yugandhar Dama",
+          "r": 6,
+          "b": 17,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "b"
+        },
+        {
+          "name": "Deep Punian",
+          "r": 3,
+          "b": 9,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ctw"
+        },
+        {
+          "name": "Chandru S",
+          "r": 10,
+          "b": 17,
+          "f": 0,
+          "s": 1,
+          "out": true,
+          "pos": 5,
+          "how": "ctw"
+        },
+        {
+          "name": "Anbarasan Elango",
+          "r": 6,
+          "b": 12,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "ro"
+        },
+        {
+          "name": "Sid Annapragada",
+          "r": 0,
+          "b": 3,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "ct"
+        },
+        {
+          "name": "Sukhman Singh",
+          "r": 3,
+          "b": 5,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 8,
+          "how": "ctw"
+        },
+        {
+          "name": "Sandeep Chahal",
+          "r": 0,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 9,
+          "how": "ct"
+        },
+        {
+          "name": "MONTY SAINI",
+          "r": 2,
+          "b": 3,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 10
+        },
+        {
+          "name": "Krishna Murakonda",
+          "r": 1,
+          "b": 4,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 11,
+          "how": "b"
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Chandru S",
+          "balls": 6,
+          "r": 9,
+          "w": 0,
+          "dots": 2,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Sukhman Singh",
+          "balls": 12,
+          "r": 11,
+          "w": 0,
+          "dots": 8,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Deep Punian",
+          "balls": 12,
+          "r": 21,
+          "w": 2,
+          "dots": 6,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Yugandhar Dama",
+          "balls": 6,
+          "r": 10,
+          "w": 1,
+          "dots": 3,
+          "wd": 0,
+          "nb": 1
+        }
+      ],
+      "fielding": [
+        [
+          "Sid Annapragada",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-3079",
+      "date": "2026-06-14",
+      "series": "2026 MTCA Spring League",
+      "seriesId": "legacy-87",
+      "opponent": "MTCA Singhz",
+      "ground": "Altamont Park - BaseBall",
+      "result": "Abandoned. Winner: MTCA RDX",
+      "forfeit": true,
+      "outcome": "W",
+      "tossWonByUs": null,
+      "tossDecision": null,
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "MTCA Singhz",
+          "runs": 0,
+          "wkts": 0,
+          "overs": "0"
+        },
+        {
+          "team": "MTCA RDX",
+          "runs": 0,
+          "wkts": 0,
+          "overs": "0"
+        }
+      ],
+      "batting": [],
+      "bowling": [],
+      "fielding": []
+    },
+    {
+      "id": "legacy-3128",
+      "date": "2026-06-06",
+      "series": "2026 MTCA Spring League",
+      "seriesId": "legacy-87",
+      "opponent": "MTCA Elite XI",
+      "ground": "Hansen School - BaseBall 2",
+      "result": "MTCA Elite XI won by 39 Runs",
+      "forfeit": false,
+      "outcome": "L",
+      "tossWonByUs": false,
+      "tossDecision": "bat",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "MTCA Elite XI",
+          "runs": 101,
+          "wkts": 8,
+          "overs": "20"
+        },
+        {
+          "team": "MTCA RDX",
+          "runs": 62,
+          "wkts": 7,
+          "overs": "20"
+        }
+      ],
+      "batting": [
+        {
+          "name": "MONTY SAINI",
+          "r": 11,
+          "b": 38,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ct"
+        },
+        {
+          "name": "Sukhman Singh",
+          "r": 9,
+          "b": 19,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "b"
+        },
+        {
+          "name": "Yugandhar Dama",
+          "r": 1,
+          "b": 4,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "b"
+        },
+        {
+          "name": "Chandru S",
+          "r": 11,
+          "b": 12,
+          "f": 0,
+          "s": 1,
+          "out": true,
+          "pos": 4,
+          "how": "ctw"
+        },
+        {
+          "name": "Sandeep Chahal",
+          "r": 6,
+          "b": 8,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "ctw"
+        },
+        {
+          "name": "Praveen Nagarajan",
+          "r": 1,
+          "b": 8,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "ct"
+        },
+        {
+          "name": "Maninder Singh",
+          "r": 0,
+          "b": 11,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "ctw"
+        },
+        {
+          "name": "J Gill",
+          "r": 6,
+          "b": 14,
+          "f": 1,
+          "s": 0,
+          "out": false,
+          "pos": 8
+        },
+        {
+          "name": "Hari Krishnan S",
+          "r": 1,
+          "b": 6,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 9
+        },
+        {
+          "name": "Pradeep Kola",
+          "r": 1,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 10
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Praveen Nagarajan",
+          "balls": 24,
+          "r": 19,
+          "w": 3,
+          "dots": 13,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Chandru S",
+          "balls": 18,
+          "r": 30,
+          "w": 0,
+          "dots": 8,
+          "wd": 4,
+          "nb": 0
+        },
+        {
+          "name": "Sukhman Singh",
+          "balls": 24,
+          "r": 11,
+          "w": 2,
+          "dots": 19,
+          "wd": 4,
+          "nb": 0
+        },
+        {
+          "name": "Maninder Singh",
+          "balls": 24,
+          "r": 14,
+          "w": 1,
+          "dots": 15,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "J Gill",
+          "balls": 18,
+          "r": 16,
+          "w": 1,
+          "dots": 8,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Sandeep Chahal",
+          "balls": 12,
+          "r": 6,
+          "w": 0,
+          "dots": 7,
+          "wd": 0,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Sandeep Chahal",
+          "c",
+          2
+        ],
+        [
+          "Chandru S",
+          "c",
+          1
+        ],
+        [
+          "Pradeep Kola",
+          "k",
+          1
+        ],
+        [
+          "Pradeep Kola",
+          "r",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-3115",
+      "date": "2026-05-31",
+      "series": "2026 MTCA Spring League",
+      "seriesId": "legacy-87",
+      "opponent": "MTCA Spartans",
+      "ground": "Altamont Park - BaseBall",
+      "result": "MTCA Spartans won by 63 Runs",
+      "forfeit": false,
+      "outcome": "L",
+      "tossWonByUs": true,
+      "tossDecision": "bowl",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "MTCA Spartans",
+          "runs": 101,
+          "wkts": 7,
+          "overs": "20"
+        },
+        {
+          "team": "MTCA RDX",
+          "runs": 38,
+          "wkts": 10,
+          "overs": "15.4"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Simarjit Singh",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ctw"
+        },
+        {
+          "name": "Dharminder Singh",
+          "r": 0,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ct"
+        },
+        {
+          "name": "Deep Punian",
+          "r": 0,
+          "b": 5,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ct"
+        },
+        {
+          "name": "Preet Multani",
+          "r": 0,
+          "b": 6,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ctw"
+        },
+        {
+          "name": "Anbarasan Elango",
+          "r": 5,
+          "b": 15,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "b"
+        },
+        {
+          "name": "Chandru S",
+          "r": 2,
+          "b": 5,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "b"
+        },
+        {
+          "name": "Sid Annapragada",
+          "r": 3,
+          "b": 9,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "ct"
+        },
+        {
+          "name": "Pardeep Kumar",
+          "r": 0,
+          "b": 6,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 8,
+          "how": "ct"
+        },
+        {
+          "name": "Hari Krishnan S",
+          "r": 9,
+          "b": 30,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 9,
+          "how": "ro"
+        },
+        {
+          "name": "J Gill",
+          "r": 5,
+          "b": 12,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 10
+        },
+        {
+          "name": "Praveen Nagarajan",
+          "r": 0,
+          "b": 4,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 11,
+          "how": "b"
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Chandru S",
+          "balls": 18,
+          "r": 8,
+          "w": 1,
+          "dots": 14,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Praveen Nagarajan",
+          "balls": 24,
+          "r": 24,
+          "w": 3,
+          "dots": 11,
+          "wd": 0,
+          "nb": 2
+        },
+        {
+          "name": "Dharminder Singh",
+          "balls": 18,
+          "r": 13,
+          "w": 1,
+          "dots": 11,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Deep Punian",
+          "balls": 24,
+          "r": 20,
+          "w": 0,
+          "dots": 14,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Pardeep Kumar",
+          "balls": 24,
+          "r": 17,
+          "w": 2,
+          "dots": 10,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Sid Annapragada",
+          "balls": 6,
+          "r": 16,
+          "w": 0,
+          "dots": 2,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "J Gill",
+          "balls": 6,
+          "r": 3,
+          "w": 0,
+          "dots": 3,
+          "wd": 0,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Praveen Nagarajan",
+          "c",
+          1
+        ],
+        [
+          "Dharminder Singh",
+          "c",
+          1
+        ],
+        [
+          "Preet Multani",
+          "c",
+          1
+        ],
+        [
+          "Chandru S",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-3086",
+      "date": "2026-05-16",
+      "series": "2026 MTCA Spring League",
+      "seriesId": "legacy-87",
+      "opponent": "MTCA Blasters",
+      "ground": "E-Costa School Ground",
+      "result": "MTCA RDX won by 6 Wickets",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": true,
+      "tossDecision": "bowl",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "MTCA Blasters",
+          "runs": 128,
+          "wkts": 7,
+          "overs": "20"
+        },
+        {
+          "team": "MTCA RDX",
+          "runs": 129,
+          "wkts": 4,
+          "overs": "19"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Deep Punian",
+          "r": 90,
+          "b": 57,
+          "f": 6,
+          "s": 8,
+          "out": true,
+          "pos": 1,
+          "how": "ct"
+        },
+        {
+          "name": "Sukhman Singh",
+          "r": 12,
+          "b": 25,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ct"
+        },
+        {
+          "name": "Yugandhar Dama",
+          "r": 9,
+          "b": 19,
+          "f": 1,
+          "s": 0,
+          "out": false,
+          "pos": 3
+        },
+        {
+          "name": "MONTY SAINI",
+          "r": 7,
+          "b": 4,
+          "f": 0,
+          "s": 1,
+          "out": true,
+          "pos": 4,
+          "how": "ct"
+        },
+        {
+          "name": "Nav Baath",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "ct"
+        },
+        {
+          "name": "Hari Krishnan S",
+          "r": 5,
+          "b": 9,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 6
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Nav Baath",
+          "balls": 24,
+          "r": 19,
+          "w": 2,
+          "dots": 13,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Praveen Nagarajan",
+          "balls": 18,
+          "r": 23,
+          "w": 1,
+          "dots": 9,
+          "wd": 4,
+          "nb": 0
+        },
+        {
+          "name": "Chandru S",
+          "balls": 6,
+          "r": 10,
+          "w": 1,
+          "dots": 4,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Mahendra Neel",
+          "balls": 18,
+          "r": 24,
+          "w": 1,
+          "dots": 8,
+          "wd": 5,
+          "nb": 0
+        },
+        {
+          "name": "Deep Punian",
+          "balls": 18,
+          "r": 28,
+          "w": 0,
+          "dots": 8,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "J Gill",
+          "balls": 24,
+          "r": 14,
+          "w": 1,
+          "dots": 15,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Sukhman Singh",
+          "balls": 12,
+          "r": 10,
+          "w": 1,
+          "dots": 8,
+          "wd": 2,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Sukhman Singh",
+          "c",
+          1
+        ],
+        [
+          "Nav Baath",
+          "c",
+          1
+        ],
+        [
+          "Hari Krishnan S",
+          "c",
+          1
+        ],
+        [
+          "MONTY SAINI",
+          "c",
+          1
+        ],
+        [
+          "Chandru S",
+          "k",
+          2
+        ]
+      ]
+    },
+    {
+      "id": "legacy-3075",
+      "date": "2026-05-10",
+      "series": "2026 MTCA Spring League",
+      "seriesId": "legacy-87",
+      "opponent": "MTCA Azmari",
+      "ground": "E-Costa School Ground",
+      "result": "MTCA Azmari won by 44 Runs",
+      "forfeit": false,
+      "outcome": "L",
+      "tossWonByUs": false,
+      "tossDecision": "bat",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "MTCA Azmari",
+          "runs": 121,
+          "wkts": 4,
+          "overs": "19"
+        },
+        {
+          "team": "MTCA RDX",
+          "runs": 77,
+          "wkts": 10,
+          "overs": "15.4"
+        }
+      ],
+      "batting": [
+        {
+          "name": "SriRam Vasala",
+          "r": 9,
+          "b": 12,
+          "f": 0,
+          "s": 1,
+          "out": true,
+          "pos": 1,
+          "how": "ct"
+        },
+        {
+          "name": "Sid Annapragada",
+          "r": 7,
+          "b": 17,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ro"
+        },
+        {
+          "name": "Yugandhar Dama",
+          "r": 7,
+          "b": 6,
+          "f": 0,
+          "s": 1,
+          "out": true,
+          "pos": 3,
+          "how": "b"
+        },
+        {
+          "name": "Deep Punian",
+          "r": 5,
+          "b": 8,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ctw"
+        },
+        {
+          "name": "Chandru S",
+          "r": 6,
+          "b": 5,
+          "f": 0,
+          "s": 1,
+          "out": true,
+          "pos": 5,
+          "how": "ctw"
+        },
+        {
+          "name": "Anbarasan Elango",
+          "r": 1,
+          "b": 7,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "ctw"
+        },
+        {
+          "name": "Pardeep Kumar",
+          "r": 5,
+          "b": 12,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "ro"
+        },
+        {
+          "name": "Krishna Murakonda",
+          "r": 10,
+          "b": 11,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 8,
+          "how": "b"
+        },
+        {
+          "name": "Hari Prasad Poojary",
+          "r": 5,
+          "b": 11,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 9,
+          "how": "ctw"
+        },
+        {
+          "name": "Hari Krishnan S",
+          "r": 1,
+          "b": 5,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 10,
+          "how": "ro"
+        },
+        {
+          "name": "Praveen Nagarajan",
+          "r": 1,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 11
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Chandru S",
+          "balls": 18,
+          "r": 21,
+          "w": 0,
+          "dots": 11,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Praveen Nagarajan",
+          "balls": 24,
+          "r": 19,
+          "w": 2,
+          "dots": 16,
+          "wd": 5,
+          "nb": 0
+        },
+        {
+          "name": "Deep Punian",
+          "balls": 18,
+          "r": 29,
+          "w": 0,
+          "dots": 7,
+          "wd": 0,
+          "nb": 3
+        },
+        {
+          "name": "Krishna Murakonda",
+          "balls": 24,
+          "r": 20,
+          "w": 2,
+          "dots": 17,
+          "wd": 8,
+          "nb": 0
+        },
+        {
+          "name": "Pardeep Kumar",
+          "balls": 24,
+          "r": 18,
+          "w": 0,
+          "dots": 15,
+          "wd": 4,
+          "nb": 0
+        },
+        {
+          "name": "Hari Prasad Poojary",
+          "balls": 6,
+          "r": 13,
+          "w": 0,
+          "dots": 3,
+          "wd": 0,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Deep Punian",
+          "c",
+          1
+        ],
+        [
+          "Pardeep Kumar",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-3016",
+      "date": "2026-04-26",
+      "series": "2026 MTCA Spring League",
+      "seriesId": "legacy-87",
+      "opponent": "MTCA Legends",
+      "ground": "Altamont Park - BaseBall",
+      "result": "",
+      "forfeit": true,
+      "outcome": "NR",
+      "tossWonByUs": null,
+      "tossDecision": null,
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "MTCA RDX",
+          "runs": 80,
+          "wkts": 10,
+          "overs": "20"
+        },
+        {
+          "team": "MTCA Legends",
+          "runs": 70,
+          "wkts": 10,
+          "overs": "20"
+        }
+      ],
+      "batting": [],
+      "bowling": [],
+      "fielding": []
+    }
+  ],
+  "unresolvedFielders": 1
+}
