@@ -1,0 +1,27 @@
+name: Scan request
+description: Add a CricClubs league or scan one team. Actions validates the input and publishes JSON for the site.
+title: "Scan request: "
+labels: ["scan-request"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        The website opens this form with the league and team filled in. Submitting it labels the issue `scan-request`. A workflow then checks the league on CricClubs, scans the team (current season: new matches only; last season: once), commits the JSON, comments a link to the site, and closes the issue.
+
+        Leave team blank to cache the league and its team list without scanning every team. One team per issue.
+  - type: input
+    id: league
+    attributes:
+      label: League
+      description: CricClubs league code, or a cricclubs.com URL.
+      placeholder: DublinandDanvilleCricketLeague
+    validations:
+      required: true
+  - type: input
+    id: team
+    attributes:
+      label: Team
+      description: Team name as it appears on CricClubs. Leave blank to only add the league.
+      placeholder: Bay Area Falcons
+    validations:
+      required: false

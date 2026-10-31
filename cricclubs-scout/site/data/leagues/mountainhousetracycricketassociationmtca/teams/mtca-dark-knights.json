@@ -1,0 +1,3078 @@
+{
+  "team": "MTCA Dark Knights",
+  "logo": "https://media.cricclubs.com/documentsRep/teamLogos/74a3e251-505c-4752-95af-38e61630c314.jpg",
+  "logos": {
+    "MTCA Azmari": "https://media.cricclubs.com/documentsRep/teamLogos/f9517260-8b82-480d-b12a-bf8582469783.jpg",
+    "MTCA SNIPERS": "https://media.cricclubs.com/documentsRep/teamLogos/e218535c-be05-4422-a033-14965ca3c2ed.jpg",
+    "MTCA Blasters": "https://media.cricclubs.com/documentsRep/teamLogos/b29f2fdc-fb29-4e1c-b5fa-e32895746e49.jpg",
+    "MTCA Khalsa Warriors": "https://media.cricclubs.com/documentsRep/teamLogos/768d4d96-1476-4703-a175-28c3b331e121.jpg",
+    "MTCA Game Strikers": "https://media.cricclubs.com/documentsRep/teamLogos/7d5c7d6d-0c82-4047-a5f3-67bfcef9dfdf.jpg",
+    "MTCA Royal Kings": "https://media.cricclubs.com/documentsRep/teamLogos/7bbfe602-f45b-45f8-b8f8-d07da7613246.jpeg",
+    "MTCA Blazers": "https://media.cricclubs.com/documentsRep/teamLogos/ea9efbed-1c79-4a4b-ae39-9366c4c7ec8f.jpg",
+    "MTCA Spartans": "https://media.cricclubs.com/documentsRep/teamLogos/26b84237-6348-45d5-ba36-9c1b1313c7c3.jpg",
+    "MTCA Hurricanes": "https://media.cricclubs.com/documentsRep/teamLogos/923e13da-3de0-4a4c-b4c3-6bbe3b3a2a30.jpg",
+    "MTCA Risers": "https://media.cricclubs.com/documentsRep/teamLogos/dcda0544-5c47-470c-81e4-5db09efaa4d4.jpg",
+    "MTCA Badgers": "https://media.cricclubs.com/documentsRep/teamLogos/97fe019d-0c36-4b60-afea-038bdd369230.jpg",
+    "MTCA Vintage Warriors": "https://media.cricclubs.com/documentsRep/teamLogos/efb0951f-b9ab-43e7-86aa-eeddaafe2051.jpg",
+    "MTCA RDX": "https://media.cricclubs.com/documentsRep/teamLogos/f61bd45c-8554-44e0-a716-99d64d3268ec.jpg",
+    "MTCA Dark Knights": "https://media.cricclubs.com/documentsRep/teamLogos/74a3e251-505c-4752-95af-38e61630c314.jpg",
+    "MTCA Sundance Warriors": "https://media.cricclubs.com/documentsRep/teamLogos/ee2bde70-2436-4d71-84b7-648eda8d7ce9.jpg",
+    "MTCA Mumbai Indians": "https://media.cricclubs.com/documentsRep/teamLogos/dbd04d47-f111-4f3f-928e-5c67e1964f72.jpg",
+    "MTCA Tri-Valley Titans": "https://media.cricclubs.com/documentsRep/teamLogos/a3ad8d13-c01a-451a-8c4a-6d31c8124bce.jpg",
+    "MTCA Legends": "https://media.cricclubs.com/documentsRep/teamLogos/ee1e598a-3459-4571-869e-2d180a80f519.jpg",
+    "MTCA Oakwood Mavericks": "https://media.cricclubs.com/documentsRep/teamLogos/f9f79711-1f39-4ab0-8a83-b5ed091c91c5.jpg",
+    "MTCA Legacy Lions": "https://media.cricclubs.com/documentsRep/teamLogos/05ca2286-3065-449f-b6cb-483765b4761f.jpg",
+    "MTCA Ellis Strikers": "https://media.cricclubs.com/documentsRep/teamLogos/f23b7d26-276f-4023-a6ef-1a29376a57da.jpg",
+    "MTCA Raging Bulls": "https://media.cricclubs.com/documentsRep/teamLogos/f23053f1-697f-4a4d-a9df-0dc3346c7880.jpg",
+    "MTCA All-Rounders": "https://media.cricclubs.com/documentsRep/teamLogos/25825f86-da6d-4fd1-ad94-e1bd565b2f3a.jpg",
+    "MTCA Phantoms": "https://media.cricclubs.com/documentsRep/teamLogos/f58550a4-b430-4872-8656-19916e2ef835.jpg",
+    "MTCA Smashers XI": "https://media.cricclubs.com/documentsRep/teamLogos/43c2a957-4f4d-49d7-9301-ae372cf24372.jpg",
+    "MTCA Hillview Eagles": "https://media.cricclubs.com/documentsRep/teamLogos/95bc83fa-551e-4cb3-81d9-14ba1ae018b0.jpg",
+    "MTCA Centurions": "https://media.cricclubs.com/documentsRep/teamLogos/a26a2c7b-3d2a-498a-8794-a735cb75ea6b.jpg",
+    "MTCA Sunrisers Manteca": "https://media.cricclubs.com/documentsRep/teamLogos/e609a03e-3f6d-4f50-93fe-43e59de1f8e7.jpg",
+    "MTCA Avatars": "https://media.cricclubs.com/documentsRep/teamLogos/cd82cf0c-8afa-4b59-a6d8-a2cbd87673af.jpeg",
+    "MTCA Power Stars": "https://media.cricclubs.com/documentsRep/teamLogos/25fb2f67-5f9b-4455-98d3-1411f43e9467.jpg",
+    "MTCA Asuras": "https://media.cricclubs.com/documentsRep/teamLogos/06657bd0-899c-49e8-b048-1abffdb39940.jpg",
+    "MTCA California Eagles": "https://media.cricclubs.com/documentsRep/teamLogos/119e8434-4687-43bc-97fe-83345e540454.jpg",
+    "MTCA Mountaineers": "https://media.cricclubs.com/documentsRep/teamLogos/68f9fcc5-67e8-462d-9199-20e9fc901ceb.jpg",
+    "MTCA Jolly-lo-Gymkhana": "https://media.cricclubs.com/documentsRep/teamLogos/63772208-c3ca-4281-a908-6e6a9c554d39.jpg",
+    "MTCA ICT": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+    "MTCA Dhurandhars": "https://media.cricclubs.com/documentsRep/teamLogos/457009a4-15de-4b7d-9138-aa1a62b169ca.jpg",
+    "MTCA Sky Risers": "https://media.cricclubs.com/documentsRep/teamLogos/4375726c-a0bf-4382-96d4-adf8cd6f4b29.jpg",
+    "MTCA Stanford Islanders": "https://media.cricclubs.com/documentsRep/teamLogos/08dcbe49-210f-4bf0-af03-517850ee2241.jpg",
+    "MTCA Sunheaven Leopards": "https://media.cricclubs.com/documentsRep/teamLogos/b9633797-ec72-4a0b-8e9c-98edac7a0d8b.jpg",
+    "MTCA Hawks": "https://media.cricclubs.com/documentsRep/teamLogos/5403f663-6bc9-40f0-a400-9d88a3489509.jpg",
+    "MTCA Golden Eagles": "https://media.cricclubs.com/documentsRep/teamLogos/45bf856d-80ca-4cbc-b519-9c70388a56c5.jpg",
+    "MTCA StanTerra Thunders": "https://media.cricclubs.com/documentsRep/teamLogos/d24f29a1-b2bf-4e09-95f2-29eb1dc06aaa.jpg",
+    "MTCA DevAsuras": "https://media.cricclubs.com/documentsRep/teamLogos/c87567e1-76e0-4527-8fa1-260c311d7188.jpg",
+    "MTCA Sapphires": "https://media.cricclubs.com/documentsRep/teamLogos/f99417ec-61fe-4aed-8734-368e68598b87.jpg",
+    "MTCA Manteca Rising Stars": "https://media.cricclubs.com/documentsRep/teamLogos/6cb01ac3-3fc9-42fa-87df-fecc3628fd90.jpg",
+    "MTCA Chargers": "https://media.cricclubs.com/documentsRep/teamLogos/92e14033-e281-4635-a3b3-967c7c7b8ebe.jpg",
+    "MTCA Brentwood Bulls": "https://media.cricclubs.com/documentsRep/teamLogos/36b3b9bd-33f1-4447-8e5e-82bbf29fd640.jpg",
+    "MTCA Elite XI": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team3.jpg",
+    "MTCA Singhz": "https://media.cricclubs.com/documentsRep/teamLogos/0b8af999-7bff-4d29-b592-85d81dd0f40f.jpg",
+    "MTCA RICC": "https://media.cricclubs.com/documentsRep/teamLogos/58341203-2511-44d0-ad32-bb5c84b19877.jpg",
+    "MTCA River Hawks": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+    "MTCA California Super Kings": "https://media.cricclubs.com/documentsRep/teamLogos/ba1e97a6-f18c-42da-9440-b79cd0bc00f2.jpg",
+    "MTCA Falcons": "https://media.cricclubs.com/documentsRep/teamLogos/bf07340b-37cb-4377-863f-8690d0c7a0cd.jpg",
+    "MTCA Valley Risers": "https://media.cricclubs.com/documentsRep/teamLogos/854ef9f3-24d7-411f-b3f5-4ce16b88f0bc.jpg",
+    "MTCA RICM": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg"
+  },
+  "league": {
+    "code": "MountainHouseTracyCricketAssociationMTCA",
+    "name": "MTCA"
+  },
+  "seasons": {
+    "current": {
+      "id": "legacy-93",
+      "name": "2026 MTCA Fall League",
+      "inSeason": true,
+      "scrapedAt": "2026-10-31T15:27:18.858Z"
+    },
+    "last": {
+      "id": "legacy-87",
+      "name": "2026 MTCA Spring League",
+      "inSeason": true,
+      "scrapedAt": "2026-10-31T15:27:57.768Z"
+    }
+  },
+  "matches": [
+    {
+      "id": "legacy-3466",
+      "date": "2026-10-24",
+      "series": "2026 MTCA Fall League",
+      "seriesId": "legacy-93",
+      "opponent": "MTCA Sundance Warriors",
+      "ground": "Hansen Park",
+      "result": "No Result",
+      "forfeit": true,
+      "outcome": "NR",
+      "tossWonByUs": null,
+      "tossDecision": null,
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "MTCA Dark Knights",
+          "runs": 0,
+          "wkts": 0,
+          "overs": "0"
+        },
+        {
+          "team": "MTCA Sundance Warriors",
+          "runs": 0,
+          "wkts": 0,
+          "overs": "0"
+        }
+      ],
+      "batting": [],
+      "bowling": [],
+      "fielding": []
+    },
+    {
+      "id": "legacy-3451",
+      "date": "2026-10-18",
+      "series": "2026 MTCA Fall League",
+      "seriesId": "legacy-93",
+      "opponent": "MTCA Phantoms",
+      "ground": "Altamont School ground",
+      "result": "MTCA Dark Knights won by 19 Runs",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": false,
+      "tossDecision": "bowl",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "MTCA Dark Knights",
+          "runs": 89,
+          "wkts": 9,
+          "overs": "20"
+        },
+        {
+          "team": "MTCA Phantoms",
+          "runs": 70,
+          "wkts": 10,
+          "overs": "20"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Adya Rout",
+          "r": 5,
+          "b": 7,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ct"
+        },
+        {
+          "name": "Muthu Chakkaravarthy",
+          "r": 20,
+          "b": 28,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ctw"
+        },
+        {
+          "name": "Bharath C",
+          "r": 18,
+          "b": 25,
+          "f": 0,
+          "s": 1,
+          "out": true,
+          "pos": 3,
+          "how": "ct"
+        },
+        {
+          "name": "Sri Balaji Nedunchezhian",
+          "r": 5,
+          "b": 14,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ctw"
+        },
+        {
+          "name": "Amit Agarwal",
+          "r": 2,
+          "b": 11,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "ct"
+        },
+        {
+          "name": "Sivakumar Muthuraj",
+          "r": 6,
+          "b": 10,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "ctw"
+        },
+        {
+          "name": "Avijit Chark",
+          "r": 5,
+          "b": 7,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "ct"
+        },
+        {
+          "name": "Prabhu Ravindran",
+          "r": 5,
+          "b": 7,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 8,
+          "how": "ro"
+        },
+        {
+          "name": "Sudheer Varma Rudraraju",
+          "r": 3,
+          "b": 6,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 9,
+          "how": "ro"
+        },
+        {
+          "name": "Ranjitkumar Raju",
+          "r": 7,
+          "b": 3,
+          "f": 0,
+          "s": 1,
+          "out": false,
+          "pos": 10
+        },
+        {
+          "name": "Prakash Dakshinamurthy",
+          "r": 2,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 11
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Samy Dharmalingam",
+          "balls": 24,
+          "r": 14,
+          "w": 2,
+          "dots": 15,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Sivakumar Muthuraj",
+          "balls": 24,
+          "r": 17,
+          "w": 4,
+          "dots": 14,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Avijit Chark",
+          "balls": 18,
+          "r": 11,
+          "w": 0,
+          "dots": 10,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Adya Rout",
+          "balls": 12,
+          "r": 6,
+          "w": 0,
+          "dots": 6,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Bharath C",
+          "balls": 24,
+          "r": 14,
+          "w": 0,
+          "dots": 13,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Prakash Dakshinamurthy",
+          "balls": 18,
+          "r": 8,
+          "w": 3,
+          "dots": 10,
+          "wd": 0,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Bharath C",
+          "c",
+          1
+        ],
+        [
+          "Sri Balaji Nedunchezhian",
+          "c",
+          1
+        ],
+        [
+          "Prabhu Ravindran",
+          "r",
+          1
+        ],
+        [
+          "Prakash Dakshinamurthy",
+          "c",
+          1
+        ],
+        [
+          "Avijit Chark",
+          "c",
+          1
+        ],
+        [
+          "Sri Balaji Nedunchezhian",
+          "k",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-3400",
+      "date": "2026-10-10",
+      "series": "2026 MTCA Fall League",
+      "seriesId": "legacy-93",
+      "opponent": "MTCA Mumbai Indians",
+      "ground": "Hansen School - BaseBall 2",
+      "result": "MTCA Dark Knights won by 19 Runs",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": false,
+      "tossDecision": "bowl",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "MTCA Dark Knights",
+          "runs": 75,
+          "wkts": 9,
+          "overs": "20"
+        },
+        {
+          "team": "MTCA Mumbai Indians",
+          "runs": 56,
+          "wkts": 9,
+          "overs": "15.2"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Adya Rout",
+          "r": 7,
+          "b": 17,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ct"
+        },
+        {
+          "name": "Prabhu Ravindran",
+          "r": 2,
+          "b": 14,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "b"
+        },
+        {
+          "name": "Ranjitkumar Raju",
+          "r": 0,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "b"
+        },
+        {
+          "name": "Amit Agarwal",
+          "r": 0,
+          "b": 4,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "st"
+        },
+        {
+          "name": "Sri Balaji Nedunchezhian",
+          "r": 5,
+          "b": 23,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "b"
+        },
+        {
+          "name": "Avijit Chark",
+          "r": 20,
+          "b": 30,
+          "f": 2,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "ctw"
+        },
+        {
+          "name": "Sivakumar Muthuraj",
+          "r": 3,
+          "b": 13,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "ctw"
+        },
+        {
+          "name": "Sagar Bhanderi",
+          "r": 3,
+          "b": 8,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 8,
+          "how": "b"
+        },
+        {
+          "name": "Muthu Chakkaravarthy",
+          "r": 14,
+          "b": 7,
+          "f": 1,
+          "s": 1,
+          "out": false,
+          "pos": 9
+        },
+        {
+          "name": "Sudheer Varma Rudraraju",
+          "r": 6,
+          "b": 3,
+          "f": 0,
+          "s": 1,
+          "out": true,
+          "pos": 10,
+          "how": "st"
+        },
+        {
+          "name": "Samy Dharmalingam",
+          "r": 1,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 11
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Samy Dharmalingam",
+          "balls": 24,
+          "r": 12,
+          "w": 1,
+          "dots": 20,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Sivakumar Muthuraj",
+          "balls": 21,
+          "r": 7,
+          "w": 3,
+          "dots": 17,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Avijit Chark",
+          "balls": 18,
+          "r": 11,
+          "w": 2,
+          "dots": 14,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Sagar Bhanderi",
+          "balls": 12,
+          "r": 3,
+          "w": 1,
+          "dots": 9,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Adya Rout",
+          "balls": 12,
+          "r": 18,
+          "w": 1,
+          "dots": 6,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Prabhu Ravindran",
+          "balls": 6,
+          "r": 4,
+          "w": 0,
+          "dots": 4,
+          "wd": 2,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Sudheer Varma Rudraraju",
+          "c",
+          1
+        ],
+        [
+          "Sivakumar Muthuraj",
+          "c",
+          1
+        ],
+        [
+          "Amit Agarwal",
+          "r",
+          2
+        ],
+        [
+          "Adya Rout",
+          "k",
+          2
+        ],
+        [
+          "Avijit Chark",
+          "c",
+          1
+        ],
+        [
+          "Ranjitkumar Raju",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-3397",
+      "date": "2026-10-04",
+      "series": "2026 MTCA Fall League",
+      "seriesId": "legacy-93",
+      "opponent": "MTCA Ellis Strikers",
+      "ground": "Cordes Park",
+      "result": "MTCA Dark Knights won by 4 Wickets",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": false,
+      "tossDecision": "bat",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "MTCA Ellis Strikers",
+          "runs": 111,
+          "wkts": 6,
+          "overs": "20"
+        },
+        {
+          "team": "MTCA Dark Knights",
+          "runs": 115,
+          "wkts": 6,
+          "overs": "17.3"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Adya Rout",
+          "r": 34,
+          "b": 26,
+          "f": 6,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ct"
+        },
+        {
+          "name": "Prabhu Ravindran",
+          "r": 0,
+          "b": 3,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ct"
+        },
+        {
+          "name": "Amit Agarwal",
+          "r": 21,
+          "b": 39,
+          "f": 1,
+          "s": 1,
+          "out": true,
+          "pos": 3,
+          "how": "ct"
+        },
+        {
+          "name": "Sri Balaji Nedunchezhian",
+          "r": 8,
+          "b": 7,
+          "f": 0,
+          "s": 1,
+          "out": true,
+          "pos": 4,
+          "how": "ct"
+        },
+        {
+          "name": "Avijit Chark",
+          "r": 27,
+          "b": 18,
+          "f": 5,
+          "s": 0,
+          "out": false,
+          "pos": 5
+        },
+        {
+          "name": "Sivakumar Muthuraj",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "ct"
+        },
+        {
+          "name": "Harish Kapri",
+          "r": 2,
+          "b": 6,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "ct"
+        },
+        {
+          "name": "Muthu Chakkaravarthy",
+          "r": 9,
+          "b": 5,
+          "f": 2,
+          "s": 0,
+          "out": false,
+          "pos": 8
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Samy Dharmalingam",
+          "balls": 24,
+          "r": 22,
+          "w": 0,
+          "dots": 15,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "DHEVANKUMAR SERALATHAN",
+          "balls": 24,
+          "r": 17,
+          "w": 1,
+          "dots": 16,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Himateja Gutta",
+          "balls": 6,
+          "r": 7,
+          "w": 0,
+          "dots": 3,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Avijit Chark",
+          "balls": 18,
+          "r": 7,
+          "w": 1,
+          "dots": 12,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Sivakumar Muthuraj",
+          "balls": 18,
+          "r": 34,
+          "w": 1,
+          "dots": 6,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Adya Rout",
+          "balls": 24,
+          "r": 14,
+          "w": 1,
+          "dots": 14,
+          "wd": 4,
+          "nb": 0
+        },
+        {
+          "name": "Prabhu Ravindran",
+          "balls": 6,
+          "r": 10,
+          "w": 0,
+          "dots": 2,
+          "wd": 0,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Muthu Chakkaravarthy",
+          "r",
+          1
+        ],
+        [
+          "Adya Rout",
+          "r",
+          2
+        ],
+        [
+          "Muthu Chakkaravarthy",
+          "c",
+          1
+        ],
+        [
+          "Samy Dharmalingam",
+          "r",
+          1
+        ],
+        [
+          "Sri Balaji Nedunchezhian",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-3348",
+      "date": "2026-09-26",
+      "series": "2026 MTCA Fall League",
+      "seriesId": "legacy-93",
+      "opponent": "MTCA Legacy Lions",
+      "ground": "Altamont Park - BaseBall",
+      "result": "MTCA Dark Knights won by 5 Runs",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": false,
+      "tossDecision": "bowl",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "MTCA Dark Knights",
+          "runs": 92,
+          "wkts": 7,
+          "overs": "20"
+        },
+        {
+          "team": "MTCA Legacy Lions",
+          "runs": 87,
+          "wkts": 10,
+          "overs": "19.2"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Adya Rout",
+          "r": 23,
+          "b": 44,
+          "f": 0,
+          "s": 1,
+          "out": true,
+          "pos": 1,
+          "how": "ctw"
+        },
+        {
+          "name": "Avijit Chark",
+          "r": 2,
+          "b": 5,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ctw"
+        },
+        {
+          "name": "Muthu Chakkaravarthy",
+          "r": 7,
+          "b": 10,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ct"
+        },
+        {
+          "name": "Sri Balaji Nedunchezhian",
+          "r": 1,
+          "b": 5,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ct"
+        },
+        {
+          "name": "Sivakumar Muthuraj",
+          "r": 34,
+          "b": 32,
+          "f": 1,
+          "s": 2,
+          "out": false,
+          "pos": 5
+        },
+        {
+          "name": "Subbu S",
+          "r": 1,
+          "b": 3,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "b"
+        },
+        {
+          "name": "R B Reddy",
+          "r": 7,
+          "b": 10,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "ct"
+        },
+        {
+          "name": "Harish Kapri",
+          "r": 8,
+          "b": 11,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 8,
+          "how": "ro"
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Samy Dharmalingam",
+          "balls": 24,
+          "r": 14,
+          "w": 2,
+          "dots": 20,
+          "wd": 4,
+          "nb": 0
+        },
+        {
+          "name": "R B Reddy",
+          "balls": 24,
+          "r": 16,
+          "w": 1,
+          "dots": 12,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Avijit Chark",
+          "balls": 18,
+          "r": 20,
+          "w": 0,
+          "dots": 9,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Subbu S",
+          "balls": 12,
+          "r": 11,
+          "w": 1,
+          "dots": 4,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Adya Rout",
+          "balls": 14,
+          "r": 9,
+          "w": 1,
+          "dots": 10,
+          "wd": 5,
+          "nb": 0
+        },
+        {
+          "name": "Vivek Kumar Jaiswal",
+          "balls": 24,
+          "r": 17,
+          "w": 2,
+          "dots": 11,
+          "wd": 1,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Samy Dharmalingam",
+          "r",
+          1
+        ],
+        [
+          "Adya Rout",
+          "k",
+          1
+        ],
+        [
+          "Sri Balaji Nedunchezhian",
+          "k",
+          2
+        ],
+        [
+          "Sri Balaji Nedunchezhian",
+          "c",
+          1
+        ],
+        [
+          "Muthu Chakkaravarthy",
+          "c",
+          1
+        ],
+        [
+          "Harish Kapri",
+          "r",
+          1
+        ],
+        [
+          "Adya Rout",
+          "r",
+          2
+        ]
+      ]
+    },
+    {
+      "id": "legacy-3316",
+      "date": "2026-08-29",
+      "series": "2026 MTCA Spring League",
+      "seriesId": "legacy-87",
+      "opponent": "MTCA Blasters",
+      "ground": "Hansen School - BaseBall 2",
+      "result": "",
+      "forfeit": true,
+      "outcome": "NR",
+      "tossWonByUs": null,
+      "tossDecision": null,
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "MTCA Blasters",
+          "runs": 80,
+          "wkts": 5,
+          "overs": "20"
+        },
+        {
+          "team": "MTCA Dark Knights",
+          "runs": 60,
+          "wkts": 10,
+          "overs": "20"
+        }
+      ],
+      "batting": [],
+      "bowling": [],
+      "fielding": []
+    },
+    {
+      "id": "legacy-3283",
+      "date": "2026-08-16",
+      "series": "2026 MTCA Spring League",
+      "seriesId": "legacy-87",
+      "opponent": "MTCA Blazers",
+      "ground": "Hansen School - BaseBall 1",
+      "result": "MTCA Blazers won by 29 Runs",
+      "forfeit": false,
+      "outcome": "L",
+      "tossWonByUs": true,
+      "tossDecision": "bowl",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "MTCA Blazers",
+          "runs": 78,
+          "wkts": 10,
+          "overs": "18.2"
+        },
+        {
+          "team": "MTCA Dark Knights",
+          "runs": 49,
+          "wkts": 10,
+          "overs": "16.1"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Jayesh Deshmukh",
+          "r": 3,
+          "b": 4,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ct"
+        },
+        {
+          "name": "Adithya Machavaram",
+          "r": 12,
+          "b": 16,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "b"
+        },
+        {
+          "name": "Abdul Razack",
+          "r": 3,
+          "b": 15,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ro"
+        },
+        {
+          "name": "Harish Kapri",
+          "r": 0,
+          "b": 3,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ro"
+        },
+        {
+          "name": "Sivakumar Muthuraj",
+          "r": 3,
+          "b": 11,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "b"
+        },
+        {
+          "name": "Venkata Nagarjuna Thammeneni",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "ct"
+        },
+        {
+          "name": "Prabhu Ravindran",
+          "r": 7,
+          "b": 12,
+          "f": 0,
+          "s": 1,
+          "out": true,
+          "pos": 7,
+          "how": "ct"
+        },
+        {
+          "name": "Avanish Singh",
+          "r": 8,
+          "b": 27,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 8
+        },
+        {
+          "name": "Tarun Surapaneni",
+          "r": 1,
+          "b": 3,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 9,
+          "how": "ctw"
+        },
+        {
+          "name": "R B Reddy",
+          "r": 1,
+          "b": 3,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 10,
+          "how": "ct"
+        },
+        {
+          "name": "Himateja Gutta",
+          "r": 1,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 11,
+          "how": "ro"
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Avanish Singh",
+          "balls": 24,
+          "r": 14,
+          "w": 2,
+          "dots": 18,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Sivakumar Muthuraj",
+          "balls": 20,
+          "r": 13,
+          "w": 3,
+          "dots": 12,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "R B Reddy",
+          "balls": 18,
+          "r": 11,
+          "w": 2,
+          "dots": 12,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Tarun Surapaneni",
+          "balls": 18,
+          "r": 13,
+          "w": 1,
+          "dots": 11,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Himateja Gutta",
+          "balls": 12,
+          "r": 13,
+          "w": 1,
+          "dots": 7,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Prabhu Ravindran",
+          "balls": 18,
+          "r": 14,
+          "w": 0,
+          "dots": 12,
+          "wd": 0,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Tarun Surapaneni",
+          "c",
+          2
+        ],
+        [
+          "Prabhu Ravindran",
+          "c",
+          2
+        ],
+        [
+          "Sivakumar Muthuraj",
+          "r",
+          1
+        ],
+        [
+          "Sivakumar Muthuraj",
+          "c",
+          1
+        ],
+        [
+          "Harish Kapri",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-3249",
+      "date": "2026-08-08",
+      "series": "2026 MTCA Spring League",
+      "seriesId": "legacy-87",
+      "opponent": "MTCA RDX",
+      "ground": "Hansen Park",
+      "result": "MTCA Dark Knights won by 7 Wickets",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": false,
+      "tossDecision": "bat",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "MTCA RDX",
+          "runs": 78,
+          "wkts": 6,
+          "overs": "20"
+        },
+        {
+          "team": "MTCA Dark Knights",
+          "runs": 81,
+          "wkts": 3,
+          "overs": "15.3"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Sankar Rathnasamy",
+          "r": 15,
+          "b": 23,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ctw"
+        },
+        {
+          "name": "Visva Balaji",
+          "r": 24,
+          "b": 29,
+          "f": 2,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ct"
+        },
+        {
+          "name": "Adya Rout",
+          "r": 20,
+          "b": 26,
+          "f": 0,
+          "s": 1,
+          "out": false,
+          "pos": 3
+        },
+        {
+          "name": "MADHUSUDHANAN RADHAKRISHNAN",
+          "r": 1,
+          "b": 6,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ctw"
+        },
+        {
+          "name": "Abdul Razack",
+          "r": 10,
+          "b": 10,
+          "f": 1,
+          "s": 0,
+          "out": false,
+          "pos": 5
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Samy Dharmalingam",
+          "balls": 24,
+          "r": 25,
+          "w": 1,
+          "dots": 10,
+          "wd": 4,
+          "nb": 0
+        },
+        {
+          "name": "Sandip T",
+          "balls": 24,
+          "r": 18,
+          "w": 1,
+          "dots": 15,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Visva Balaji",
+          "balls": 18,
+          "r": 7,
+          "w": 2,
+          "dots": 12,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Adya Rout",
+          "balls": 18,
+          "r": 8,
+          "w": 1,
+          "dots": 14,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Vivek Kumar Jaiswal",
+          "balls": 18,
+          "r": 11,
+          "w": 1,
+          "dots": 12,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Martin Raj",
+          "balls": 18,
+          "r": 8,
+          "w": 0,
+          "dots": 12,
+          "wd": 2,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Sandip T",
+          "c",
+          1
+        ],
+        [
+          "Samy Dharmalingam",
+          "c",
+          1
+        ],
+        [
+          "Adya Rout",
+          "c",
+          1
+        ],
+        [
+          "Jayesh Deshmukh",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-3245",
+      "date": "2026-08-02",
+      "series": "2026 MTCA Spring League",
+      "seriesId": "legacy-87",
+      "opponent": "MTCA Risers",
+      "ground": "Hansen School - BaseBall 1",
+      "result": "MTCA Risers won by 24 Runs",
+      "forfeit": false,
+      "outcome": "L",
+      "tossWonByUs": false,
+      "tossDecision": "bat",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "MTCA Risers",
+          "runs": 80,
+          "wkts": 9,
+          "overs": "20"
+        },
+        {
+          "team": "MTCA Dark Knights",
+          "runs": 56,
+          "wkts": 7,
+          "overs": "20"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Adya Rout",
+          "r": 0,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ct"
+        },
+        {
+          "name": "Avijit Chark",
+          "r": 5,
+          "b": 7,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ro"
+        },
+        {
+          "name": "Muthu Chakkaravarthy",
+          "r": 14,
+          "b": 29,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ct"
+        },
+        {
+          "name": "Subbu S",
+          "r": 13,
+          "b": 28,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ctw"
+        },
+        {
+          "name": "Sivakumar Muthuraj",
+          "r": 6,
+          "b": 21,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "ct"
+        },
+        {
+          "name": "Adithya Machavaram",
+          "r": 3,
+          "b": 9,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "ct"
+        },
+        {
+          "name": "DHEVANKUMAR SERALATHAN",
+          "r": 2,
+          "b": 7,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "b"
+        },
+        {
+          "name": "Prabhu Ravindran",
+          "r": 8,
+          "b": 11,
+          "f": 1,
+          "s": 0,
+          "out": false,
+          "pos": 8
+        },
+        {
+          "name": "Samy Dharmalingam",
+          "r": 1,
+          "b": 6,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 9
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Samy Dharmalingam",
+          "balls": 24,
+          "r": 7,
+          "w": 2,
+          "dots": 17,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "DHEVANKUMAR SERALATHAN",
+          "balls": 24,
+          "r": 19,
+          "w": 2,
+          "dots": 9,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Sivakumar Muthuraj",
+          "balls": 24,
+          "r": 21,
+          "w": 1,
+          "dots": 14,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Adya Rout",
+          "balls": 6,
+          "r": 5,
+          "w": 0,
+          "dots": 2,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Avijit Chark",
+          "balls": 18,
+          "r": 8,
+          "w": 1,
+          "dots": 10,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Himateja Gutta",
+          "balls": 18,
+          "r": 14,
+          "w": 1,
+          "dots": 11,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Subbu S",
+          "balls": 6,
+          "r": 4,
+          "w": 0,
+          "dots": 2,
+          "wd": 0,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Subbu S",
+          "c",
+          1
+        ],
+        [
+          "Sivakumar Muthuraj",
+          "k",
+          1
+        ],
+        [
+          "Adya Rout",
+          "r",
+          1
+        ],
+        [
+          "Prabhu Ravindran",
+          "c",
+          1
+        ],
+        [
+          "Sivakumar Muthuraj",
+          "c",
+          2
+        ],
+        [
+          "Sivakumar Muthuraj",
+          "r",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-3081",
+      "date": "2026-07-25",
+      "series": "2026 MTCA Spring League",
+      "seriesId": "legacy-87",
+      "opponent": "MTCA Singhz",
+      "ground": "Altamont Park - BaseBall",
+      "result": "Abandoned. Winner: MTCA Dark Knights",
+      "forfeit": true,
+      "outcome": "W",
+      "tossWonByUs": null,
+      "tossDecision": null,
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "MTCA Singhz",
+          "runs": 0,
+          "wkts": 0,
+          "overs": "0"
+        },
+        {
+          "team": "MTCA Dark Knights",
+          "runs": 0,
+          "wkts": 0,
+          "overs": "0"
+        }
+      ],
+      "batting": [],
+      "bowling": [],
+      "fielding": []
+    },
+    {
+      "id": "legacy-3154",
+      "date": "2026-06-20",
+      "series": "2026 MTCA Spring League",
+      "seriesId": "legacy-87",
+      "opponent": "MTCA Spartans",
+      "ground": "E-Costa School Ground",
+      "result": "MTCA Spartans won by 3 Wickets",
+      "forfeit": false,
+      "outcome": "L",
+      "tossWonByUs": true,
+      "tossDecision": "bat",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "MTCA Dark Knights",
+          "runs": 81,
+          "wkts": 7,
+          "overs": "20"
+        },
+        {
+          "team": "MTCA Spartans",
+          "runs": 82,
+          "wkts": 7,
+          "overs": "15.5"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Avijit Chark",
+          "r": 2,
+          "b": 6,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ctw"
+        },
+        {
+          "name": "Pranith P",
+          "r": 18,
+          "b": 26,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ct"
+        },
+        {
+          "name": "Muthu Chakkaravarthy",
+          "r": 28,
+          "b": 37,
+          "f": 1,
+          "s": 1,
+          "out": true,
+          "pos": 3,
+          "how": "b"
+        },
+        {
+          "name": "Jayesh Deshmukh",
+          "r": 20,
+          "b": 21,
+          "f": 0,
+          "s": 1,
+          "out": true,
+          "pos": 4,
+          "how": "b"
+        },
+        {
+          "name": "Sri Balaji Nedunchezhian",
+          "r": 2,
+          "b": 8,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "ctw"
+        },
+        {
+          "name": "Adithya Machavaram",
+          "r": 4,
+          "b": 7,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "ro"
+        },
+        {
+          "name": "Gaurav Gangwar",
+          "r": 1,
+          "b": 5,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "ct"
+        },
+        {
+          "name": "DHEVANKUMAR SERALATHAN",
+          "r": 1,
+          "b": 10,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 8
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Samy Dharmalingam",
+          "balls": 12,
+          "r": 13,
+          "w": 0,
+          "dots": 7,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "DHEVANKUMAR SERALATHAN",
+          "balls": 18,
+          "r": 18,
+          "w": 1,
+          "dots": 9,
+          "wd": 5,
+          "nb": 0
+        },
+        {
+          "name": "Visva Balaji",
+          "balls": 12,
+          "r": 12,
+          "w": 1,
+          "dots": 6,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Avijit Chark",
+          "balls": 18,
+          "r": 10,
+          "w": 1,
+          "dots": 9,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Gaurav Gangwar",
+          "balls": 6,
+          "r": 9,
+          "w": 0,
+          "dots": 2,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Himateja Gutta",
+          "balls": 17,
+          "r": 14,
+          "w": 3,
+          "dots": 10,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Madhav Kondle",
+          "balls": 12,
+          "r": 6,
+          "w": 1,
+          "dots": 7,
+          "wd": 1,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Sri Balaji Nedunchezhian",
+          "k",
+          1
+        ],
+        [
+          "Visva Balaji",
+          "c",
+          1
+        ],
+        [
+          "Adithya Machavaram",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-3120",
+      "date": "2026-05-31",
+      "series": "2026 MTCA Spring League",
+      "seriesId": "legacy-87",
+      "opponent": "MTCA Azmari",
+      "ground": "Cordes Park",
+      "result": "MTCA Dark Knights won by 6 Runs",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": true,
+      "tossDecision": "bat",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "MTCA Dark Knights",
+          "runs": 87,
+          "wkts": 10,
+          "overs": "16.2"
+        },
+        {
+          "team": "MTCA Azmari",
+          "runs": 81,
+          "wkts": 9,
+          "overs": "20"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Avijit Chark",
+          "r": 1,
+          "b": 3,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "b"
+        },
+        {
+          "name": "Gaurav Gangwar",
+          "r": 9,
+          "b": 8,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ct"
+        },
+        {
+          "name": "Adya Rout",
+          "r": 2,
+          "b": 7,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ct"
+        },
+        {
+          "name": "Sivakumar Muthuraj",
+          "r": 5,
+          "b": 7,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ct"
+        },
+        {
+          "name": "Jayesh Deshmukh",
+          "r": 5,
+          "b": 8,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "ct"
+        },
+        {
+          "name": "Muthu Chakkaravarthy",
+          "r": 28,
+          "b": 25,
+          "f": 3,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "ctw"
+        },
+        {
+          "name": "Sudheer Varma Rudraraju",
+          "r": 4,
+          "b": 8,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "ct"
+        },
+        {
+          "name": "DHEVANKUMAR SERALATHAN",
+          "r": 6,
+          "b": 5,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 8,
+          "how": "ctw"
+        },
+        {
+          "name": "R B Reddy",
+          "r": 10,
+          "b": 17,
+          "f": 1,
+          "s": 0,
+          "out": false,
+          "pos": 9
+        },
+        {
+          "name": "Aswin Balakrishnan",
+          "r": 5,
+          "b": 10,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 10,
+          "how": "b"
+        },
+        {
+          "name": "Himateja Gutta",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 11,
+          "how": "ct"
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Samy Dharmalingam",
+          "balls": 24,
+          "r": 16,
+          "w": 0,
+          "dots": 15,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "DHEVANKUMAR SERALATHAN",
+          "balls": 24,
+          "r": 16,
+          "w": 1,
+          "dots": 13,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Sivakumar Muthuraj",
+          "balls": 12,
+          "r": 21,
+          "w": 0,
+          "dots": 6,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Aswin Balakrishnan",
+          "balls": 12,
+          "r": 8,
+          "w": 1,
+          "dots": 10,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "R B Reddy",
+          "balls": 24,
+          "r": 13,
+          "w": 3,
+          "dots": 13,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Gaurav Gangwar",
+          "balls": 6,
+          "r": 2,
+          "w": 1,
+          "dots": 4,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Avijit Chark",
+          "balls": 18,
+          "r": 5,
+          "w": 2,
+          "dots": 15,
+          "wd": 1,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Himateja Gutta",
+          "c",
+          2
+        ],
+        [
+          "Sivakumar Muthuraj",
+          "c",
+          1
+        ],
+        [
+          "Sivakumar Muthuraj",
+          "k",
+          2
+        ],
+        [
+          "Avijit Chark",
+          "c",
+          1
+        ],
+        [
+          "R B Reddy",
+          "r",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-3089",
+      "date": "2026-05-16",
+      "series": "2026 MTCA Spring League",
+      "seriesId": "legacy-87",
+      "opponent": "MTCA Royal Kings",
+      "ground": "E-Costa School Ground",
+      "result": "MTCA Royal Kings won by 5 Wickets",
+      "forfeit": false,
+      "outcome": "L",
+      "tossWonByUs": true,
+      "tossDecision": "bat",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "MTCA Dark Knights",
+          "runs": 74,
+          "wkts": 8,
+          "overs": "20"
+        },
+        {
+          "team": "MTCA Royal Kings",
+          "runs": 78,
+          "wkts": 5,
+          "overs": "13.1"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Muthu Chakkaravarthy",
+          "r": 1,
+          "b": 5,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "b"
+        },
+        {
+          "name": "Pranith P",
+          "r": 0,
+          "b": 4,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ro"
+        },
+        {
+          "name": "Adya Rout",
+          "r": 9,
+          "b": 17,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ct"
+        },
+        {
+          "name": "Jayesh Deshmukh",
+          "r": 14,
+          "b": 23,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ct"
+        },
+        {
+          "name": "Sri Balaji Nedunchezhian",
+          "r": 1,
+          "b": 5,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "st"
+        },
+        {
+          "name": "Venkata Nagarjuna Thammeneni",
+          "r": 0,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "ct"
+        },
+        {
+          "name": "DHEVANKUMAR SERALATHAN",
+          "r": 16,
+          "b": 21,
+          "f": 0,
+          "s": 1,
+          "out": true,
+          "pos": 7,
+          "how": "b"
+        },
+        {
+          "name": "Dinesh Anandasayanam",
+          "r": 1,
+          "b": 3,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 8,
+          "how": "b"
+        },
+        {
+          "name": "Aswin Balakrishnan",
+          "r": 22,
+          "b": 28,
+          "f": 0,
+          "s": 1,
+          "out": false,
+          "pos": 9
+        },
+        {
+          "name": "Samy Dharmalingam",
+          "r": 7,
+          "b": 12,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 10
+        }
+      ],
+      "bowling": [
+        {
+          "name": "DHEVANKUMAR SERALATHAN",
+          "balls": 18,
+          "r": 7,
+          "w": 0,
+          "dots": 13,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Dinesh Anandasayanam",
+          "balls": 24,
+          "r": 22,
+          "w": 3,
+          "dots": 15,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Samy Dharmalingam",
+          "balls": 18,
+          "r": 21,
+          "w": 1,
+          "dots": 9,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Aswin Balakrishnan",
+          "balls": 18,
+          "r": 24,
+          "w": 1,
+          "dots": 12,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Himateja Gutta",
+          "balls": 1,
+          "r": 4,
+          "w": 0,
+          "dots": 0,
+          "wd": 0,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Adya Rout",
+          "c",
+          1
+        ],
+        [
+          "Sri Balaji Nedunchezhian",
+          "k",
+          2
+        ],
+        [
+          "Aswin Balakrishnan",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-3072",
+      "date": "2026-05-10",
+      "series": "2026 MTCA Spring League",
+      "seriesId": "legacy-87",
+      "opponent": "MTCA Legends",
+      "ground": "Cordes Park",
+      "result": "MTCA Legends won by 11 Runs",
+      "forfeit": false,
+      "outcome": "L",
+      "tossWonByUs": false,
+      "tossDecision": "bat",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "MTCA Legends",
+          "runs": 142,
+          "wkts": 8,
+          "overs": "20"
+        },
+        {
+          "team": "MTCA Dark Knights",
+          "runs": 131,
+          "wkts": 8,
+          "overs": "20"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Avijit Chark",
+          "r": 9,
+          "b": 7,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ct"
+        },
+        {
+          "name": "Visva Balaji",
+          "r": 20,
+          "b": 11,
+          "f": 2,
+          "s": 1,
+          "out": true,
+          "pos": 2,
+          "how": "b"
+        },
+        {
+          "name": "Sudheer Varma Rudraraju",
+          "r": 24,
+          "b": 19,
+          "f": 1,
+          "s": 2,
+          "out": true,
+          "pos": 3,
+          "how": "ro"
+        },
+        {
+          "name": "Sri Balaji Nedunchezhian",
+          "r": 19,
+          "b": 26,
+          "f": 1,
+          "s": 1,
+          "out": true,
+          "pos": 4,
+          "how": "ct"
+        },
+        {
+          "name": "Jayesh Deshmukh",
+          "r": 15,
+          "b": 22,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "b"
+        },
+        {
+          "name": "Sivakumar Muthuraj",
+          "r": 0,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "ctw"
+        },
+        {
+          "name": "Muthu Chakkaravarthy",
+          "r": 3,
+          "b": 11,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "rt"
+        },
+        {
+          "name": "Gaurav Gangwar",
+          "r": 14,
+          "b": 12,
+          "f": 1,
+          "s": 0,
+          "out": false,
+          "pos": 8
+        },
+        {
+          "name": "DHEVANKUMAR SERALATHAN",
+          "r": 8,
+          "b": 7,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 9,
+          "how": "ct"
+        },
+        {
+          "name": "Aswin Balakrishnan",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 10,
+          "how": "ro"
+        },
+        {
+          "name": "Samy Dharmalingam",
+          "r": 1,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 11
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Samy Dharmalingam",
+          "balls": 24,
+          "r": 28,
+          "w": 2,
+          "dots": 13,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "DHEVANKUMAR SERALATHAN",
+          "balls": 24,
+          "r": 23,
+          "w": 2,
+          "dots": 11,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Sivakumar Muthuraj",
+          "balls": 24,
+          "r": 38,
+          "w": 1,
+          "dots": 12,
+          "wd": 4,
+          "nb": 0
+        },
+        {
+          "name": "Aswin Balakrishnan",
+          "balls": 24,
+          "r": 27,
+          "w": 0,
+          "dots": 11,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Avijit Chark",
+          "balls": 18,
+          "r": 18,
+          "w": 2,
+          "dots": 12,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Gaurav Gangwar",
+          "balls": 6,
+          "r": 8,
+          "w": 0,
+          "dots": 3,
+          "wd": 0,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Avijit Chark",
+          "c",
+          1
+        ],
+        [
+          "Samy Dharmalingam",
+          "c",
+          1
+        ],
+        [
+          "DHEVANKUMAR SERALATHAN",
+          "r",
+          1
+        ],
+        [
+          "DHEVANKUMAR SERALATHAN",
+          "c",
+          1
+        ],
+        [
+          "Sri Balaji Nedunchezhian",
+          "k",
+          1
+        ],
+        [
+          "Aswin Balakrishnan",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-3037",
+      "date": "2026-05-02",
+      "series": "2026 MTCA Spring League",
+      "seriesId": "legacy-87",
+      "opponent": "MTCA Game Strikers",
+      "ground": "Hansen School - BaseBall 2",
+      "result": "MTCA Dark Knights won by 4 Wickets",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": true,
+      "tossDecision": "bowl",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "MTCA Game Strikers",
+          "runs": 89,
+          "wkts": 9,
+          "overs": "20"
+        },
+        {
+          "team": "MTCA Dark Knights",
+          "runs": 91,
+          "wkts": 6,
+          "overs": "17.5"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Avijit Chark",
+          "r": 3,
+          "b": 9,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ctw"
+        },
+        {
+          "name": "Sivakumar Muthuraj",
+          "r": 30,
+          "b": 35,
+          "f": 0,
+          "s": 2,
+          "out": true,
+          "pos": 2,
+          "how": "b"
+        },
+        {
+          "name": "Subbu S",
+          "r": 5,
+          "b": 8,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ct"
+        },
+        {
+          "name": "Sudheer Varma Rudraraju",
+          "r": 2,
+          "b": 7,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ctw"
+        },
+        {
+          "name": "Sri Balaji Nedunchezhian",
+          "r": 3,
+          "b": 7,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "b"
+        },
+        {
+          "name": "Venkata Nagarjuna Thammeneni",
+          "r": 29,
+          "b": 26,
+          "f": 2,
+          "s": 1,
+          "out": false,
+          "pos": 6
+        },
+        {
+          "name": "Jayesh Deshmukh",
+          "r": 8,
+          "b": 16,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "ct"
+        },
+        {
+          "name": "Muthu Chakkaravarthy",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 8
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Samy Dharmalingam",
+          "balls": 24,
+          "r": 15,
+          "w": 0,
+          "dots": 16,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Sivakumar Muthuraj",
+          "balls": 24,
+          "r": 16,
+          "w": 3,
+          "dots": 15,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "R B Reddy",
+          "balls": 24,
+          "r": 18,
+          "w": 2,
+          "dots": 12,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Visva Balaji",
+          "balls": 18,
+          "r": 23,
+          "w": 2,
+          "dots": 10,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "DHEVANKUMAR SERALATHAN",
+          "balls": 24,
+          "r": 12,
+          "w": 1,
+          "dots": 18,
+          "wd": 5,
+          "nb": 0
+        },
+        {
+          "name": "Avijit Chark",
+          "balls": 6,
+          "r": 5,
+          "w": 0,
+          "dots": 2,
+          "wd": 0,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Sivakumar Muthuraj",
+          "c",
+          1
+        ],
+        [
+          "Sri Balaji Nedunchezhian",
+          "c",
+          2
+        ],
+        [
+          "Subbu S",
+          "c",
+          1
+        ],
+        [
+          "Venkata Nagarjuna Thammeneni",
+          "c",
+          1
+        ],
+        [
+          "Avijit Chark",
+          "c",
+          1
+        ],
+        [
+          "Sudheer Varma Rudraraju",
+          "c",
+          1
+        ],
+        [
+          "Visva Balaji",
+          "r",
+          1
+        ],
+        [
+          "Muthu Chakkaravarthy",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-3031",
+      "date": "2026-04-26",
+      "series": "2026 MTCA Spring League",
+      "seriesId": "legacy-87",
+      "opponent": "MTCA Khalsa Warriors",
+      "ground": "Altamont Park - BaseBall",
+      "result": "MTCA Dark Knights won by 22 Runs",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": false,
+      "tossDecision": "bowl",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "MTCA Dark Knights",
+          "runs": 79,
+          "wkts": 5,
+          "overs": "20"
+        },
+        {
+          "team": "MTCA Khalsa Warriors",
+          "runs": 57,
+          "wkts": 10,
+          "overs": "14.4"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Gaurav Gangwar",
+          "r": 0,
+          "b": 3,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ctw"
+        },
+        {
+          "name": "Adya Rout",
+          "r": 33,
+          "b": 60,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ct"
+        },
+        {
+          "name": "Muthu Chakkaravarthy",
+          "r": 2,
+          "b": 8,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ctw"
+        },
+        {
+          "name": "Sivakumar Muthuraj",
+          "r": 4,
+          "b": 17,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ct"
+        },
+        {
+          "name": "Sri Balaji Nedunchezhian",
+          "r": 27,
+          "b": 23,
+          "f": 1,
+          "s": 2,
+          "out": false,
+          "pos": 5
+        },
+        {
+          "name": "DHEVANKUMAR SERALATHAN",
+          "r": 2,
+          "b": 5,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "b"
+        },
+        {
+          "name": "Sudheer Varma Rudraraju",
+          "r": 1,
+          "b": 4,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 7
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Samy Dharmalingam",
+          "balls": 16,
+          "r": 2,
+          "w": 2,
+          "dots": 16,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "DHEVANKUMAR SERALATHAN",
+          "balls": 12,
+          "r": 4,
+          "w": 1,
+          "dots": 8,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Adya Rout",
+          "balls": 12,
+          "r": 8,
+          "w": 1,
+          "dots": 6,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "R B Reddy",
+          "balls": 24,
+          "r": 24,
+          "w": 2,
+          "dots": 13,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Sivakumar Muthuraj",
+          "balls": 12,
+          "r": 13,
+          "w": 1,
+          "dots": 7,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Gaurav Gangwar",
+          "balls": 6,
+          "r": 3,
+          "w": 1,
+          "dots": 5,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Himateja Gutta",
+          "balls": 6,
+          "r": 2,
+          "w": 2,
+          "dots": 6,
+          "wd": 2,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "R B Reddy",
+          "c",
+          2
+        ],
+        [
+          "Himateja Gutta",
+          "c",
+          1
+        ],
+        [
+          "Samy Dharmalingam",
+          "c",
+          1
+        ],
+        [
+          "Muthu Chakkaravarthy",
+          "c",
+          1
+        ],
+        [
+          "Adya Rout",
+          "c",
+          1
+        ],
+        [
+          "Gaurav Gangwar",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-3006",
+      "date": "2026-04-18",
+      "series": "2026 MTCA Spring League",
+      "seriesId": "legacy-87",
+      "opponent": "MTCA Elite XI",
+      "ground": "E-Costa School Ground",
+      "result": "MTCA Elite XI won by 8 Runs",
+      "forfeit": false,
+      "outcome": "L",
+      "tossWonByUs": true,
+      "tossDecision": "bowl",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "MTCA Elite XI",
+          "runs": 80,
+          "wkts": 10,
+          "overs": "19"
+        },
+        {
+          "team": "MTCA Dark Knights",
+          "runs": 72,
+          "wkts": 8,
+          "overs": "20"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Avijit Chark",
+          "r": 9,
+          "b": 14,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ct"
+        },
+        {
+          "name": "Samy Dharmalingam",
+          "r": 3,
+          "b": 6,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ctw"
+        },
+        {
+          "name": "Ranjitkumar Raju",
+          "r": 15,
+          "b": 35,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ro"
+        },
+        {
+          "name": "Sri Balaji Nedunchezhian",
+          "r": 1,
+          "b": 6,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ctw"
+        },
+        {
+          "name": "Muthu Chakkaravarthy",
+          "r": 1,
+          "b": 4,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "b"
+        },
+        {
+          "name": "Jayesh Deshmukh",
+          "r": 10,
+          "b": 20,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 6
+        },
+        {
+          "name": "Gaurav Gangwar",
+          "r": 1,
+          "b": 11,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "ct"
+        },
+        {
+          "name": "Manivannan Chithirasen",
+          "r": 15,
+          "b": 14,
+          "f": 0,
+          "s": 1,
+          "out": true,
+          "pos": 8,
+          "how": "ct"
+        },
+        {
+          "name": "Visva Balaji",
+          "r": 3,
+          "b": 8,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 9
+        },
+        {
+          "name": "Himateja Gutta",
+          "r": 1,
+          "b": 4,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 10
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Samy Dharmalingam",
+          "balls": 24,
+          "r": 13,
+          "w": 1,
+          "dots": 14,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Visva Balaji",
+          "balls": 18,
+          "r": 17,
+          "w": 1,
+          "dots": 10,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Avijit Chark",
+          "balls": 24,
+          "r": 4,
+          "w": 3,
+          "dots": 22,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Gaurav Gangwar",
+          "balls": 18,
+          "r": 17,
+          "w": 3,
+          "dots": 10,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Manivannan Chithirasen",
+          "balls": 12,
+          "r": 16,
+          "w": 0,
+          "dots": 3,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Himateja Gutta",
+          "balls": 18,
+          "r": 12,
+          "w": 1,
+          "dots": 12,
+          "wd": 0,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Visva Balaji",
+          "r",
+          1
+        ],
+        [
+          "Samy Dharmalingam",
+          "c",
+          2
+        ],
+        [
+          "Sri Balaji Nedunchezhian",
+          "k",
+          1
+        ],
+        [
+          "Gaurav Gangwar",
+          "c",
+          2
+        ],
+        [
+          "Jayesh Deshmukh",
+          "c",
+          1
+        ],
+        [
+          "Himateja Gutta",
+          "c",
+          1
+        ]
+      ]
+    }
+  ],
+  "unresolvedFielders": 1
+}

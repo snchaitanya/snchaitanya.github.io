@@ -1,0 +1,215 @@
+{
+  "series": {
+    "id": "aWQx5fjWR1IbBBd7ons2kw",
+    "name": "DDCL Fall 2025"
+  },
+  "playoffs": {
+    "found": true,
+    "pending": false
+  },
+  "teams": {
+    "Vodoo Rangers": {
+      "position": 1,
+      "of": 16,
+      "group": "League Points Table",
+      "played": 7,
+      "won": 6,
+      "lost": 1,
+      "nr": 0,
+      "points": 12,
+      "nrr": 1.2701,
+      "logo": "https://media.cricclubs.com/documentsRep/teamLogos/cdbd7647-2bdb-4af7-bcee-c86f153e6f52.jpg",
+      "playoff": {
+        "text": "Winner – Gold Cup",
+        "muted": false
+      }
+    },
+    "Boulevard Warriors": {
+      "position": 2,
+      "of": 16,
+      "group": "League Points Table",
+      "played": 7,
+      "won": 5,
+      "lost": 1,
+      "nr": 0,
+      "points": 11,
+      "nrr": 0.4187,
+      "logo": "https://media.cricclubs.com/documentsRep/teamLogos/26fe1889-2334-4ac9-be40-f3b088e10de6.jpg",
+      "playoff": {
+        "text": "Runner-up – Gold Cup",
+        "muted": false
+      }
+    },
+    "Loyals": {
+      "position": 3,
+      "of": 16,
+      "group": "League Points Table",
+      "played": 7,
+      "won": 5,
+      "lost": 2,
+      "nr": 0,
+      "points": 10,
+      "nrr": 0.3456,
+      "logo": "https://media.cricclubs.com/documentsRep/teamLogos/5c5c5e63-7a28-4805-802c-5257d131363f.jpg",
+      "playoff": {
+        "text": "Lost in playoffs (Semi Final) – Silver Cup",
+        "muted": false
+      }
+    },
+    "Dublin Super Kings": {
+      "position": 4,
+      "of": 16,
+      "group": "League Points Table",
+      "played": 7,
+      "won": 4,
+      "lost": 3,
+      "nr": 0,
+      "points": 8,
+      "nrr": -0.02,
+      "logo": "https://media.cricclubs.com/documentsRep/teamLogos/13bf5847-60cf-411c-9ba3-b63bb275170c.jpg",
+      "playoff": {
+        "text": "Lost in playoffs (Semi Final) – Silver Cup",
+        "muted": false
+      }
+    },
+    "Bay Strikers": {
+      "position": 5,
+      "of": 16,
+      "group": "League Points Table",
+      "played": 7,
+      "won": 3,
+      "lost": 4,
+      "nr": 0,
+      "points": 6,
+      "nrr": -0.8638,
+      "logo": "https://media.cricclubs.com/documentsRep/teamLogos/ea482ccb-1fe9-45ff-80b5-77eb34fa5467.jpg",
+      "playoff": {
+        "text": "Did not qualify",
+        "muted": true
+      }
+    },
+    "Goodfellas": {
+      "position": 6,
+      "of": 16,
+      "group": "League Points Table",
+      "played": 7,
+      "won": 2,
+      "lost": 4,
+      "nr": 0,
+      "points": 5,
+      "nrr": -0.8888,
+      "logo": "https://media.cricclubs.com/documentsRep/teamLogos/5a7e30ba-2f26-435e-9127-5348a27d92f1.jpg",
+      "playoff": {
+        "text": "Did not qualify",
+        "muted": true
+      }
+    },
+    "Monks": {
+      "position": 7,
+      "of": 16,
+      "group": "League Points Table",
+      "played": 7,
+      "won": 2,
+      "lost": 5,
+      "nr": 0,
+      "points": 4,
+      "nrr": -0.467,
+      "logo": null,
+      "playoff": {
+        "text": "Did not qualify",
+        "muted": true
+      }
+    },
+    "Sunrise Strikers": {
+      "position": 8,
+      "of": 16,
+      "group": "League Points Table",
+      "played": 7,
+      "won": 0,
+      "lost": 7,
+      "nr": 0,
+      "points": 0,
+      "nrr": -1.2195,
+      "logo": null,
+      "playoff": {
+        "text": "Did not qualify",
+        "muted": true
+      }
+    },
+    "Dabangg": {
+      "position": 10,
+      "of": 16,
+      "group": "League Points Table",
+      "played": 0,
+      "won": 0,
+      "lost": 0,
+      "nr": 0,
+      "points": 0,
+      "nrr": 0,
+      "logo": null,
+      "playoff": {
+        "text": "Lost in playoffs (Semi Final) – Gold Cup",
+        "muted": false
+      }
+    },
+    "Legion Mavericks": {
+      "position": 12,
+      "of": 16,
+      "group": "League Points Table",
+      "played": 0,
+      "won": 0,
+      "lost": 0,
+      "nr": 0,
+      "points": 0,
+      "nrr": 0,
+      "logo": "https://media.cricclubs.com/documentsRep/teamLogos/93a034a8-a607-41ec-8763-ad3fd4b4eec7.jpeg",
+      "playoff": {
+        "text": "Winner – Silver Cup",
+        "muted": false
+      }
+    },
+    "PVCC": {
+      "position": 14,
+      "of": 16,
+      "group": "League Points Table",
+      "played": 0,
+      "won": 0,
+      "lost": 0,
+      "nr": 0,
+      "points": 0,
+      "nrr": 0,
+      "logo": "https://media.cricclubs.com/documentsRep/teamLogos/5879816b-3fe4-42cc-a384-33e6af2b8ef6.jpg",
+      "playoff": {
+        "text": "Lost in playoffs (Semi Final) – Gold Cup",
+        "muted": false
+      }
+    },
+    "Retro Runners": {
+      "position": 15,
+      "of": 16,
+      "group": "League Points Table",
+      "played": 0,
+      "won": 0,
+      "lost": 0,
+      "nr": 0,
+      "points": 0,
+      "nrr": 0,
+      "logo": "https://media.cricclubs.com/documentsRep/teamLogos/6dfe256e-6bd1-4342-b8c7-0bb33fa52e04.jpg",
+      "playoff": {
+        "text": "Runner-up – Silver Cup",
+        "muted": false
+      }
+    }
+  },
+  "logos": {
+    "Vodoo Rangers": "https://media.cricclubs.com/documentsRep/teamLogos/cdbd7647-2bdb-4af7-bcee-c86f153e6f52.jpg",
+    "Boulevard Warriors": "https://media.cricclubs.com/documentsRep/teamLogos/26fe1889-2334-4ac9-be40-f3b088e10de6.jpg",
+    "Loyals": "https://media.cricclubs.com/documentsRep/teamLogos/5c5c5e63-7a28-4805-802c-5257d131363f.jpg",
+    "Dublin Super Kings": "https://media.cricclubs.com/documentsRep/teamLogos/13bf5847-60cf-411c-9ba3-b63bb275170c.jpg",
+    "Bay Strikers": "https://media.cricclubs.com/documentsRep/teamLogos/ea482ccb-1fe9-45ff-80b5-77eb34fa5467.jpg",
+    "Goodfellas": "https://media.cricclubs.com/documentsRep/teamLogos/5a7e30ba-2f26-435e-9127-5348a27d92f1.jpg",
+    "Legion Mavericks": "https://media.cricclubs.com/documentsRep/teamLogos/93a034a8-a607-41ec-8763-ad3fd4b4eec7.jpeg",
+    "PVCC": "https://media.cricclubs.com/documentsRep/teamLogos/5879816b-3fe4-42cc-a384-33e6af2b8ef6.jpg",
+    "Retro Runners": "https://media.cricclubs.com/documentsRep/teamLogos/6dfe256e-6bd1-4342-b8c7-0bb33fa52e04.jpg"
+  }
+}

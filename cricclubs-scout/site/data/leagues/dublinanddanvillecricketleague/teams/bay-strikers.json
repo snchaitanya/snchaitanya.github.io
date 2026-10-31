@@ -1,0 +1,4899 @@
+{
+  "team": "Bay Strikers",
+  "logo": "https://media.cricclubs.com/documentsRep/teamLogos/ea482ccb-1fe9-45ff-80b5-77eb34fa5467.jpg",
+  "logos": {
+    "Vodoo Rangers": "https://media.cricclubs.com/documentsRep/teamLogos/cdbd7647-2bdb-4af7-bcee-c86f153e6f52.jpg",
+    "Boulevard Warriors": "https://media.cricclubs.com/documentsRep/teamLogos/26fe1889-2334-4ac9-be40-f3b088e10de6.jpg",
+    "Loyals": "https://media.cricclubs.com/documentsRep/teamLogos/5c5c5e63-7a28-4805-802c-5257d131363f.jpg",
+    "Dublin Super Kings": "https://media.cricclubs.com/documentsRep/teamLogos/13bf5847-60cf-411c-9ba3-b63bb275170c.jpg",
+    "Bay Strikers": "https://media.cricclubs.com/documentsRep/teamLogos/ea482ccb-1fe9-45ff-80b5-77eb34fa5467.jpg",
+    "Goodfellas": "https://media.cricclubs.com/documentsRep/teamLogos/5a7e30ba-2f26-435e-9127-5348a27d92f1.jpg",
+    "Legion Mavericks": "https://media.cricclubs.com/documentsRep/teamLogos/93a034a8-a607-41ec-8763-ad3fd4b4eec7.jpeg",
+    "PVCC": "https://media.cricclubs.com/documentsRep/teamLogos/5879816b-3fe4-42cc-a384-33e6af2b8ef6.jpg",
+    "Retro Runners": "https://media.cricclubs.com/documentsRep/teamLogos/6dfe256e-6bd1-4342-b8c7-0bb33fa52e04.jpg",
+    "Fundoos": "https://media.cricclubs.com/documentsRep/teamLogos/e31184e8-0ccd-4f0b-858a-284538f801ae.jpg",
+    "Tipsy Bulls": "https://media.cricclubs.com/documentsRep/teamLogos/24150af4-32b9-47de-b632-f0edb3d6622c.jpg",
+    "Trivalley Titans": "https://media.cricclubs.com/documentsRep/teamLogos/97cd7420-3911-45e3-92ea-47392bacf01c.png",
+    "Deccan Chargers": "https://media.cricclubs.com/documentsRep/teamLogos/30358e13-46be-45ca-b7c0-cb1693a1d3e8.jpg",
+    "Chhavas": "https://media.cricclubs.com/documentsRep/teamLogos/b58e53fa-5031-4279-870b-af5a75971dcb.png",
+    "Namma Boys": "https://media.cricclubs.com/documentsRep/teamLogos/a9b4665c-b906-4a05-a9c9-f06a91ce36a7.jpeg",
+    "Bay Area Falcons": "https://media.cricclubs.com/documentsRep/teamLogos/3c575945-947f-4b39-a26a-9a0f938127a4.png",
+    "Storm Chasers": "https://media.cricclubs.com/documentsRep/teamLogos/551e9b3e-9130-4c65-9ca5-79866ae4df67.jpeg",
+    "Sunrise Strikers": "https://media.cricclubs.com/documentsRep/teamLogos/1ed4cd12-29a6-4269-a903-4c614bf8151d.jpg",
+    "Vikings": "https://media.cricclubs.com/documentsRep/teamLogos/7f93325e-817b-49b2-83c0-3faee144f559.png"
+  },
+  "league": {
+    "code": "DublinandDanvilleCricketLeague",
+    "name": "DDCL"
+  },
+  "seasons": {
+    "current": {
+      "id": "xD6Qicr7gkrAMq0_MoX4Dw",
+      "name": "DDCL Fall 2026",
+      "inSeason": true,
+      "scrapedAt": "2026-10-31T10:54:53.308Z"
+    },
+    "last": {
+      "id": "u2KnAWQG_l9DZ_jsRAByWA",
+      "name": "DDCL Summer 26",
+      "inSeason": true,
+      "scrapedAt": "2026-10-31T10:55:07.041Z"
+    }
+  },
+  "matches": [
+    {
+      "id": "zW0aq2Ex_sLbpEuRIHxSAQ",
+      "date": "2026-10-25",
+      "series": "DDCL Fall 2026",
+      "seriesId": "xD6Qicr7gkrAMq0_MoX4Dw",
+      "opponent": "PVCC",
+      "ground": "Central Park Diamond 1",
+      "result": "PVCC won by 3 Wickets",
+      "forfeit": false,
+      "outcome": "L",
+      "tossWonByUs": false,
+      "tossDecision": "bowl",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "Bay Strikers",
+          "runs": 76,
+          "wkts": 10,
+          "overs": "16.3"
+        },
+        {
+          "team": "PVCC",
+          "runs": 77,
+          "wkts": 7,
+          "overs": "18.4"
+        }
+      ],
+      "batting": [
+        {
+          "name": "George Dunsford",
+          "r": 8,
+          "b": 16,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ct"
+        },
+        {
+          "name": "Ashish Heda",
+          "r": 11,
+          "b": 20,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ct"
+        },
+        {
+          "name": "Frank Dunsford",
+          "r": 1,
+          "b": 3,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "b"
+        },
+        {
+          "name": "Sulo Wijetunga",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "b"
+        },
+        {
+          "name": "Dulanjan Dharmasena",
+          "r": 9,
+          "b": 19,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "b"
+        },
+        {
+          "name": "Daham Sirimanne",
+          "r": 0,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "b"
+        },
+        {
+          "name": "Prinse Sivaraj",
+          "r": 24,
+          "b": 21,
+          "f": 0,
+          "s": 3,
+          "out": true,
+          "pos": 7,
+          "how": "ct"
+        },
+        {
+          "name": "Dilshan Meemanage",
+          "r": 4,
+          "b": 6,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 8,
+          "how": "ro"
+        },
+        {
+          "name": "Kamal Indurugalla",
+          "r": 2,
+          "b": 7,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 9,
+          "how": "ct"
+        },
+        {
+          "name": "Sohil Mehta",
+          "r": 6,
+          "b": 6,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 10,
+          "how": "ctw"
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Ashish Heda",
+          "balls": 24,
+          "r": 13,
+          "w": 0,
+          "dots": 12,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Kamal Indurugalla",
+          "balls": 22,
+          "r": 17,
+          "w": 0,
+          "dots": 10,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Dulanjan Dharmasena",
+          "balls": 24,
+          "r": 11,
+          "w": 3,
+          "dots": 14,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Gajanan Sane",
+          "balls": 24,
+          "r": 15,
+          "w": 2,
+          "dots": 13,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Sohil Mehta",
+          "balls": 18,
+          "r": 21,
+          "w": 2,
+          "dots": 6,
+          "wd": 3,
+          "nb": 0
+        }
+      ],
+      "fow": [
+        {
+          "w": 1,
+          "over": 3.6666666666666665
+        },
+        {
+          "w": 2,
+          "over": 4.333333333333333
+        },
+        {
+          "w": 3,
+          "over": 4.5
+        },
+        {
+          "w": 4,
+          "over": 9.166666666666666
+        },
+        {
+          "w": 5,
+          "over": 9.5
+        },
+        {
+          "w": 6,
+          "over": 11
+        },
+        {
+          "w": 7,
+          "over": 12.5
+        },
+        {
+          "w": 8,
+          "over": 14.666666666666666
+        },
+        {
+          "w": 9,
+          "over": 16
+        },
+        {
+          "w": 10,
+          "over": 16.5
+        }
+      ],
+      "extrasBowled": {
+        "b": 0,
+        "lb": 0,
+        "nb": 0,
+        "wd": 7
+      },
+      "oversBowled": 18.7,
+      "fielding": [
+        [
+          "Ashish Heda",
+          "c",
+          1
+        ],
+        [
+          "Prinse Sivaraj",
+          "c",
+          2
+        ],
+        [
+          "Kamal Indurugalla",
+          "c",
+          1
+        ],
+        [
+          "Dilshan Meemanage",
+          "c",
+          1
+        ],
+        [
+          "Sohil Mehta",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "lCFfSwxuzZDKEDXi-5WoQQ",
+      "date": "2026-10-18",
+      "series": "DDCL Fall 2026",
+      "seriesId": "xD6Qicr7gkrAMq0_MoX4Dw",
+      "opponent": "Monks",
+      "ground": "Hidden Hills Elementary",
+      "result": "Bay Strikers won by 3 Wickets",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": true,
+      "tossDecision": "bowl",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "Monks",
+          "runs": 91,
+          "wkts": 8,
+          "overs": "20"
+        },
+        {
+          "team": "Bay Strikers",
+          "runs": 92,
+          "wkts": 7,
+          "overs": "17.4"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Chamath Pathirana",
+          "r": 10,
+          "b": 19,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ct"
+        },
+        {
+          "name": "George Dunsford",
+          "r": 3,
+          "b": 3,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "b"
+        },
+        {
+          "name": "Frank Dunsford",
+          "r": 1,
+          "b": 9,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "b"
+        },
+        {
+          "name": "Daham Sirimanne",
+          "r": 20,
+          "b": 14,
+          "f": 3,
+          "s": 1,
+          "out": true,
+          "pos": 4,
+          "how": "ct"
+        },
+        {
+          "name": "Sulo Wijetunga",
+          "r": 8,
+          "b": 12,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "ctw"
+        },
+        {
+          "name": "Prinse Sivaraj",
+          "r": 13,
+          "b": 16,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "ctw"
+        },
+        {
+          "name": "Kamal Indurugalla",
+          "r": 5,
+          "b": 8,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "b"
+        },
+        {
+          "name": "Rushan KP",
+          "r": 6,
+          "b": 16,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 8
+        },
+        {
+          "name": "Dilshan Meemanage",
+          "r": 17,
+          "b": 12,
+          "f": 1,
+          "s": 1,
+          "out": false,
+          "pos": 9
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Kamal Indurugalla",
+          "balls": 24,
+          "r": 11,
+          "w": 1,
+          "dots": 18,
+          "wd": 2,
+          "nb": 1
+        },
+        {
+          "name": "Gajanan Sane",
+          "balls": 24,
+          "r": 12,
+          "w": 1,
+          "dots": 15,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Sohil Mehta",
+          "balls": 24,
+          "r": 13,
+          "w": 4,
+          "dots": 16,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Chamath Pathirana",
+          "balls": 24,
+          "r": 23,
+          "w": 1,
+          "dots": 9,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "George Dunsford",
+          "balls": 24,
+          "r": 29,
+          "w": 1,
+          "dots": 8,
+          "wd": 2,
+          "nb": 3
+        }
+      ],
+      "fow": [
+        {
+          "w": 1,
+          "over": 1.3333333333333333
+        },
+        {
+          "w": 2,
+          "over": 2.8333333333333335
+        },
+        {
+          "w": 3,
+          "over": 6.666666666666667
+        },
+        {
+          "w": 4,
+          "over": 7.833333333333333
+        },
+        {
+          "w": 5,
+          "over": 11
+        },
+        {
+          "w": 6,
+          "over": 12.666666666666666
+        },
+        {
+          "w": 7,
+          "over": 13.5
+        }
+      ],
+      "extrasBowled": {
+        "b": 3,
+        "lb": 0,
+        "nb": 4,
+        "wd": 6
+      },
+      "oversBowled": 20,
+      "fielding": [
+        [
+          "Dilshan Meemanage",
+          "c",
+          1
+        ],
+        [
+          "Sulo Wijetunga",
+          "k",
+          3
+        ],
+        [
+          "Rushan KP",
+          "c",
+          1
+        ],
+        [
+          "Prinse Sivaraj",
+          "c",
+          2
+        ]
+      ]
+    },
+    {
+      "id": "uJHiZQRrLBbgBxnlfyIxvA",
+      "date": "2026-10-11",
+      "series": "DDCL Fall 2026",
+      "seriesId": "xD6Qicr7gkrAMq0_MoX4Dw",
+      "opponent": "Storm Chasers",
+      "ground": "Hidden Hills Elementary",
+      "result": "Bay Strikers won by 6 Wickets",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": true,
+      "tossDecision": "bowl",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "Storm Chasers",
+          "runs": 82,
+          "wkts": 8,
+          "overs": "20"
+        },
+        {
+          "team": "Bay Strikers",
+          "runs": 83,
+          "wkts": 4,
+          "overs": "13.3"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Chamath Pathirana",
+          "r": 3,
+          "b": 5,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ro"
+        },
+        {
+          "name": "George Dunsford",
+          "r": 17,
+          "b": 25,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "b"
+        },
+        {
+          "name": "Frank Dunsford",
+          "r": 27,
+          "b": 34,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ct"
+        },
+        {
+          "name": "Daham Sirimanne",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ro"
+        },
+        {
+          "name": "Prinse Sivaraj",
+          "r": 20,
+          "b": 14,
+          "f": 0,
+          "s": 2,
+          "out": false,
+          "pos": 5
+        },
+        {
+          "name": "Kamal Indurugalla",
+          "r": 3,
+          "b": 5,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 6
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Ashish Heda",
+          "balls": 24,
+          "r": 14,
+          "w": 2,
+          "dots": 13,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Kamal Indurugalla",
+          "balls": 24,
+          "r": 17,
+          "w": 1,
+          "dots": 12,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Sohil Mehta",
+          "balls": 18,
+          "r": 12,
+          "w": 0,
+          "dots": 10,
+          "wd": 4,
+          "nb": 0
+        },
+        {
+          "name": "Gajanan Sane",
+          "balls": 24,
+          "r": 15,
+          "w": 2,
+          "dots": 12,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Chamath Pathirana",
+          "balls": 24,
+          "r": 14,
+          "w": 3,
+          "dots": 15,
+          "wd": 3,
+          "nb": 1
+        },
+        {
+          "name": "George Dunsford",
+          "balls": 6,
+          "r": 9,
+          "w": 0,
+          "dots": 2,
+          "wd": 0,
+          "nb": 0
+        }
+      ],
+      "fow": [
+        {
+          "w": 1,
+          "over": 1.6666666666666665
+        },
+        {
+          "w": 2,
+          "over": 7.166666666666667
+        },
+        {
+          "w": 3,
+          "over": 7.333333333333333
+        },
+        {
+          "w": 4,
+          "over": 11.666666666666666
+        }
+      ],
+      "extrasBowled": {
+        "b": 1,
+        "lb": 0,
+        "nb": 1,
+        "wd": 13
+      },
+      "oversBowled": 20,
+      "fielding": [
+        [
+          "Chamath Pathirana",
+          "c",
+          1
+        ],
+        [
+          "Nureshan Dias",
+          "k",
+          4
+        ],
+        [
+          "Kamal Indurugalla",
+          "c",
+          1
+        ],
+        [
+          "Sohil Mehta",
+          "c",
+          1
+        ],
+        [
+          "George Dunsford",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "SSnuWuRsXxRu0IYsLxr3lA",
+      "date": "2026-10-03",
+      "series": "DDCL Fall 2026",
+      "seriesId": "xD6Qicr7gkrAMq0_MoX4Dw",
+      "opponent": "Loyals",
+      "ground": "Sports Park Diamand 1",
+      "result": "Bay Strikers won by 2 Wickets",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": true,
+      "tossDecision": "bowl",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "Loyals",
+          "runs": 122,
+          "wkts": 6,
+          "overs": "20"
+        },
+        {
+          "team": "Bay Strikers",
+          "runs": 124,
+          "wkts": 8,
+          "overs": "19.5"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Chamath Pathirana",
+          "r": 1,
+          "b": 5,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ro"
+        },
+        {
+          "name": "Dilshan Meemanage",
+          "r": 7,
+          "b": 13,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ct"
+        },
+        {
+          "name": "Frank Dunsford",
+          "r": 1,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ctw"
+        },
+        {
+          "name": "Yasashri Ranathunga",
+          "r": 1,
+          "b": 8,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "b"
+        },
+        {
+          "name": "Sulo Wijetunga",
+          "r": 30,
+          "b": 33,
+          "f": 3,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "b"
+        },
+        {
+          "name": "Prinse Sivaraj",
+          "r": 26,
+          "b": 23,
+          "f": 2,
+          "s": 1,
+          "out": true,
+          "pos": 6,
+          "how": "ctw"
+        },
+        {
+          "name": "Ashish Heda",
+          "r": 1,
+          "b": 4,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "ct"
+        },
+        {
+          "name": "Kamal Indurugalla",
+          "r": 31,
+          "b": 20,
+          "f": 1,
+          "s": 3,
+          "out": true,
+          "pos": 8,
+          "how": "ct"
+        },
+        {
+          "name": "Sohil Mehta",
+          "r": 15,
+          "b": 11,
+          "f": 2,
+          "s": 0,
+          "out": false,
+          "pos": 9
+        },
+        {
+          "name": "Gajanan Sane",
+          "r": 1,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 10
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Ashish Heda",
+          "balls": 24,
+          "r": 30,
+          "w": 1,
+          "dots": 8,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Kamal Indurugalla",
+          "balls": 24,
+          "r": 21,
+          "w": 0,
+          "dots": 11,
+          "wd": 1,
+          "nb": 1
+        },
+        {
+          "name": "Sohil Mehta",
+          "balls": 24,
+          "r": 37,
+          "w": 1,
+          "dots": 4,
+          "wd": 4,
+          "nb": 0
+        },
+        {
+          "name": "Gajanan Sane",
+          "balls": 24,
+          "r": 19,
+          "w": 1,
+          "dots": 11,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Chamath Pathirana",
+          "balls": 24,
+          "r": 15,
+          "w": 2,
+          "dots": 12,
+          "wd": 1,
+          "nb": 0
+        }
+      ],
+      "fow": [
+        {
+          "w": 1,
+          "over": 1.3333333333333333
+        },
+        {
+          "w": 2,
+          "over": 2.1666666666666665
+        },
+        {
+          "w": 3,
+          "over": 4.333333333333333
+        },
+        {
+          "w": 4,
+          "over": 5.166666666666667
+        },
+        {
+          "w": 5,
+          "over": 11.833333333333334
+        },
+        {
+          "w": 6,
+          "over": 14.166666666666666
+        },
+        {
+          "w": 7,
+          "over": 15.166666666666666
+        },
+        {
+          "w": 8,
+          "over": 19.5
+        }
+      ],
+      "extrasBowled": {
+        "b": 0,
+        "lb": 0,
+        "nb": 1,
+        "wd": 7
+      },
+      "oversBowled": 20,
+      "fielding": [
+        [
+          "Dilshan Meemanage",
+          "c",
+          2
+        ],
+        [
+          "Gajanan Sane",
+          "c",
+          1
+        ],
+        [
+          "Ashish Heda",
+          "r",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "9o27c2OZYQ3hrI58mP737w",
+      "date": "2026-09-27",
+      "series": "DDCL Fall 2026",
+      "seriesId": "xD6Qicr7gkrAMq0_MoX4Dw",
+      "opponent": "Sunrise Strikers",
+      "ground": "Red Willow park",
+      "result": "Bay Strikers won by 15 Runs",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": false,
+      "tossDecision": "bowl",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "Bay Strikers",
+          "runs": 86,
+          "wkts": 10,
+          "overs": "18.4"
+        },
+        {
+          "team": "Sunrise Strikers",
+          "runs": 71,
+          "wkts": 10,
+          "overs": "19"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Nureshan Dias",
+          "r": 1,
+          "b": 6,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ct"
+        },
+        {
+          "name": "George Dunsford",
+          "r": 20,
+          "b": 25,
+          "f": 1,
+          "s": 1,
+          "out": true,
+          "pos": 2,
+          "how": "b"
+        },
+        {
+          "name": "Frank Dunsford",
+          "r": 13,
+          "b": 25,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ct"
+        },
+        {
+          "name": "Sulo Wijetunga",
+          "r": 10,
+          "b": 11,
+          "f": 0,
+          "s": 1,
+          "out": true,
+          "pos": 4,
+          "how": "b"
+        },
+        {
+          "name": "Chamath Pathirana",
+          "r": 7,
+          "b": 16,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "ct"
+        },
+        {
+          "name": "Prinse Sivaraj",
+          "r": 7,
+          "b": 4,
+          "f": 0,
+          "s": 1,
+          "out": true,
+          "pos": 6,
+          "how": "ct"
+        },
+        {
+          "name": "Dulanjan Dharmasena",
+          "r": 1,
+          "b": 3,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "ro"
+        },
+        {
+          "name": "Kamal Indurugalla",
+          "r": 1,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 8,
+          "how": "b"
+        },
+        {
+          "name": "Dilshan Meemanage",
+          "r": 3,
+          "b": 7,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 9,
+          "how": "b"
+        },
+        {
+          "name": "Sohil Mehta",
+          "r": 1,
+          "b": 9,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 10,
+          "how": "ct"
+        },
+        {
+          "name": "Gajanan Sane",
+          "r": 0,
+          "b": 6,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 11
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Kamal Indurugalla",
+          "balls": 24,
+          "r": 7,
+          "w": 2,
+          "dots": 18,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Dulanjan Dharmasena",
+          "balls": 24,
+          "r": 7,
+          "w": 4,
+          "dots": 18,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Sohil Mehta",
+          "balls": 24,
+          "r": 14,
+          "w": 0,
+          "dots": 17,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Gajanan Sane",
+          "balls": 24,
+          "r": 27,
+          "w": 2,
+          "dots": 11,
+          "wd": 4,
+          "nb": 1
+        },
+        {
+          "name": "George Dunsford",
+          "balls": 18,
+          "r": 14,
+          "w": 0,
+          "dots": 9,
+          "wd": 0,
+          "nb": 2
+        }
+      ],
+      "fow": [
+        {
+          "w": 1,
+          "over": 4.166666666666667
+        },
+        {
+          "w": 2,
+          "over": 6
+        },
+        {
+          "w": 3,
+          "over": 10
+        },
+        {
+          "w": 4,
+          "over": 11.166666666666666
+        },
+        {
+          "w": 5,
+          "over": 12
+        },
+        {
+          "w": 6,
+          "over": 13.666666666666666
+        },
+        {
+          "w": 7,
+          "over": 14.333333333333334
+        },
+        {
+          "w": 8,
+          "over": 15.833333333333334
+        },
+        {
+          "w": 9,
+          "over": 17.166666666666668
+        },
+        {
+          "w": 10,
+          "over": 18.666666666666668
+        }
+      ],
+      "extrasBowled": {
+        "b": 2,
+        "lb": 0,
+        "nb": 3,
+        "wd": 6
+      },
+      "oversBowled": 19,
+      "fielding": [
+        [
+          "Kamal Indurugalla",
+          "r",
+          1
+        ],
+        [
+          "Sohil Mehta",
+          "c",
+          1
+        ],
+        [
+          "Prinse Sivaraj",
+          "r",
+          1
+        ],
+        [
+          "Dilshan Meemanage",
+          "c",
+          2
+        ],
+        [
+          "Dulanjan Dharmasena",
+          "c",
+          1
+        ],
+        [
+          "Kamal Indurugalla",
+          "c",
+          1
+        ],
+        [
+          "Nureshan Dias",
+          "k",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "awBvUUHhoLJYi_qzCg1Tww",
+      "date": "2026-09-19",
+      "series": "DDCL Fall 2026",
+      "seriesId": "xD6Qicr7gkrAMq0_MoX4Dw",
+      "opponent": "Bay Area Falcons",
+      "ground": "Coyote Creek Elementary",
+      "result": "Bay Area Falcons won by 2 Wickets",
+      "forfeit": false,
+      "outcome": "L",
+      "tossWonByUs": false,
+      "tossDecision": "bowl",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "Bay Strikers",
+          "runs": 106,
+          "wkts": 6,
+          "overs": "20"
+        },
+        {
+          "team": "Bay Area Falcons",
+          "runs": 107,
+          "wkts": 8,
+          "overs": "19.2"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Chamath Pathirana",
+          "r": 0,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ctw"
+        },
+        {
+          "name": "Nureshan Dias",
+          "r": 25,
+          "b": 35,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ct"
+        },
+        {
+          "name": "Frank Dunsford",
+          "r": 37,
+          "b": 50,
+          "f": 3,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "b"
+        },
+        {
+          "name": "Prinse Sivaraj",
+          "r": 17,
+          "b": 12,
+          "f": 1,
+          "s": 1,
+          "out": true,
+          "pos": 4,
+          "how": "ct"
+        },
+        {
+          "name": "Kamal Indurugalla",
+          "r": 6,
+          "b": 4,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "ro"
+        },
+        {
+          "name": "Ashish Heda",
+          "r": 3,
+          "b": 8,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "ctw"
+        },
+        {
+          "name": "Dilshan Meemanage",
+          "r": 4,
+          "b": 7,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 7
+        },
+        {
+          "name": "Sulo Wijetunga",
+          "r": 3,
+          "b": 3,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 8
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Ashish Heda",
+          "balls": 24,
+          "r": 16,
+          "w": 2,
+          "dots": 14,
+          "wd": 4,
+          "nb": 0
+        },
+        {
+          "name": "Kamal Indurugalla",
+          "balls": 24,
+          "r": 14,
+          "w": 3,
+          "dots": 14,
+          "wd": 3,
+          "nb": 1
+        },
+        {
+          "name": "Sohil Mehta",
+          "balls": 24,
+          "r": 13,
+          "w": 0,
+          "dots": 16,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Gajanan Sane",
+          "balls": 24,
+          "r": 28,
+          "w": 0,
+          "dots": 9,
+          "wd": 4,
+          "nb": 0
+        },
+        {
+          "name": "Rukshan Perera",
+          "balls": 18,
+          "r": 31,
+          "w": 1,
+          "dots": 6,
+          "wd": 2,
+          "nb": 1
+        },
+        {
+          "name": "Prinse Sivaraj",
+          "balls": 2,
+          "r": 5,
+          "w": 1,
+          "dots": 1,
+          "wd": 1,
+          "nb": 0
+        }
+      ],
+      "fow": [
+        {
+          "w": 1,
+          "over": 0.3333333333333333
+        },
+        {
+          "w": 2,
+          "over": 13.666666666666666
+        },
+        {
+          "w": 3,
+          "over": 16.166666666666668
+        },
+        {
+          "w": 4,
+          "over": 16.833333333333332
+        },
+        {
+          "w": 5,
+          "over": 18
+        },
+        {
+          "w": 6,
+          "over": 18.833333333333332
+        }
+      ],
+      "extrasBowled": {
+        "b": 0,
+        "lb": 0,
+        "nb": 2,
+        "wd": 15
+      },
+      "oversBowled": 19.3,
+      "fielding": [
+        [
+          "Nureshan Dias",
+          "k",
+          1
+        ],
+        [
+          "Prinse Sivaraj",
+          "c",
+          2
+        ],
+        [
+          "Sulo Wijetunga",
+          "r",
+          1
+        ],
+        [
+          "Kamal Indurugalla",
+          "r",
+          1
+        ],
+        [
+          "Frank Dunsford",
+          "c",
+          1
+        ],
+        [
+          "Sulo Wijetunga",
+          "k",
+          1
+        ],
+        [
+          "Ashish Heda",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "nXcrGD1Bonb6mppYYzYpLg",
+      "date": "2026-09-12",
+      "series": "DDCL Fall 2026",
+      "seriesId": "xD6Qicr7gkrAMq0_MoX4Dw",
+      "opponent": "Dublin Super Kings",
+      "ground": "Hidden Valley",
+      "result": "Dublin Super Kings won by 6 Wickets",
+      "forfeit": false,
+      "outcome": "L",
+      "tossWonByUs": false,
+      "tossDecision": "bowl",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "Bay Strikers",
+          "runs": 62,
+          "wkts": 9,
+          "overs": "20"
+        },
+        {
+          "team": "Dublin Super Kings",
+          "runs": 63,
+          "wkts": 4,
+          "overs": "11"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Chamath Pathirana",
+          "r": 0,
+          "b": 5,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ct"
+        },
+        {
+          "name": "Daham Sirimanne",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "b"
+        },
+        {
+          "name": "George Dunsford",
+          "r": 3,
+          "b": 10,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ct"
+        },
+        {
+          "name": "Frank Dunsford",
+          "r": 0,
+          "b": 3,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ct"
+        },
+        {
+          "name": "Nureshan Dias",
+          "r": 7,
+          "b": 10,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "ctw"
+        },
+        {
+          "name": "Dilshan Meemanage",
+          "r": 0,
+          "b": 3,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "ctw"
+        },
+        {
+          "name": "Ashish Heda",
+          "r": 28,
+          "b": 57,
+          "f": 1,
+          "s": 1,
+          "out": false,
+          "pos": 7
+        },
+        {
+          "name": "Sulo Wijetunga",
+          "r": 6,
+          "b": 6,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 8,
+          "how": "ro"
+        },
+        {
+          "name": "Kamal Indurugalla",
+          "r": 4,
+          "b": 13,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 9,
+          "how": "ct"
+        },
+        {
+          "name": "Dulanjan Dharmasena",
+          "r": 3,
+          "b": 9,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 10,
+          "how": "b"
+        },
+        {
+          "name": "Gajanan Sane",
+          "r": 1,
+          "b": 5,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 11
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Ashish Heda",
+          "balls": 24,
+          "r": 25,
+          "w": 3,
+          "dots": 14,
+          "wd": 1,
+          "nb": 2
+        },
+        {
+          "name": "Kamal Indurugalla",
+          "balls": 18,
+          "r": 19,
+          "w": 0,
+          "dots": 9,
+          "wd": 6,
+          "nb": 0
+        },
+        {
+          "name": "Dulanjan Dharmasena",
+          "balls": 12,
+          "r": 11,
+          "w": 0,
+          "dots": 4,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Gajanan Sane",
+          "balls": 12,
+          "r": 8,
+          "w": 1,
+          "dots": 7,
+          "wd": 2,
+          "nb": 0
+        }
+      ],
+      "fow": [
+        {
+          "w": 1,
+          "over": 0.8333333333333334
+        },
+        {
+          "w": 2,
+          "over": 1.1666666666666667
+        },
+        {
+          "w": 3,
+          "over": 1.6666666666666665
+        },
+        {
+          "w": 4,
+          "over": 4.166666666666667
+        },
+        {
+          "w": 5,
+          "over": 4.666666666666667
+        },
+        {
+          "w": 6,
+          "over": 5.5
+        },
+        {
+          "w": 7,
+          "over": 9.5
+        },
+        {
+          "w": 8,
+          "over": 14
+        },
+        {
+          "w": 9,
+          "over": 17.833333333333332
+        }
+      ],
+      "extrasBowled": {
+        "b": 0,
+        "lb": 0,
+        "nb": 2,
+        "wd": 11
+      },
+      "oversBowled": 11,
+      "fielding": [
+        [
+          "Dilshan Meemanage",
+          "c",
+          1
+        ],
+        [
+          "Sulo Wijetunga",
+          "k",
+          2
+        ],
+        [
+          "Kamal Indurugalla",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "uwDCZ72bQV4lDAlOz8BmLA",
+      "date": "2026-08-30",
+      "series": "DDCL Fall 2026",
+      "seriesId": "xD6Qicr7gkrAMq0_MoX4Dw",
+      "opponent": "OG",
+      "ground": "East Branch Park",
+      "result": "Bay Strikers won by 56 Runs",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": false,
+      "tossDecision": "bowl",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "Bay Strikers",
+          "runs": 117,
+          "wkts": 10,
+          "overs": "19.5"
+        },
+        {
+          "team": "OG",
+          "runs": 61,
+          "wkts": 8,
+          "overs": "20"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Chamath Pathirana",
+          "r": 6,
+          "b": 20,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ro"
+        },
+        {
+          "name": "George Dunsford",
+          "r": 50,
+          "b": 44,
+          "f": 2,
+          "s": 1,
+          "out": true,
+          "pos": 2,
+          "how": "ctw"
+        },
+        {
+          "name": "Frank Dunsford",
+          "r": 6,
+          "b": 12,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ctw"
+        },
+        {
+          "name": "Rukshan Perera",
+          "r": 1,
+          "b": 4,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "b"
+        },
+        {
+          "name": "Sulo Wijetunga",
+          "r": 11,
+          "b": 8,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "ct"
+        },
+        {
+          "name": "Kamal Indurugalla",
+          "r": 4,
+          "b": 2,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "ct"
+        },
+        {
+          "name": "Ashish Heda",
+          "r": 7,
+          "b": 8,
+          "f": 0,
+          "s": 1,
+          "out": true,
+          "pos": 7,
+          "how": "b"
+        },
+        {
+          "name": "Rushan KP",
+          "r": 1,
+          "b": 3,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 8,
+          "how": "ct"
+        },
+        {
+          "name": "Dulanjan Dharmasena",
+          "r": 13,
+          "b": 14,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 9,
+          "how": "b"
+        },
+        {
+          "name": "Sohil Mehta",
+          "r": 4,
+          "b": 3,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 10
+        },
+        {
+          "name": "Gajanan Sane",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 11,
+          "how": "ctw"
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Ashish Heda",
+          "balls": 18,
+          "r": 4,
+          "w": 2,
+          "dots": 16,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Kamal Indurugalla",
+          "balls": 24,
+          "r": 8,
+          "w": 2,
+          "dots": 18,
+          "wd": 1,
+          "nb": 1
+        },
+        {
+          "name": "Dulanjan Dharmasena",
+          "balls": 18,
+          "r": 15,
+          "w": 2,
+          "dots": 10,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Sohil Mehta",
+          "balls": 18,
+          "r": 11,
+          "w": 1,
+          "dots": 12,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Gajanan Sane",
+          "balls": 18,
+          "r": 5,
+          "w": 1,
+          "dots": 14,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Rukshan Perera",
+          "balls": 6,
+          "r": 6,
+          "w": 0,
+          "dots": 3,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Chamath Pathirana",
+          "balls": 6,
+          "r": 8,
+          "w": 0,
+          "dots": 3,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "George Dunsford",
+          "balls": 6,
+          "r": 1,
+          "w": 0,
+          "dots": 5,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Rushan KP",
+          "balls": 6,
+          "r": 3,
+          "w": 0,
+          "dots": 4,
+          "wd": 0,
+          "nb": 1
+        }
+      ],
+      "fow": [
+        {
+          "w": 1,
+          "over": 5.5
+        },
+        {
+          "w": 2,
+          "over": 9.333333333333334
+        },
+        {
+          "w": 3,
+          "over": 10.666666666666666
+        },
+        {
+          "w": 4,
+          "over": 13
+        },
+        {
+          "w": 5,
+          "over": 13.333333333333334
+        },
+        {
+          "w": 6,
+          "over": 15.333333333333334
+        },
+        {
+          "w": 7,
+          "over": 16.333333333333332
+        },
+        {
+          "w": 8,
+          "over": 17.666666666666668
+        },
+        {
+          "w": 9,
+          "over": 19.666666666666668
+        },
+        {
+          "w": 10,
+          "over": 19.833333333333332
+        }
+      ],
+      "extrasBowled": {
+        "b": 0,
+        "lb": 0,
+        "nb": 2,
+        "wd": 9
+      },
+      "oversBowled": 20,
+      "fielding": [
+        [
+          "George Dunsford",
+          "c",
+          1
+        ],
+        [
+          "Sulo Wijetunga",
+          "c",
+          1
+        ],
+        [
+          "Rushan KP",
+          "c",
+          1
+        ],
+        [
+          "Chamath Pathirana",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "8zStcmbKdYEkiF9lTRp8BA",
+      "date": "2026-08-23",
+      "series": "DDCL Fall 2026",
+      "seriesId": "xD6Qicr7gkrAMq0_MoX4Dw",
+      "opponent": "Namma Boys",
+      "ground": "Sports Park Diamand 1",
+      "result": "Bay Strikers won by 6 Wickets",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": true,
+      "tossDecision": "bowl",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "Namma Boys",
+          "runs": 62,
+          "wkts": 10,
+          "overs": "18.1"
+        },
+        {
+          "team": "Bay Strikers",
+          "runs": 64,
+          "wkts": 4,
+          "overs": "9.4"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Chamath Pathirana",
+          "r": 26,
+          "b": 31,
+          "f": 2,
+          "s": 0,
+          "out": false,
+          "pos": 1
+        },
+        {
+          "name": "George Dunsford",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "b"
+        },
+        {
+          "name": "Frank Dunsford",
+          "r": 9,
+          "b": 17,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ctw"
+        },
+        {
+          "name": "Jayanath Marambe",
+          "r": 13,
+          "b": 9,
+          "f": 1,
+          "s": 1,
+          "out": true,
+          "pos": 4,
+          "how": "ct"
+        },
+        {
+          "name": "Prinse Sivaraj",
+          "r": 6,
+          "b": 2,
+          "f": 0,
+          "s": 1,
+          "out": true,
+          "pos": 5,
+          "how": "ct"
+        },
+        {
+          "name": "Kamal Indurugalla",
+          "r": 6,
+          "b": 1,
+          "f": 0,
+          "s": 1,
+          "out": false,
+          "pos": 6
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Jayanath Marambe",
+          "balls": 24,
+          "r": 13,
+          "w": 0,
+          "dots": 16,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Ashish Heda",
+          "balls": 19,
+          "r": 13,
+          "w": 3,
+          "dots": 10,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Kamal Indurugalla",
+          "balls": 24,
+          "r": 14,
+          "w": 2,
+          "dots": 14,
+          "wd": 1,
+          "nb": 1
+        },
+        {
+          "name": "Dulanjan Dharmasena",
+          "balls": 24,
+          "r": 8,
+          "w": 3,
+          "dots": 18,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Sohil Mehta",
+          "balls": 18,
+          "r": 14,
+          "w": 1,
+          "dots": 10,
+          "wd": 1,
+          "nb": 0
+        }
+      ],
+      "fow": [
+        {
+          "w": 1,
+          "over": 0.8333333333333334
+        },
+        {
+          "w": 2,
+          "over": 5.666666666666667
+        },
+        {
+          "w": 3,
+          "over": 9
+        },
+        {
+          "w": 4,
+          "over": 9.5
+        }
+      ],
+      "extrasBowled": {
+        "b": 0,
+        "lb": 0,
+        "nb": 2,
+        "wd": 4
+      },
+      "oversBowled": 18.2,
+      "fielding": [
+        [
+          "Jayanath Marambe",
+          "r",
+          1
+        ],
+        [
+          "Jayanath Marambe",
+          "c",
+          2
+        ],
+        [
+          "Kamal Indurugalla",
+          "c",
+          1
+        ],
+        [
+          "Prinse Sivaraj",
+          "c",
+          1
+        ],
+        [
+          "Dulanjan Dharmasena",
+          "c",
+          2
+        ]
+      ]
+    },
+    {
+      "id": "wwDrGWFM5TjK7TbwB_04kw",
+      "date": "2026-08-15",
+      "series": "DDCL Fall 2026",
+      "seriesId": "xD6Qicr7gkrAMq0_MoX4Dw",
+      "opponent": "Legion Mavericks",
+      "ground": "Diablo Vista Park",
+      "result": "Bay Strikers won by 3 Wickets",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": true,
+      "tossDecision": "bowl",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "Legion Mavericks",
+          "runs": 95,
+          "wkts": 7,
+          "overs": "20"
+        },
+        {
+          "team": "Bay Strikers",
+          "runs": 97,
+          "wkts": 7,
+          "overs": "17.3"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Chamath Pathirana",
+          "r": 0,
+          "b": 3,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ct"
+        },
+        {
+          "name": "Daham Sirimanne",
+          "r": 28,
+          "b": 25,
+          "f": 2,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ct"
+        },
+        {
+          "name": "George Dunsford",
+          "r": 3,
+          "b": 10,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ro"
+        },
+        {
+          "name": "Frank Dunsford",
+          "r": 15,
+          "b": 32,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ct"
+        },
+        {
+          "name": "Ashish Heda",
+          "r": 0,
+          "b": 5,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "ct"
+        },
+        {
+          "name": "Rukshan Perera",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "ct"
+        },
+        {
+          "name": "Nureshan Dias",
+          "r": 29,
+          "b": 23,
+          "f": 3,
+          "s": 0,
+          "out": false,
+          "pos": 7
+        },
+        {
+          "name": "Dilshan Meemanage",
+          "r": 1,
+          "b": 4,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 8,
+          "how": "ct"
+        },
+        {
+          "name": "Kamal Indurugalla",
+          "r": 14,
+          "b": 4,
+          "f": 0,
+          "s": 2,
+          "out": false,
+          "pos": 9
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Ashish Heda",
+          "balls": 24,
+          "r": 16,
+          "w": 0,
+          "dots": 15,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Kamal Indurugalla",
+          "balls": 24,
+          "r": 28,
+          "w": 1,
+          "dots": 14,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Gajanan Sane",
+          "balls": 24,
+          "r": 19,
+          "w": 1,
+          "dots": 10,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Sohil Mehta",
+          "balls": 24,
+          "r": 11,
+          "w": 2,
+          "dots": 19,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Chamath Pathirana",
+          "balls": 6,
+          "r": 8,
+          "w": 0,
+          "dots": 1,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Rukshan Perera",
+          "balls": 18,
+          "r": 12,
+          "w": 3,
+          "dots": 10,
+          "wd": 3,
+          "nb": 0
+        }
+      ],
+      "fow": [
+        {
+          "w": 1,
+          "over": 0.5
+        },
+        {
+          "w": 2,
+          "over": 2.8333333333333335
+        },
+        {
+          "w": 3,
+          "over": 9.5
+        },
+        {
+          "w": 4,
+          "over": 10.666666666666666
+        },
+        {
+          "w": 5,
+          "over": 10.833333333333334
+        },
+        {
+          "w": 6,
+          "over": 15
+        },
+        {
+          "w": 7,
+          "over": 16.833333333333332
+        }
+      ],
+      "extrasBowled": {
+        "b": 1,
+        "lb": 0,
+        "nb": 0,
+        "wd": 10
+      },
+      "oversBowled": 20,
+      "fielding": [
+        [
+          "Chamath Pathirana",
+          "c",
+          1
+        ],
+        [
+          "Nureshan Dias",
+          "k",
+          4
+        ]
+      ]
+    },
+    {
+      "id": "7QjUhG6LOAG6AYdJqiO1xA",
+      "date": "2026-07-25",
+      "series": "DDCL Summer 26",
+      "seriesId": "u2KnAWQG_l9DZ_jsRAByWA",
+      "opponent": "Retro Runners",
+      "ground": "Twin Creeks Elementary",
+      "result": "Retro Runners won by 6 Wickets",
+      "forfeit": false,
+      "outcome": "L",
+      "tossWonByUs": true,
+      "tossDecision": "bat",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "Bay Strikers",
+          "runs": 78,
+          "wkts": 9,
+          "overs": "20"
+        },
+        {
+          "team": "Retro Runners",
+          "runs": 79,
+          "wkts": 4,
+          "overs": "15.4"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Chamath Pathirana",
+          "r": 10,
+          "b": 18,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ctw"
+        },
+        {
+          "name": "George Dunsford",
+          "r": 13,
+          "b": 16,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ct"
+        },
+        {
+          "name": "Frank Dunsford",
+          "r": 3,
+          "b": 16,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ctw"
+        },
+        {
+          "name": "Jayanath Marambe",
+          "r": 7,
+          "b": 18,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ct"
+        },
+        {
+          "name": "Sulo Wijetunga",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "b"
+        },
+        {
+          "name": "Ashish Heda",
+          "r": 23,
+          "b": 28,
+          "f": 1,
+          "s": 0,
+          "out": false,
+          "pos": 6
+        },
+        {
+          "name": "Dilshan Meemanage",
+          "r": 3,
+          "b": 8,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "ct"
+        },
+        {
+          "name": "Kamal Indurugalla",
+          "r": 1,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 8,
+          "how": "ct"
+        },
+        {
+          "name": "Rushan KP",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 9,
+          "how": "b"
+        },
+        {
+          "name": "Dulanjan Dharmasena",
+          "r": 7,
+          "b": 9,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 10,
+          "how": "ro"
+        },
+        {
+          "name": "Sohil Mehta",
+          "r": 3,
+          "b": 5,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 11
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Sohil Mehta",
+          "balls": 6,
+          "r": 14,
+          "w": 0,
+          "dots": 2,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Jayanath Marambe",
+          "balls": 24,
+          "r": 20,
+          "w": 2,
+          "dots": 14,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Kamal Indurugalla",
+          "balls": 24,
+          "r": 14,
+          "w": 0,
+          "dots": 15,
+          "wd": 4,
+          "nb": 0
+        },
+        {
+          "name": "Dulanjan Dharmasena",
+          "balls": 18,
+          "r": 19,
+          "w": 1,
+          "dots": 9,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Ashish Heda",
+          "balls": 22,
+          "r": 12,
+          "w": 0,
+          "dots": 12,
+          "wd": 1,
+          "nb": 0
+        }
+      ],
+      "fow": [
+        {
+          "w": 1,
+          "over": 5.5
+        },
+        {
+          "w": 2,
+          "over": 6
+        },
+        {
+          "w": 3,
+          "over": 9.666666666666666
+        },
+        {
+          "w": 4,
+          "over": 9.833333333333334
+        },
+        {
+          "w": 5,
+          "over": 12.833333333333334
+        },
+        {
+          "w": 6,
+          "over": 15.333333333333334
+        },
+        {
+          "w": 7,
+          "over": 15.833333333333334
+        },
+        {
+          "w": 8,
+          "over": 16
+        },
+        {
+          "w": 9,
+          "over": 19
+        }
+      ],
+      "extrasBowled": {
+        "b": 0,
+        "lb": 0,
+        "nb": 0,
+        "wd": 5
+      },
+      "oversBowled": 15.7,
+      "fielding": [
+        [
+          "Rushan KP",
+          "c",
+          1
+        ],
+        [
+          "Kamal Indurugalla",
+          "r",
+          1
+        ],
+        [
+          "Frank Dunsford",
+          "c",
+          1
+        ],
+        [
+          "George Dunsford",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "ZuFwnB5h-nUb_ozB7t3abA",
+      "date": "2026-07-19",
+      "series": "DDCL Summer 26",
+      "seriesId": "u2KnAWQG_l9DZ_jsRAByWA",
+      "opponent": "Monks",
+      "ground": "East Branch Park",
+      "result": "Bay Strikers won by 34 Runs",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": true,
+      "tossDecision": "bat",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "Bay Strikers",
+          "runs": 108,
+          "wkts": 6,
+          "overs": "20"
+        },
+        {
+          "team": "Monks",
+          "runs": 74,
+          "wkts": 10,
+          "overs": "17.2"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Chamath Pathirana",
+          "r": 33,
+          "b": 44,
+          "f": 2,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ctw"
+        },
+        {
+          "name": "George Dunsford",
+          "r": 8,
+          "b": 13,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "b"
+        },
+        {
+          "name": "Frank Dunsford",
+          "r": 20,
+          "b": 27,
+          "f": 2,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ct"
+        },
+        {
+          "name": "Daham Sirimanne",
+          "r": 0,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ct"
+        },
+        {
+          "name": "Ashish Heda",
+          "r": 13,
+          "b": 19,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 5
+        },
+        {
+          "name": "Sulo Wijetunga",
+          "r": 9,
+          "b": 9,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "ct"
+        },
+        {
+          "name": "Kamal Indurugalla",
+          "r": 17,
+          "b": 9,
+          "f": 2,
+          "s": 1,
+          "out": true,
+          "pos": 7,
+          "how": "mk"
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Ashish Heda",
+          "balls": 24,
+          "r": 17,
+          "w": 3,
+          "dots": 11,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Kamal Indurugalla",
+          "balls": 24,
+          "r": 19,
+          "w": 1,
+          "dots": 14,
+          "wd": 5,
+          "nb": 1
+        },
+        {
+          "name": "Dulanjan Dharmasena",
+          "balls": 24,
+          "r": 19,
+          "w": 2,
+          "dots": 13,
+          "wd": 4,
+          "nb": 0
+        },
+        {
+          "name": "Sohil Mehta",
+          "balls": 18,
+          "r": 6,
+          "w": 2,
+          "dots": 14,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Chamath Pathirana",
+          "balls": 14,
+          "r": 13,
+          "w": 1,
+          "dots": 4,
+          "wd": 0,
+          "nb": 0
+        }
+      ],
+      "fow": [
+        {
+          "w": 1,
+          "over": 5.5
+        },
+        {
+          "w": 2,
+          "over": 13
+        },
+        {
+          "w": 3,
+          "over": 13.5
+        },
+        {
+          "w": 4,
+          "over": 15.5
+        },
+        {
+          "w": 5,
+          "over": 17.833333333333332
+        },
+        {
+          "w": 6,
+          "over": 19.833333333333332
+        }
+      ],
+      "extrasBowled": {
+        "b": 0,
+        "lb": 0,
+        "nb": 1,
+        "wd": 13
+      },
+      "oversBowled": 17.3,
+      "fielding": [
+        [
+          "Daham Sirimanne",
+          "c",
+          1
+        ],
+        [
+          "Dilshan Meemanage",
+          "c",
+          1
+        ],
+        [
+          "Sohil Mehta",
+          "c",
+          1
+        ],
+        [
+          "Chamath Pathirana",
+          "r",
+          1
+        ],
+        [
+          "Dulanjan Dharmasena",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "3qzkjOL1nTSg3Ji_hUw8mQ",
+      "date": "2026-07-12",
+      "series": "DDCL Summer 26",
+      "seriesId": "u2KnAWQG_l9DZ_jsRAByWA",
+      "opponent": "Loyals",
+      "ground": "Red Willow park",
+      "result": "Bay Strikers won by 17 Runs",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": false,
+      "tossDecision": "bowl",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "Bay Strikers",
+          "runs": 96,
+          "wkts": 7,
+          "overs": "20"
+        },
+        {
+          "team": "Loyals",
+          "runs": 79,
+          "wkts": 10,
+          "overs": "19"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Chamath Pathirana",
+          "r": 3,
+          "b": 12,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ctw"
+        },
+        {
+          "name": "George Dunsford",
+          "r": 25,
+          "b": 34,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ct"
+        },
+        {
+          "name": "Frank Dunsford",
+          "r": 12,
+          "b": 21,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ct"
+        },
+        {
+          "name": "Jayanath Marambe",
+          "r": 25,
+          "b": 23,
+          "f": 1,
+          "s": 1,
+          "out": true,
+          "pos": 4,
+          "how": "ct"
+        },
+        {
+          "name": "Prinse Sivaraj",
+          "r": 13,
+          "b": 15,
+          "f": 0,
+          "s": 1,
+          "out": true,
+          "pos": 5,
+          "how": "ct"
+        },
+        {
+          "name": "Kamal Indurugalla",
+          "r": 9,
+          "b": 11,
+          "f": 1,
+          "s": 0,
+          "out": false,
+          "pos": 6
+        },
+        {
+          "name": "Ashish Heda",
+          "r": 1,
+          "b": 4,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "ct"
+        },
+        {
+          "name": "Dilshan Meemanage",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 8,
+          "how": "ctw"
+        },
+        {
+          "name": "Dulanjan Dharmasena",
+          "r": 1,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 9
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Ashish Heda",
+          "balls": 18,
+          "r": 14,
+          "w": 1,
+          "dots": 9,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Jayanath Marambe",
+          "balls": 24,
+          "r": 20,
+          "w": 3,
+          "dots": 13,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Kamal Indurugalla",
+          "balls": 24,
+          "r": 12,
+          "w": 1,
+          "dots": 14,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Dulanjan Dharmasena",
+          "balls": 24,
+          "r": 15,
+          "w": 3,
+          "dots": 15,
+          "wd": 2,
+          "nb": 1
+        },
+        {
+          "name": "Daham Walgama",
+          "balls": 24,
+          "r": 18,
+          "w": 1,
+          "dots": 14,
+          "wd": 0,
+          "nb": 0
+        }
+      ],
+      "fow": [
+        {
+          "w": 1,
+          "over": 3.5
+        },
+        {
+          "w": 2,
+          "over": 10.5
+        },
+        {
+          "w": 3,
+          "over": 11
+        },
+        {
+          "w": 4,
+          "over": 16
+        },
+        {
+          "w": 5,
+          "over": 17.833333333333332
+        },
+        {
+          "w": 6,
+          "over": 19
+        },
+        {
+          "w": 7,
+          "over": 19.833333333333332
+        }
+      ],
+      "extrasBowled": {
+        "b": 0,
+        "lb": 0,
+        "nb": 1,
+        "wd": 6
+      },
+      "oversBowled": 19,
+      "fielding": [
+        [
+          "Chamath Pathirana",
+          "c",
+          2
+        ],
+        [
+          "Jayanath Marambe",
+          "c",
+          1
+        ],
+        [
+          "George Dunsford",
+          "r",
+          1
+        ],
+        [
+          "Daham Walgama",
+          "r",
+          1
+        ],
+        [
+          "Dulanjan Dharmasena",
+          "c",
+          1
+        ],
+        [
+          "Dilshan Meemanage",
+          "c",
+          1
+        ],
+        [
+          "Prinse Sivaraj",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "sDXB84KdfNmuHqmGGEt-2A",
+      "date": "2026-06-28",
+      "series": "DDCL Summer 26",
+      "seriesId": "u2KnAWQG_l9DZ_jsRAByWA",
+      "opponent": "Tipsy Bulls",
+      "ground": "Hidden Hills Elementary",
+      "result": "Bay Strikers won by 20 Runs",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": false,
+      "tossDecision": "bowl",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "Bay Strikers",
+          "runs": 88,
+          "wkts": 9,
+          "overs": "20"
+        },
+        {
+          "team": "Tipsy Bulls",
+          "runs": 68,
+          "wkts": 10,
+          "overs": "18.5"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Chamath Pathirana",
+          "r": 14,
+          "b": 26,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ct"
+        },
+        {
+          "name": "Daham Sirimanne",
+          "r": 0,
+          "b": 9,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ro"
+        },
+        {
+          "name": "Frank Dunsford",
+          "r": 12,
+          "b": 19,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ct"
+        },
+        {
+          "name": "Jayanath Marambe",
+          "r": 13,
+          "b": 20,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ctw"
+        },
+        {
+          "name": "Rukshan Perera",
+          "r": 0,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "b"
+        },
+        {
+          "name": "George Dunsford",
+          "r": 2,
+          "b": 4,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "b"
+        },
+        {
+          "name": "Ashish Heda",
+          "r": 24,
+          "b": 25,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 7
+        },
+        {
+          "name": "Sulo Wijetunga",
+          "r": 3,
+          "b": 6,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 8,
+          "how": "ct"
+        },
+        {
+          "name": "Dilshan Meemanage",
+          "r": 2,
+          "b": 4,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 9,
+          "how": "b"
+        },
+        {
+          "name": "Kamal Indurugalla",
+          "r": 7,
+          "b": 6,
+          "f": 0,
+          "s": 1,
+          "out": true,
+          "pos": 10,
+          "how": "ct"
+        },
+        {
+          "name": "Sohil Mehta",
+          "r": 1,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 11
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Jayanath Marambe",
+          "balls": 23,
+          "r": 31,
+          "w": 1,
+          "dots": 11,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Ashish Heda",
+          "balls": 24,
+          "r": 7,
+          "w": 0,
+          "dots": 19,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Kamal Indurugalla",
+          "balls": 24,
+          "r": 6,
+          "w": 2,
+          "dots": 20,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Sohil Mehta",
+          "balls": 24,
+          "r": 12,
+          "w": 3,
+          "dots": 15,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Chamath Pathirana",
+          "balls": 6,
+          "r": 2,
+          "w": 2,
+          "dots": 4,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Rukshan Perera",
+          "balls": 12,
+          "r": 9,
+          "w": 1,
+          "dots": 7,
+          "wd": 1,
+          "nb": 1
+        }
+      ],
+      "fow": [
+        {
+          "w": 1,
+          "over": 3.6666666666666665
+        },
+        {
+          "w": 2,
+          "over": 7.5
+        },
+        {
+          "w": 3,
+          "over": 10.833333333333334
+        },
+        {
+          "w": 4,
+          "over": 12
+        },
+        {
+          "w": 5,
+          "over": 12.5
+        },
+        {
+          "w": 6,
+          "over": 13.333333333333334
+        },
+        {
+          "w": 7,
+          "over": 14.833333333333334
+        },
+        {
+          "w": 8,
+          "over": 16.166666666666668
+        },
+        {
+          "w": 9,
+          "over": 18.166666666666668
+        }
+      ],
+      "extrasBowled": {
+        "b": 1,
+        "lb": 0,
+        "nb": 1,
+        "wd": 9
+      },
+      "oversBowled": 18.8,
+      "fielding": [
+        [
+          "Frank Dunsford",
+          "c",
+          1
+        ],
+        [
+          "Jayanath Marambe",
+          "r",
+          1
+        ],
+        [
+          "Sulo Wijetunga",
+          "k",
+          1
+        ],
+        [
+          "Daham Sirimanne",
+          "c",
+          1
+        ],
+        [
+          "Jayanath Marambe",
+          "c",
+          2
+        ],
+        [
+          "George Dunsford",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "GCTOOaEjvsMVfUXCEXyLoQ",
+      "date": "2026-06-20",
+      "series": "DDCL Summer 26",
+      "seriesId": "u2KnAWQG_l9DZ_jsRAByWA",
+      "opponent": "Sunrise Strikers",
+      "ground": "Hidden Hills Elementary",
+      "result": "Sunrise Strikers won by 33 Runs",
+      "forfeit": false,
+      "outcome": "L",
+      "tossWonByUs": false,
+      "tossDecision": "bat",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "Sunrise Strikers",
+          "runs": 103,
+          "wkts": 7,
+          "overs": "20"
+        },
+        {
+          "team": "Bay Strikers",
+          "runs": 70,
+          "wkts": 10,
+          "overs": "19.3"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Chamath Pathirana",
+          "r": 10,
+          "b": 16,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ro"
+        },
+        {
+          "name": "Dilshan Meemanage",
+          "r": 1,
+          "b": 9,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "b"
+        },
+        {
+          "name": "Frank Dunsford",
+          "r": 3,
+          "b": 11,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ct"
+        },
+        {
+          "name": "George Dunsford",
+          "r": 13,
+          "b": 30,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ct"
+        },
+        {
+          "name": "Ashish Heda",
+          "r": 4,
+          "b": 11,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "ct"
+        },
+        {
+          "name": "Daham Sirimanne",
+          "r": 3,
+          "b": 5,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "b"
+        },
+        {
+          "name": "Kamal Indurugalla",
+          "r": 0,
+          "b": 4,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "b"
+        },
+        {
+          "name": "Sulo Wijetunga",
+          "r": 3,
+          "b": 7,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 8,
+          "how": "ctw"
+        },
+        {
+          "name": "Rushan KP",
+          "r": 9,
+          "b": 16,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 9,
+          "how": "ct"
+        },
+        {
+          "name": "Lal Senanayake",
+          "r": 2,
+          "b": 8,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 10,
+          "how": "st"
+        },
+        {
+          "name": "Dulanjan Dharmasena",
+          "r": 1,
+          "b": 5,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 11
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Ashish Heda",
+          "balls": 24,
+          "r": 13,
+          "w": 1,
+          "dots": 14,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Kamal Indurugalla",
+          "balls": 24,
+          "r": 9,
+          "w": 1,
+          "dots": 17,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Dulanjan Dharmasena",
+          "balls": 24,
+          "r": 21,
+          "w": 2,
+          "dots": 14,
+          "wd": 5,
+          "nb": 0
+        },
+        {
+          "name": "Chamath Pathirana",
+          "balls": 18,
+          "r": 27,
+          "w": 0,
+          "dots": 6,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Lal Senanayake",
+          "balls": 6,
+          "r": 10,
+          "w": 1,
+          "dots": 1,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "George Dunsford",
+          "balls": 24,
+          "r": 23,
+          "w": 1,
+          "dots": 10,
+          "wd": 0,
+          "nb": 0
+        }
+      ],
+      "fow": [
+        {
+          "w": 1,
+          "over": 3.6666666666666665
+        },
+        {
+          "w": 2,
+          "over": 4.833333333333333
+        },
+        {
+          "w": 3,
+          "over": 5.833333333333333
+        },
+        {
+          "w": 4,
+          "over": 10.666666666666666
+        },
+        {
+          "w": 5,
+          "over": 12.333333333333334
+        },
+        {
+          "w": 6,
+          "over": 13
+        },
+        {
+          "w": 7,
+          "over": 13.833333333333334
+        },
+        {
+          "w": 8,
+          "over": 15.166666666666666
+        },
+        {
+          "w": 9,
+          "over": 17
+        },
+        {
+          "w": 10,
+          "over": 19.5
+        }
+      ],
+      "extrasBowled": {
+        "b": 0,
+        "lb": 0,
+        "nb": 0,
+        "wd": 8
+      },
+      "oversBowled": 20,
+      "fielding": [
+        [
+          "Frank Dunsford",
+          "c",
+          1
+        ],
+        [
+          "Chamath Pathirana",
+          "c",
+          1
+        ],
+        [
+          "Kamal Indurugalla",
+          "c",
+          1
+        ],
+        [
+          "Dulanjan Dharmasena",
+          "c",
+          1
+        ],
+        [
+          "Sulo Wijetunga",
+          "k",
+          2
+        ],
+        [
+          "Sulo Wijetunga",
+          "r",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "gJbVVmd7t1JRzJIcO3VMbQ",
+      "date": "2026-06-14",
+      "series": "DDCL Summer 26",
+      "seriesId": "u2KnAWQG_l9DZ_jsRAByWA",
+      "opponent": "Chhavas",
+      "ground": "East Branch Park",
+      "result": "Bay Strikers won by 3 Wickets",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": true,
+      "tossDecision": "bowl",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "Chhavas",
+          "runs": 47,
+          "wkts": 10,
+          "overs": "16.3"
+        },
+        {
+          "team": "Bay Strikers",
+          "runs": 50,
+          "wkts": 7,
+          "overs": "12.2"
+        }
+      ],
+      "batting": [
+        {
+          "name": "George Dunsford",
+          "r": 9,
+          "b": 19,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ctw"
+        },
+        {
+          "name": "Daham Sirimanne",
+          "r": 1,
+          "b": 4,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "b"
+        },
+        {
+          "name": "Frank Dunsford",
+          "r": 1,
+          "b": 5,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "b"
+        },
+        {
+          "name": "Ashish Heda",
+          "r": 4,
+          "b": 6,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ctw"
+        },
+        {
+          "name": "Sulo Wijetunga",
+          "r": 1,
+          "b": 5,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "mk"
+        },
+        {
+          "name": "Chamath Pathirana",
+          "r": 1,
+          "b": 7,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "ct"
+        },
+        {
+          "name": "Rushan KP",
+          "r": 5,
+          "b": 15,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 7
+        },
+        {
+          "name": "Lal Senanayake",
+          "r": 6,
+          "b": 10,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 8,
+          "how": "ct"
+        },
+        {
+          "name": "Kamal Indurugalla",
+          "r": 9,
+          "b": 6,
+          "f": 0,
+          "s": 1,
+          "out": false,
+          "pos": 9
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Ashish Heda",
+          "balls": 18,
+          "r": 11,
+          "w": 0,
+          "dots": 10,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Kamal Indurugalla",
+          "balls": 21,
+          "r": 8,
+          "w": 2,
+          "dots": 14,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Dulanjan Dharmasena",
+          "balls": 18,
+          "r": 9,
+          "w": 1,
+          "dots": 14,
+          "wd": 4,
+          "nb": 0
+        },
+        {
+          "name": "Chamath Pathirana",
+          "balls": 18,
+          "r": 8,
+          "w": 2,
+          "dots": 12,
+          "wd": 1,
+          "nb": 1
+        },
+        {
+          "name": "Lal Senanayake",
+          "balls": 12,
+          "r": 6,
+          "w": 2,
+          "dots": 9,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "George Dunsford",
+          "balls": 12,
+          "r": 5,
+          "w": 2,
+          "dots": 8,
+          "wd": 1,
+          "nb": 0
+        }
+      ],
+      "fow": [
+        {
+          "w": 1,
+          "over": 1.5
+        },
+        {
+          "w": 2,
+          "over": 2.3333333333333335
+        },
+        {
+          "w": 3,
+          "over": 3.6666666666666665
+        },
+        {
+          "w": 4,
+          "over": 5.5
+        },
+        {
+          "w": 5,
+          "over": 6.833333333333333
+        },
+        {
+          "w": 6,
+          "over": 7.5
+        },
+        {
+          "w": 7,
+          "over": 9.666666666666666
+        }
+      ],
+      "extrasBowled": {
+        "b": 0,
+        "lb": 0,
+        "nb": 1,
+        "wd": 11
+      },
+      "oversBowled": 16.5,
+      "fielding": [
+        [
+          "Rushan KP",
+          "c",
+          2
+        ],
+        [
+          "Dulanjan Dharmasena",
+          "c",
+          1
+        ],
+        [
+          "Kamal Indurugalla",
+          "c",
+          2
+        ],
+        [
+          "Sulo Wijetunga",
+          "k",
+          2
+        ],
+        [
+          "Ashish Heda",
+          "r",
+          1
+        ],
+        [
+          "Chamath Pathirana",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "3dY7rSqSb6z0eZMuEhChAg",
+      "date": "2026-06-06",
+      "series": "DDCL Summer 26",
+      "seriesId": "u2KnAWQG_l9DZ_jsRAByWA",
+      "opponent": "Vodoo Rangers",
+      "ground": "East Branch Park",
+      "result": "Vodoo Rangers won by 29 Runs",
+      "forfeit": false,
+      "outcome": "L",
+      "tossWonByUs": true,
+      "tossDecision": "bowl",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "Vodoo Rangers",
+          "runs": 92,
+          "wkts": 8,
+          "overs": "20"
+        },
+        {
+          "team": "Bay Strikers",
+          "runs": 63,
+          "wkts": 10,
+          "overs": "18.3"
+        }
+      ],
+      "batting": [
+        {
+          "name": "George Dunsford",
+          "r": 5,
+          "b": 11,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ct"
+        },
+        {
+          "name": "Daham Sirimanne",
+          "r": 3,
+          "b": 11,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ctw"
+        },
+        {
+          "name": "Frank Dunsford",
+          "r": 9,
+          "b": 13,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ctw"
+        },
+        {
+          "name": "Ashish Heda",
+          "r": 13,
+          "b": 20,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ct"
+        },
+        {
+          "name": "Chamath Pathirana",
+          "r": 3,
+          "b": 8,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "b"
+        },
+        {
+          "name": "Dilshan Meemanage",
+          "r": 2,
+          "b": 6,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "b"
+        },
+        {
+          "name": "Sulo Wijetunga",
+          "r": 3,
+          "b": 7,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "b"
+        },
+        {
+          "name": "Kamal Indurugalla",
+          "r": 2,
+          "b": 4,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 8,
+          "how": "ct"
+        },
+        {
+          "name": "Rushan KP",
+          "r": 5,
+          "b": 9,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 9,
+          "how": "ctw"
+        },
+        {
+          "name": "Lal Senanayake",
+          "r": 8,
+          "b": 14,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 10,
+          "how": "ct"
+        },
+        {
+          "name": "Daham Walgama",
+          "r": 4,
+          "b": 8,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 11
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Ashish Heda",
+          "balls": 24,
+          "r": 14,
+          "w": 2,
+          "dots": 13,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Kamal Indurugalla",
+          "balls": 24,
+          "r": 17,
+          "w": 0,
+          "dots": 14,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Daham Walgama",
+          "balls": 24,
+          "r": 16,
+          "w": 3,
+          "dots": 12,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Chamath Pathirana",
+          "balls": 24,
+          "r": 20,
+          "w": 1,
+          "dots": 12,
+          "wd": 5,
+          "nb": 0
+        },
+        {
+          "name": "George Dunsford",
+          "balls": 12,
+          "r": 12,
+          "w": 1,
+          "dots": 6,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Rushan KP",
+          "balls": 6,
+          "r": 8,
+          "w": 0,
+          "dots": 3,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Lal Senanayake",
+          "balls": 6,
+          "r": 5,
+          "w": 1,
+          "dots": 2,
+          "wd": 0,
+          "nb": 0
+        }
+      ],
+      "extrasBowled": {
+        "b": 0,
+        "lb": 0,
+        "nb": 0,
+        "wd": 8
+      },
+      "oversBowled": 20,
+      "fielding": [
+        [
+          "George Dunsford",
+          "c",
+          1
+        ],
+        [
+          "Chamath Pathirana",
+          "c",
+          2
+        ],
+        [
+          "Sulo Wijetunga",
+          "k",
+          3
+        ],
+        [
+          "Rushan KP",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "Zj2jIlLi1_Su_0SvoDnl0g",
+      "date": "2026-05-31",
+      "series": "DDCL Summer 26",
+      "seriesId": "u2KnAWQG_l9DZ_jsRAByWA",
+      "opponent": "Legion Mavericks",
+      "ground": "Walt Disney Elementary School",
+      "result": "Legion Mavericks won by 6 Wickets",
+      "forfeit": false,
+      "outcome": "L",
+      "tossWonByUs": false,
+      "tossDecision": "bowl",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "Bay Strikers",
+          "runs": 91,
+          "wkts": 8,
+          "overs": "20.1"
+        },
+        {
+          "team": "Legion Mavericks",
+          "runs": 92,
+          "wkts": 4,
+          "overs": "18.3"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Dilshan Meemanage",
+          "r": 3,
+          "b": 12,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "b"
+        },
+        {
+          "name": "Daham Sirimanne",
+          "r": 23,
+          "b": 29,
+          "f": 1,
+          "s": 1,
+          "out": true,
+          "pos": 2,
+          "how": "b"
+        },
+        {
+          "name": "George Dunsford",
+          "r": 17,
+          "b": 22,
+          "f": 1,
+          "s": 1,
+          "out": true,
+          "pos": 3,
+          "how": "b"
+        },
+        {
+          "name": "Nureshan Dias",
+          "r": 3,
+          "b": 6,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ro"
+        },
+        {
+          "name": "Jayanath Marambe",
+          "r": 18,
+          "b": 24,
+          "f": 2,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "b"
+        },
+        {
+          "name": "Sulo Wijetunga",
+          "r": 5,
+          "b": 14,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "rtno"
+        },
+        {
+          "name": "Kamal Indurugalla",
+          "r": 6,
+          "b": 7,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "ct"
+        },
+        {
+          "name": "Ashish Heda",
+          "r": 3,
+          "b": 3,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 8,
+          "how": "ro"
+        },
+        {
+          "name": "Rushan KP",
+          "r": 3,
+          "b": 4,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 9
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Ashish Heda",
+          "balls": 24,
+          "r": 18,
+          "w": 1,
+          "dots": 13,
+          "wd": 1,
+          "nb": 1
+        },
+        {
+          "name": "Kamal Indurugalla",
+          "balls": 24,
+          "r": 11,
+          "w": 1,
+          "dots": 15,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Jayanath Marambe",
+          "balls": 24,
+          "r": 15,
+          "w": 2,
+          "dots": 13,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Daham Walgama",
+          "balls": 12,
+          "r": 20,
+          "w": 0,
+          "dots": 4,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Dulanjan Dharmasena",
+          "balls": 21,
+          "r": 15,
+          "w": 0,
+          "dots": 11,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "George Dunsford",
+          "balls": 6,
+          "r": 13,
+          "w": 0,
+          "dots": 1,
+          "wd": 0,
+          "nb": 0
+        }
+      ],
+      "fow": [
+        {
+          "w": 1,
+          "over": 3.5
+        },
+        {
+          "w": 2,
+          "over": 9.5
+        },
+        {
+          "w": 3,
+          "over": 10.833333333333334
+        },
+        {
+          "w": 4,
+          "over": 12.833333333333334
+        },
+        {
+          "w": 5,
+          "over": 16.833333333333332
+        },
+        {
+          "w": 6,
+          "over": 18.833333333333332
+        },
+        {
+          "w": 7,
+          "over": 20
+        }
+      ],
+      "extrasBowled": {
+        "b": 0,
+        "lb": 0,
+        "nb": 1,
+        "wd": 4
+      },
+      "oversBowled": 18.5,
+      "fielding": [
+        [
+          "Daham Sirimanne",
+          "c",
+          1
+        ],
+        [
+          "Ashish Heda",
+          "c",
+          1
+        ],
+        [
+          "Rushan KP",
+          "c",
+          1
+        ],
+        [
+          "Dilshan Meemanage",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "yEM32TenWieRxDQlckt0yw",
+      "date": "2026-05-17",
+      "series": "DDCL Summer 26",
+      "seriesId": "u2KnAWQG_l9DZ_jsRAByWA",
+      "opponent": "Deccan Chargers",
+      "ground": "East Branch Park",
+      "result": "Deccan Chargers won by 48 Runs",
+      "forfeit": false,
+      "outcome": "L",
+      "tossWonByUs": true,
+      "tossDecision": "bowl",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "Deccan Chargers",
+          "runs": 107,
+          "wkts": 5,
+          "overs": "20"
+        },
+        {
+          "team": "Bay Strikers",
+          "runs": 59,
+          "wkts": 10,
+          "overs": "12.3"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Dilshan Meemanage",
+          "r": 3,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ro"
+        },
+        {
+          "name": "Daham Sirimanne",
+          "r": 10,
+          "b": 11,
+          "f": 0,
+          "s": 1,
+          "out": true,
+          "pos": 2,
+          "how": "ct"
+        },
+        {
+          "name": "Frank Dunsford",
+          "r": 6,
+          "b": 13,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ctw"
+        },
+        {
+          "name": "Sulo Wijetunga",
+          "r": 6,
+          "b": 10,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ct"
+        },
+        {
+          "name": "George Dunsford",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "ro"
+        },
+        {
+          "name": "Rushan KP",
+          "r": 0,
+          "b": 3,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "b"
+        },
+        {
+          "name": "Chamath Pathirana",
+          "r": 10,
+          "b": 16,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "ro"
+        },
+        {
+          "name": "Ashish Heda",
+          "r": 5,
+          "b": 8,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 8,
+          "how": "ct"
+        },
+        {
+          "name": "Kamal Indurugalla",
+          "r": 5,
+          "b": 9,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 9,
+          "how": "ctw"
+        },
+        {
+          "name": "Dulanjan Dharmasena",
+          "r": 0,
+          "b": 4,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 10
+        },
+        {
+          "name": "Sohil Mehta",
+          "r": 0,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 11,
+          "how": "b"
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Ashish Heda",
+          "balls": 24,
+          "r": 15,
+          "w": 1,
+          "dots": 14,
+          "wd": 5,
+          "nb": 0
+        },
+        {
+          "name": "Kamal Indurugalla",
+          "balls": 24,
+          "r": 20,
+          "w": 1,
+          "dots": 12,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Dulanjan Dharmasena",
+          "balls": 24,
+          "r": 20,
+          "w": 0,
+          "dots": 12,
+          "wd": 4,
+          "nb": 0
+        },
+        {
+          "name": "Sohil Mehta",
+          "balls": 24,
+          "r": 21,
+          "w": 0,
+          "dots": 13,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Chamath Pathirana",
+          "balls": 18,
+          "r": 16,
+          "w": 2,
+          "dots": 8,
+          "wd": 4,
+          "nb": 0
+        },
+        {
+          "name": "George Dunsford",
+          "balls": 6,
+          "r": 15,
+          "w": 0,
+          "dots": 1,
+          "wd": 0,
+          "nb": 1
+        }
+      ],
+      "fow": [
+        {
+          "w": 1,
+          "over": 0.6666666666666666
+        },
+        {
+          "w": 2,
+          "over": 2.8333333333333335
+        },
+        {
+          "w": 3,
+          "over": 5
+        },
+        {
+          "w": 4,
+          "over": 5.333333333333333
+        },
+        {
+          "w": 5,
+          "over": 5.833333333333333
+        },
+        {
+          "w": 6,
+          "over": 6.333333333333333
+        },
+        {
+          "w": 7,
+          "over": 9.5
+        },
+        {
+          "w": 8,
+          "over": 10.5
+        },
+        {
+          "w": 9,
+          "over": 12.166666666666666
+        },
+        {
+          "w": 10,
+          "over": 12.5
+        }
+      ],
+      "extrasBowled": {
+        "b": 0,
+        "lb": 0,
+        "nb": 1,
+        "wd": 13
+      },
+      "oversBowled": 20,
+      "fielding": [
+        [
+          "Sulo Wijetunga",
+          "k",
+          1
+        ],
+        [
+          "Kamal Indurugalla",
+          "c",
+          1
+        ],
+        [
+          "Daham Sirimanne",
+          "c",
+          1
+        ],
+        [
+          "Sulo Wijetunga",
+          "r",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "cvI9Hz5zJsb14IHwsZDSTg",
+      "date": "2026-05-10",
+      "series": "DDCL Summer 26",
+      "seriesId": "u2KnAWQG_l9DZ_jsRAByWA",
+      "opponent": "Bay Area Falcons",
+      "ground": "Hidden Hills Elementary",
+      "result": "Bay Strikers won by 16 Runs",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": false,
+      "tossDecision": "bowl",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "Bay Strikers",
+          "runs": 108,
+          "wkts": 10,
+          "overs": "19.4"
+        },
+        {
+          "team": "Bay Area Falcons",
+          "runs": 92,
+          "wkts": 6,
+          "overs": "20"
+        }
+      ],
+      "batting": [
+        {
+          "name": "George Dunsford",
+          "r": 2,
+          "b": 12,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "b"
+        },
+        {
+          "name": "Daham Sirimanne",
+          "r": 36,
+          "b": 41,
+          "f": 2,
+          "s": 2,
+          "out": true,
+          "pos": 2,
+          "how": "ctw"
+        },
+        {
+          "name": "Frank Dunsford",
+          "r": 7,
+          "b": 12,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ct"
+        },
+        {
+          "name": "Jayanath Marambe",
+          "r": 30,
+          "b": 24,
+          "f": 1,
+          "s": 2,
+          "out": true,
+          "pos": 4,
+          "how": "ct"
+        },
+        {
+          "name": "Dilshan Meemanage",
+          "r": 0,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "b"
+        },
+        {
+          "name": "Kamal Indurugalla",
+          "r": 8,
+          "b": 6,
+          "f": 0,
+          "s": 1,
+          "out": true,
+          "pos": 6,
+          "how": "ctw"
+        },
+        {
+          "name": "Chamath Pathirana",
+          "r": 2,
+          "b": 4,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "ctw"
+        },
+        {
+          "name": "Sulo Wijetunga",
+          "r": 4,
+          "b": 9,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 8,
+          "how": "ct"
+        },
+        {
+          "name": "Ashish Heda",
+          "r": 4,
+          "b": 6,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 9,
+          "how": "mk"
+        },
+        {
+          "name": "Sohil Mehta",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 10,
+          "how": "ct"
+        },
+        {
+          "name": "Dulanjan Dharmasena",
+          "r": 1,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 11
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Ashish Heda",
+          "balls": 24,
+          "r": 10,
+          "w": 1,
+          "dots": 15,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Jayanath Marambe",
+          "balls": 24,
+          "r": 13,
+          "w": 2,
+          "dots": 13,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Kamal Indurugalla",
+          "balls": 24,
+          "r": 26,
+          "w": 1,
+          "dots": 7,
+          "wd": 5,
+          "nb": 1
+        },
+        {
+          "name": "Dulanjan Dharmasena",
+          "balls": 18,
+          "r": 16,
+          "w": 1,
+          "dots": 9,
+          "wd": 4,
+          "nb": 1
+        },
+        {
+          "name": "Sohil Mehta",
+          "balls": 12,
+          "r": 5,
+          "w": 0,
+          "dots": 7,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Chamath Pathirana",
+          "balls": 12,
+          "r": 8,
+          "w": 1,
+          "dots": 6,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "George Dunsford",
+          "balls": 6,
+          "r": 14,
+          "w": 0,
+          "dots": 1,
+          "wd": 1,
+          "nb": 0
+        }
+      ],
+      "fow": [
+        {
+          "w": 1,
+          "over": 2.8333333333333335
+        },
+        {
+          "w": 2,
+          "over": 7.166666666666667
+        },
+        {
+          "w": 3,
+          "over": 14.666666666666666
+        },
+        {
+          "w": 4,
+          "over": 15
+        },
+        {
+          "w": 5,
+          "over": 15.166666666666666
+        },
+        {
+          "w": 6,
+          "over": 16.166666666666668
+        },
+        {
+          "w": 7,
+          "over": 17.5
+        },
+        {
+          "w": 8,
+          "over": 19.333333333333332
+        },
+        {
+          "w": 9,
+          "over": 19.5
+        },
+        {
+          "w": 10,
+          "over": 19.666666666666668
+        }
+      ],
+      "extrasBowled": {
+        "b": 0,
+        "lb": 0,
+        "nb": 2,
+        "wd": 13
+      },
+      "oversBowled": 20,
+      "fielding": [
+        [
+          "Ashish Heda",
+          "c",
+          1
+        ],
+        [
+          "Jayanath Marambe",
+          "c",
+          1
+        ],
+        [
+          "Dulanjan Dharmasena",
+          "c",
+          1
+        ],
+        [
+          "Dilshan Meemanage",
+          "c",
+          1
+        ],
+        [
+          "Sulo Wijetunga",
+          "k",
+          1
+        ]
+      ]
+    }
+  ],
+  "unresolvedFielders": 0
+}

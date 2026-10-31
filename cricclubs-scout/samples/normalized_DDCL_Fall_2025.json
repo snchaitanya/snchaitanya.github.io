@@ -1,0 +1,429 @@
+{
+ "pointsTable": {
+  "series": {
+   "id": "aWQx5fjWR1IbBBd7ons2kw",
+   "name": "DDCL Fall 2025"
+  },
+  "groups": [
+   {
+    "group": "League Points Table",
+    "groupId": "ie8VBJAvF0KbhpZGdKqQTQ",
+    "winnerTeamId": null,
+    "runnerUpTeamId": null,
+    "rows": [
+     {
+      "position": 1,
+      "team": "Vodoo Rangers",
+      "teamId": "9qCPfzs6z6t0Fy9EMpEIdg",
+      "played": 7,
+      "won": 6,
+      "lost": 1,
+      "nr": 0,
+      "tied": 0,
+      "abandoned": 0,
+      "points": 12,
+      "nrr": 1.2701,
+      "logo": "https://media.cricclubs.com/documentsRep/teamLogos/cdbd7647-2bdb-4af7-bcee-c86f153e6f52.jpg"
+     },
+     {
+      "position": 2,
+      "team": "Boulevard Warriors",
+      "teamId": "hGLOWf4F9ztW17g62rYjVA",
+      "played": 7,
+      "won": 5,
+      "lost": 1,
+      "nr": 0,
+      "tied": 1,
+      "abandoned": 0,
+      "points": 11,
+      "nrr": 0.4187,
+      "logo": "https://media.cricclubs.com/documentsRep/teamLogos/26fe1889-2334-4ac9-be40-f3b088e10de6.jpg"
+     },
+     {
+      "position": 3,
+      "team": "Loyals",
+      "teamId": "7hFNwhXwjeq4BcEy-S28zQ",
+      "played": 7,
+      "won": 5,
+      "lost": 2,
+      "nr": 0,
+      "tied": 0,
+      "abandoned": 0,
+      "points": 10,
+      "nrr": 0.3456,
+      "logo": "https://media.cricclubs.com/documentsRep/teamLogos/5c5c5e63-7a28-4805-802c-5257d131363f.jpg"
+     },
+     {
+      "position": 4,
+      "team": "Dublin Super Kings",
+      "teamId": "cSHTu8XxHAorTRCGWc6HJw",
+      "played": 7,
+      "won": 4,
+      "lost": 3,
+      "nr": 0,
+      "tied": 0,
+      "abandoned": 0,
+      "points": 8,
+      "nrr": -0.02,
+      "logo": "https://media.cricclubs.com/documentsRep/teamLogos/13bf5847-60cf-411c-9ba3-b63bb275170c.jpg"
+     },
+     {
+      "position": 5,
+      "team": "Bay Strikers",
+      "teamId": "RGYPVRzHPm_iRG9z9zX9RQ",
+      "played": 7,
+      "won": 3,
+      "lost": 4,
+      "nr": 0,
+      "tied": 0,
+      "abandoned": 0,
+      "points": 6,
+      "nrr": -0.8638,
+      "logo": "https://media.cricclubs.com/documentsRep/teamLogos/ea482ccb-1fe9-45ff-80b5-77eb34fa5467.jpg"
+     },
+     {
+      "position": 6,
+      "team": "Goodfellas",
+      "teamId": "rp817pV2Ujc4y0N053twAg",
+      "played": 7,
+      "won": 2,
+      "lost": 4,
+      "nr": 0,
+      "tied": 1,
+      "abandoned": 0,
+      "points": 5,
+      "nrr": -0.8888,
+      "logo": "https://media.cricclubs.com/documentsRep/teamLogos/5a7e30ba-2f26-435e-9127-5348a27d92f1.jpg"
+     },
+     {
+      "position": 7,
+      "team": "Monks",
+      "teamId": "NcEOKyfkHja3l8xGZKRBxw",
+      "played": 7,
+      "won": 2,
+      "lost": 5,
+      "nr": 0,
+      "tied": 0,
+      "abandoned": 0,
+      "points": 4,
+      "nrr": -0.467,
+      "logo": null
+     },
+     {
+      "position": 8,
+      "team": "Sunrise Strikers",
+      "teamId": "1aL29V1XFj0vqfllAwjpuA",
+      "played": 7,
+      "won": 0,
+      "lost": 7,
+      "nr": 0,
+      "tied": 0,
+      "abandoned": 0,
+      "points": 0,
+      "nrr": -1.2195,
+      "logo": null
+     },
+     {
+      "position": 9,
+      "team": "Boulevard Warriors",
+      "teamId": "j742f6nLC_RoFVaoP3D6qQ",
+      "played": 0,
+      "won": 0,
+      "lost": 0,
+      "nr": 0,
+      "tied": 0,
+      "abandoned": 0,
+      "points": 0,
+      "nrr": 0,
+      "logo": "https://media.cricclubs.com/documentsRep/teamLogos/26fe1889-2334-4ac9-be40-f3b088e10de6.jpg"
+     },
+     {
+      "position": 10,
+      "team": "Dabangg",
+      "teamId": "lRzg451EHZywzlBe0mD_gA",
+      "played": 0,
+      "won": 0,
+      "lost": 0,
+      "nr": 0,
+      "tied": 0,
+      "abandoned": 0,
+      "points": 0,
+      "nrr": 0,
+      "logo": null
+     },
+     {
+      "position": 11,
+      "team": "Dublin Super Kings",
+      "teamId": "Rjf1789aNcz_h0sy722Lxw",
+      "played": 0,
+      "won": 0,
+      "lost": 0,
+      "nr": 0,
+      "tied": 0,
+      "abandoned": 0,
+      "points": 0,
+      "nrr": 0,
+      "logo": "https://media.cricclubs.com/documentsRep/teamLogos/13bf5847-60cf-411c-9ba3-b63bb275170c.jpg"
+     },
+     {
+      "position": 12,
+      "team": "Legion Mavericks",
+      "teamId": "r000cSjdnBkAwv0rF7ZVFw",
+      "played": 0,
+      "won": 0,
+      "lost": 0,
+      "nr": 0,
+      "tied": 0,
+      "abandoned": 0,
+      "points": 0,
+      "nrr": 0,
+      "logo": "https://media.cricclubs.com/documentsRep/teamLogos/93a034a8-a607-41ec-8763-ad3fd4b4eec7.jpeg"
+     },
+     {
+      "position": 13,
+      "team": "Loyals",
+      "teamId": "vfxh13ZD2uH2YuE5ZAGVIg",
+      "played": 0,
+      "won": 0,
+      "lost": 0,
+      "nr": 0,
+      "tied": 0,
+      "abandoned": 0,
+      "points": 0,
+      "nrr": 0,
+      "logo": "https://media.cricclubs.com/documentsRep/teamLogos/5c5c5e63-7a28-4805-802c-5257d131363f.jpg"
+     },
+     {
+      "position": 14,
+      "team": "PVCC",
+      "teamId": "RYL_b1kmNKBecGE5IMT3ZA",
+      "played": 0,
+      "won": 0,
+      "lost": 0,
+      "nr": 0,
+      "tied": 0,
+      "abandoned": 0,
+      "points": 0,
+      "nrr": 0,
+      "logo": "https://media.cricclubs.com/documentsRep/teamLogos/5879816b-3fe4-42cc-a384-33e6af2b8ef6.jpg"
+     },
+     {
+      "position": 15,
+      "team": "Retro Runners",
+      "teamId": "mGZlrHlQ3saRaT_OPvtwXw",
+      "played": 0,
+      "won": 0,
+      "lost": 0,
+      "nr": 0,
+      "tied": 0,
+      "abandoned": 0,
+      "points": 0,
+      "nrr": 0,
+      "logo": "https://media.cricclubs.com/documentsRep/teamLogos/6dfe256e-6bd1-4342-b8c7-0bb33fa52e04.jpg"
+     },
+     {
+      "position": 16,
+      "team": "Vodoo Rangers",
+      "teamId": "HVDatYZj7_WnuorgmsPBgQ",
+      "played": 0,
+      "won": 0,
+      "lost": 0,
+      "nr": 0,
+      "tied": 0,
+      "abandoned": 0,
+      "points": 0,
+      "nrr": 0,
+      "logo": "https://media.cricclubs.com/documentsRep/teamLogos/cdbd7647-2bdb-4af7-bcee-c86f153e6f52.jpg"
+     }
+    ]
+   }
+  ]
+ },
+ "playoffs": {
+  "season": {
+   "id": "aWQx5fjWR1IbBBd7ons2kw",
+   "name": "DDCL Fall 2025"
+  },
+  "linkedPlayoffSeries": [
+   {
+    "id": "dVnnfYdRDpY9NEQpM004sw",
+    "name": "DDCL Fall 2025 Playoffs",
+    "startDate": "11/08/2025"
+   }
+  ],
+  "playoffsFound": true,
+  "fixturesPending": false,
+  "series": {
+   "aWQx5fjWR1IbBBd7ons2kw": {
+    "name": "DDCL Fall 2025",
+    "playoffSeries": false,
+    "completed": 30,
+    "total": 56
+   },
+   "dVnnfYdRDpY9NEQpM004sw": {
+    "name": "DDCL Fall 2025 Playoffs",
+    "playoffSeries": true,
+    "completed": 6,
+    "total": 6
+   }
+  },
+  "teams": {
+   "Legion Mavericks": {
+    "reached": "Final",
+    "games": [
+     {
+      "date": "2025-11-08",
+      "round": "Semi Final",
+      "cup": "Silver Cup",
+      "opponent": "Loyals",
+      "won": true,
+      "result": "Legion Mavericks won by 35 Runs",
+      "matchId": "1vA9NJoJxkKD3HlEj8Am9g"
+     },
+     {
+      "date": "2025-12-13",
+      "round": "Final",
+      "cup": "Silver Cup",
+      "opponent": "Retro Runners",
+      "won": true,
+      "result": "Legion Mavericks won by 38 Runs",
+      "matchId": "Q9-QC7_b1Phmgqvnd7PuxQ"
+     }
+    ],
+    "result": "Winner – Silver Cup"
+   },
+   "Loyals": {
+    "reached": "Semi Final",
+    "games": [
+     {
+      "date": "2025-11-08",
+      "round": "Semi Final",
+      "cup": "Silver Cup",
+      "opponent": "Legion Mavericks",
+      "won": false,
+      "result": "Legion Mavericks won by 35 Runs",
+      "matchId": "1vA9NJoJxkKD3HlEj8Am9g"
+     }
+    ],
+    "result": "Lost in playoffs (Semi Final) – Silver Cup"
+   },
+   "Vodoo Rangers": {
+    "reached": "Final",
+    "games": [
+     {
+      "date": "2025-11-08",
+      "round": "Semi Final",
+      "cup": "Gold Cup",
+      "opponent": "Dabangg",
+      "won": true,
+      "result": "Vodoo Rangers won by 16 Runs",
+      "matchId": "0EMWoKJblSunw_47Mml2xA"
+     },
+     {
+      "date": "2025-12-13",
+      "round": "Final",
+      "cup": "Gold Cup",
+      "opponent": "Boulevard Warriors",
+      "won": true,
+      "result": "Vodoo Rangers won by 62 Runs",
+      "matchId": "2uTng2RPKLebIA7nZuVWLA"
+     }
+    ],
+    "result": "Winner – Gold Cup"
+   },
+   "Dabangg": {
+    "reached": "Semi Final",
+    "games": [
+     {
+      "date": "2025-11-08",
+      "round": "Semi Final",
+      "cup": "Gold Cup",
+      "opponent": "Vodoo Rangers",
+      "won": false,
+      "result": "Vodoo Rangers won by 16 Runs",
+      "matchId": "0EMWoKJblSunw_47Mml2xA"
+     }
+    ],
+    "result": "Lost in playoffs (Semi Final) – Gold Cup"
+   },
+   "Dublin Super Kings": {
+    "reached": "Semi Final",
+    "games": [
+     {
+      "date": "2025-11-09",
+      "round": "Semi Final",
+      "cup": "Silver Cup",
+      "opponent": "Retro Runners",
+      "won": false,
+      "result": "Retro Runners won by 6 Wickets",
+      "matchId": "z7BgLik8VSDYSeXL84cPCA"
+     }
+    ],
+    "result": "Lost in playoffs (Semi Final) – Silver Cup"
+   },
+   "Retro Runners": {
+    "reached": "Final",
+    "games": [
+     {
+      "date": "2025-11-09",
+      "round": "Semi Final",
+      "cup": "Silver Cup",
+      "opponent": "Dublin Super Kings",
+      "won": true,
+      "result": "Retro Runners won by 6 Wickets",
+      "matchId": "z7BgLik8VSDYSeXL84cPCA"
+     },
+     {
+      "date": "2025-12-13",
+      "round": "Final",
+      "cup": "Silver Cup",
+      "opponent": "Legion Mavericks",
+      "won": false,
+      "result": "Legion Mavericks won by 38 Runs",
+      "matchId": "Q9-QC7_b1Phmgqvnd7PuxQ"
+     }
+    ],
+    "result": "Runner-up – Silver Cup"
+   },
+   "Boulevard Warriors": {
+    "reached": "Final",
+    "games": [
+     {
+      "date": "2025-11-09",
+      "round": "Semi Final",
+      "cup": "Gold Cup",
+      "opponent": "PVCC",
+      "won": true,
+      "result": "Boulevard Warriors won by 10 Runs",
+      "matchId": "m-Yp_cDjutkTIAy9KqNmcg"
+     },
+     {
+      "date": "2025-12-13",
+      "round": "Final",
+      "cup": "Gold Cup",
+      "opponent": "Vodoo Rangers",
+      "won": false,
+      "result": "Vodoo Rangers won by 62 Runs",
+      "matchId": "2uTng2RPKLebIA7nZuVWLA"
+     }
+    ],
+    "result": "Runner-up – Gold Cup"
+   },
+   "PVCC": {
+    "reached": "Semi Final",
+    "games": [
+     {
+      "date": "2025-11-09",
+      "round": "Semi Final",
+      "cup": "Gold Cup",
+      "opponent": "Boulevard Warriors",
+      "won": false,
+      "result": "Boulevard Warriors won by 10 Runs",
+      "matchId": "m-Yp_cDjutkTIAy9KqNmcg"
+     }
+    ],
+    "result": "Lost in playoffs (Semi Final) – Gold Cup"
+   }
+  }
+ }
+}

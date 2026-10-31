@@ -1,0 +1,21 @@
+{
+  "name": "cricclubs-scout",
+  "version": "1.0.0",
+  "private": true,
+  "description": "CricClubs team scouting site (GitHub Pages) and scraper (GitHub Actions)",
+  "license": "MIT",
+  "type": "commonjs",
+  "engines": {
+    "node": ">=22.12"
+  },
+  "scripts": {
+    "publish": "node cli.js publish",
+    "league": "node cli.js league",
+    "scan": "node cli.js scan",
+    "weekly": "node cli.js weekly",
+    "test": "node --test"
+  },
+  "dependencies": {
+    "puppeteer-core": "^25.16.0"
+  }
+}
