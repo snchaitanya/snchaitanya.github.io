@@ -1,0 +1,107 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<!--
+  Privacy contract, enforced by the browser rather than by promise:
+  connect-src 'none'  -> no fetch/XHR/WebSocket/beacon can leave this page
+  form-action 'none'  -> nothing can be submitted anywhere
+  script-src 'self'   -> only the three audited scripts in this folder run; no inline or third-party JS
+  default-src 'none'  -> no fonts, frames, workers, media or other remote resources
+-->
+<meta http-equiv="Content-Security-Policy" content="default-src 'none'; script-src 'self'; style-src 'self'; img-src 'self' data: blob:; connect-src 'none'; form-action 'none'; base-uri 'none'; object-src 'none'; frame-src 'none'; worker-src 'none'; manifest-src 'none'; media-src 'none'; font-src 'none'">
+<meta name="referrer" content="no-referrer">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="Reconciliation and anomaly checks for household bank, card and brokerage exports. Runs entirely in your browser — nothing is uploaded.">
+<meta name="color-scheme" content="light dark">
+<title>Ledger Check</title>
+<link rel="icon" href="icon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="app.css">
+</head>
+<body>
+<header class="top">
+  <div class="wrap top-in">
+    <div>
+      <h1>Ledger Check</h1>
+      <p class="sub">Data-quality, reconciliation and anomaly checks for your household finances — a mini CCAR for your bank, card and brokerage exports.</p>
+    </div>
+    <div class="top-actions no-print">
+      <button type="button" id="sampleBtn" class="btn ghost">Try sample data</button>
+      <button type="button" id="clearBtn" class="btn danger" disabled>Clear everything</button>
+    </div>
+  </div>
+</header>
+
+<main class="wrap">
+  <section class="privacy" aria-labelledby="privacy-h">
+    <div class="privacy-head">
+      <span class="lock" aria-hidden="true"></span>
+      <h2 id="privacy-h">Your files never leave this device</h2>
+    </div>
+    <ul>
+      <li><strong>No uploads.</strong> Files are read locally with the browser's File API and analysed in memory.</li>
+      <li><strong>No network at all.</strong> The page's Content Security Policy sets <code>connect-src 'none'</code>, so the browser itself blocks any attempt to send data — even by a bug in this code.</li>
+      <li><strong>No storage.</strong> Nothing is written to cookies, localStorage or IndexedDB. Closing the tab, or pressing <em>Clear everything</em>, discards it all.</li>
+      <li><strong>No third parties.</strong> No analytics, fonts, CDNs or trackers; three small scripts you can read: <code>engine.js</code>, <code>app.js</code>, <code>sample.js</code>.</li>
+      <li><strong>Account numbers masked</strong> on screen and in exports by default.</li>
+    </ul>
+    <details class="no-print">
+      <summary>How to verify this yourself</summary>
+      <ol>
+        <li>Open your browser's developer tools → <em>Network</em> tab, then load a file. You will see no requests.</li>
+        <li>Or save this page (and its four files) to your computer, disconnect from the internet, and open <code>index.html</code>. It works fully offline.</li>
+        <li>Prefer a sanitised copy anyway? Most banks let you export only the columns you need — date, description, amount, balance.</li>
+      </ol>
+    </details>
+  </section>
+
+  <section class="card no-print" aria-labelledby="load-h">
+    <h2 id="load-h"><span class="step">1</span> Load exports</h2>
+    <label class="drop" id="drop">
+      <input type="file" id="fileInput" accept=".csv,.tsv,.txt,text/csv,text/plain" multiple>
+      <span class="drop-title">Drop CSV exports here, or click to choose</span>
+      <span class="drop-hint">Checking, savings, credit cards, brokerage — as many as you like. Column layout is auto-detected; you can correct it below.</span>
+    </label>
+    <div id="fileMsg" class="msg" role="alert" hidden></div>
+    <div id="fileList" class="files"></div>
+  </section>
+
+  <section class="card no-print" aria-labelledby="budget-h" id="budgetSection" hidden>
+    <h2 id="budget-h"><span class="step">2</span> Monthly budget <span class="opt">optional</span></h2>
+    <p class="hint">Without a budget, each category is compared with its own trailing 6-month median instead.</p>
+    <div class="toolbar">
+      <button type="button" class="btn small" id="suggestBudget">Suggest from history</button>
+      <label class="btn small ghost file-btn">Import budget CSV<input type="file" id="budgetInput" accept=".csv,.txt,text/csv"></label>
+      <button type="button" class="btn small ghost" id="exportBudget">Export budget CSV</button>
+      <button type="button" class="btn small ghost" id="clearBudget">Clear budget</button>
+    </div>
+    <div class="table-scroll"><table class="grid budget-table" id="budgetTable"></table></div>
+
+    <details class="settings">
+      <summary>Check settings</summary>
+      <div class="settings-grid">
+        <label>As-of date <input type="date" id="optAsOf"></label>
+        <label>Duplicate-charge window (days) <input type="number" id="optNearDup" min="0" max="14" step="1"></label>
+        <label>Budget tolerance (%) <input type="number" id="optTol" min="0" max="100" step="1"></label>
+        <label>Baseline drift threshold (%) <input type="number" id="optDrift" min="5" max="500" step="5"></label>
+        <label>Outlier sensitivity (robust z) <input type="number" id="optZ" min="2" max="10" step="0.5"></label>
+        <label class="check"><input type="checkbox" id="optMask" checked> Mask account &amp; card numbers</label>
+      </div>
+    </details>
+  </section>
+
+  <section id="results" hidden aria-live="polite"></section>
+</main>
+
+<footer class="foot">
+  <div class="wrap">
+    <p>Ledger Check is a sanity-check tool, not financial advice. Heuristics produce false positives — every finding is a prompt to look, not a verdict.</p>
+    <p><a href="../">snchaitanya.github.io</a></p>
+  </div>
+</footer>
+
+<script src="engine.js"></script>
+<script src="sample.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
