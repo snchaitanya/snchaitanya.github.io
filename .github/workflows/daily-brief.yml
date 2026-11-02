@@ -1,0 +1,62 @@
+name: Daily Brief
+
+on:
+  schedule:
+    # Ready a little before 7:00 AM Pacific. GitHub cron is UTC-only, so one
+    # entry covers PDT (summer) and one covers PST (winter); the gate below
+    # lets only the right one through.
+    - cron: "40 13 * * *"   # 6:40 AM PDT
+    - cron: "40 14 * * *"   # 6:40 AM PST
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-brief
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Gate on Pacific daylight time
+        id: gate
+        run: |
+          zone=$(TZ=America/Los_Angeles date +%Z)
+          run=true
+          if [ "${{ github.event_name }}" = "schedule" ]; then
+            if [ "${{ github.event.schedule }}" = "40 13 * * *" ] && [ "$zone" != "PDT" ]; then run=false; fi
+            if [ "${{ github.event.schedule }}" = "40 14 * * *" ] && [ "$zone" != "PST" ]; then run=false; fi
+          fi
+          echo "Pacific zone: $zone -> run=$run"
+          echo "run=$run" >> "$GITHUB_OUTPUT"
+
+      - uses: actions/checkout@v4
+        if: steps.gate.outputs.run == 'true'
+
+      - uses: actions/setup-python@v5
+        if: steps.gate.outputs.run == 'true'
+        with:
+          python-version: "3.12"
+
+      - name: Fetch headlines
+        if: steps.gate.outputs.run == 'true'
+        run: python scripts/fetch_daily_news.py
+
+      - name: Commit report
+        if: steps.gate.outputs.run == 'true'
+        run: |
+          git config user.name "daily-brief-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add daily/data
+          if git diff --cached --quiet; then
+            echo "No changes."
+            exit 0
+          fi
+          git commit -m "Daily Brief: $(TZ=America/Los_Angeles date +%F)"
+          for i in 1 2 3; do
+            git pull --rebase origin "${GITHUB_REF_NAME}" && git push && exit 0
+            sleep $((i * 5))
+          done
+          exit 1
