@@ -1,0 +1,3623 @@
+{
+  "team": "Gale Ranch Warriors",
+  "logo": "https://media.cricclubs.com/documentsRep/teamLogos/f1fa21b0-9998-4134-a43c-3c93b6058309.jpg",
+  "logos": {
+    "Super Kings": "https://media.cricclubs.com/documentsRep/teamLogos/superkings.jpg",
+    "CSK Jaguars": "https://media.cricclubs.com/documentsRep/teamLogos/cfc2250d-3186-4f2c-8d48-c2739706f44d.jpg",
+    "Bay Area Paltan": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+    "Spartans": "https://media.cricclubs.com/documentsRep/teamLogos/7e39bc8f-197c-465a-966f-a472d12347e4.jpg",
+    "White Lightning": "https://media.cricclubs.com/documentsRep/teamLogos/c52ac345-0288-40b0-9e24-7cc4b9f30bbf.jpg",
+    "Royal Kings": "https://media.cricclubs.com/documentsRep/teamLogos/9976f4b9-f7eb-4da4-b723-30221da86858.jpg",
+    "Thunders": "https://media.cricclubs.com/documentsRep/teamLogos/d95d4387-973f-457a-aa1a-8284505734bb.jpg",
+    "Titans": "https://media.cricclubs.com/documentsRep/teamLogos/titans.jpg",
+    "Dukes XI": "https://media.cricclubs.com/documentsRep/teamLogos/20625c9e-4b6f-45a2-a2ed-e18b9755e473.jpg",
+    "Skippers": "https://media.cricclubs.com/documentsRep/teamLogos/98d9d9d1-f0e8-47cb-8086-141dc0df600d.jpg",
+    "Gully Cricketers": "https://media.cricclubs.com/documentsRep/teamLogos/5bc67916-4509-47e5-bb4c-4ecd65398d12.jpg",
+    "Challengers": "https://media.cricclubs.com/documentsRep/teamLogos/challengers.jpg",
+    "United CC": "https://media.cricclubs.com/documentsRep/teamLogos/9b19eda5-e3cc-4f6f-aa5d-e45311d79f6c.jpg",
+    "Fire Friends": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team3.jpg",
+    "Warriors": "https://media.cricclubs.com/documentsRep/teamLogos/6e7e01fe-3bcf-4bf6-8b5f-8e6c5a2e1e1c.jpg",
+    "Pleasanton Mercers": "https://media.cricclubs.com/documentsRep/teamLogos/9149bc1c-6f1f-4e10-834a-4249cfbfc604.jpg",
+    "Punjab Battalion": "https://media.cricclubs.com/documentsRep/teamLogos/762faa14-bc64-41c2-a51e-d6373295a5e6.jpg",
+    "Black Caps": "https://media.cricclubs.com/documentsRep/teamLogos/dcdbdf97-a8ee-448a-93b0-69abdf80cb18.jpg",
+    "Friendz United": "https://media.cricclubs.com/documentsRep/teamLogos/d0f59da6-cd5e-4f0b-936b-35908223c609.jpg",
+    "Mavericks": "https://media.cricclubs.com/documentsRep/teamLogos/81d7179e-d627-4b1b-ac81-7bf35409872f.jpg",
+    "Fairfield Falcons": "https://media.cricclubs.com/documentsRep/teamLogos/e77c18ec-06eb-4575-b9d2-26c7ffefbd66.jpg",
+    "Pine Valley Cricket Club": "https://media.cricclubs.com/documentsRep/teamLogos/de49dcc8-0a6c-4731-a156-7166acb5d2ec.jpg",
+    "007": "https://media.cricclubs.com/documentsRep/teamLogos/18c99f03-1ba0-4df2-8ea0-482508564ffc.jpg",
+    "Pullaingo": "https://media.cricclubs.com/documentsRep/teamLogos/abb3a261-9073-4355-84d3-18db1658b97a.jpg",
+    "Gale Ranch Warriors": "https://media.cricclubs.com/documentsRep/teamLogos/f1fa21b0-9998-4134-a43c-3c93b6058309.jpg",
+    "Emerald Titans": "https://media.cricclubs.com/documentsRep/teamLogos/9c4c0bc2-d2ac-447a-b3e5-fc6f53b575f8.jpg",
+    "Kingfishers": "https://media.cricclubs.com/documentsRep/teamLogos/14163cda-0e4f-4b53-bbfa-026645d57cae.jpg",
+    "Fallon Falcons": "https://media.cricclubs.com/documentsRep/teamLogos/4e98ec5b-ef96-4257-b0bd-fac7dffc8105.jpg",
+    "Mt Diablo Eagles": "https://media.cricclubs.com/documentsRep/teamLogos/f3069d7a-8a7a-460a-be5b-7317271c52a5.jpg",
+    "GRCC": "https://media.cricclubs.com/documentsRep/teamLogos/e0d5d230-6712-412f-9d5a-10b1315d75df.jpg",
+    "Emerald Kings": "https://media.cricclubs.com/documentsRep/teamLogos/b7852a3a-7fe5-4f50-b44a-8e90dfcccf37.jpg",
+    "Champions": "https://media.cricclubs.com/documentsRep/teamLogos/51ccc4cc-16a6-42eb-8b5d-e3922373bf94.jpg",
+    "Fundoos": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team2.jpg",
+    "Bravehearts": "https://media.cricclubs.com/documentsRep/teamLogos/96a438f6-cd65-49c2-8cfe-2fd1f8eeb8fc.jpg",
+    "Dabangg": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+    "Preserve": "https://media.cricclubs.com/documentsRep/teamLogos/256d0d01-b22e-4d98-817c-b389b953af56.jpeg",
+    "Livermore Lions": "https://media.cricclubs.com/documentsRep/teamLogos/167c5a95-6a22-49a1-8df8-40150301f3ed.jpg",
+    "Dublin Blazers": "https://media.cricclubs.com/documentsRep/teamLogos/026648f9-02b2-4a86-b329-79ddf0ff158e.jpg",
+    "Shockwave": "https://media.cricclubs.com/documentsRep/teamLogos/waves.jpg",
+    "Rebels": "https://media.cricclubs.com/documentsRep/teamLogos/d24ad128-903e-4573-8996-cec81c7aa220.jpg",
+    "Dominators": "https://media.cricclubs.com/documentsRep/teamLogos/5c96eb11-b7f6-42e0-8e20-4950cef022c2.jpg",
+    "CaliLegends": "https://media.cricclubs.com/documentsRep/teamLogos/b2f485e8-466e-48c0-a8e0-d50b484f7fbd.jpg",
+    "Phoenix": "https://media.cricclubs.com/documentsRep/teamLogos/432093c3-f50d-4809-b84f-19f2fc28a6b7.jpg",
+    "Chhavas": "https://media.cricclubs.com/documentsRep/teamLogos/b267fb78-2cb7-46c7-b739-86ba847fa2ee.jpg",
+    "MCC": "https://media.cricclubs.com/documentsRep/teamLogos/d8449c81-45b7-4fe9-9771-b6e93d1ae886.jpg",
+    "Buddies": "https://media.cricclubs.com/documentsRep/teamLogos/21f0fb91-ef52-4b3b-86e3-5823c71231d0.jpg",
+    "Dhurandhars": "https://media.cricclubs.com/documentsRep/teamLogos/b473d1ce-8394-44ec-a7fe-9a7514abbd82.jpg",
+    "Iron Horse Riders": "https://media.cricclubs.com/documentsRep/teamLogos/16ec0648-dec2-427e-b6c8-5ea2f9009d60.jpg",
+    "Elite XI": "https://media.cricclubs.com/documentsRep/teamLogos/37ee9d33-523e-40f8-bb5c-b039c0b7bb6f.jpg",
+    "Emerald Warriors": "https://media.cricclubs.com/documentsRep/teamLogos/39a3d678-295b-438f-9ac6-2b4b6b5391f7.jpg",
+    "OG": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+    "Bay Cc Elites": "https://media.cricclubs.com/documentsRep/teamLogos/elites.jpg",
+    "Tigers": "https://media.cricclubs.com/documentsRep/teamLogos/2a79d41a-93b8-4c83-88ca-82dc5628a69d.jpg",
+    "Dublin Green Caps": "https://media.cricclubs.com/documentsRep/teamLogos/026648f9-02b2-4a86-b329-79ddf0ff158e.jpg",
+    "Trailblazers": "https://media.cricclubs.com/documentsRep/teamLogos/efcb826d-735b-4f9f-a1aa-a6f2c7eafcbf.jpg",
+    "Dublin Warriors": "https://media.cricclubs.com/documentsRep/teamLogos/2f596dc4-51ba-4243-af5f-df9981b074b0.jpg",
+    "AFG XI": "https://media.cricclubs.com/documentsRep/teamLogos/57db8fd6-1ecf-40c0-8593-eeefc2396c7e.jpg",
+    "Rising Stars": "https://media.cricclubs.com/documentsRep/teamLogos/935b8be6-2a53-4a16-9bbe-4d476dcddeb8.jpg",
+    "Dublin Emeralds": "https://media.cricclubs.com/documentsRep/teamLogos/a16d2e01-7a08-4883-93d7-094b18a778a3.jpg"
+  },
+  "league": {
+    "code": "SrcaUsa",
+    "name": "SRCA"
+  },
+  "seasons": {
+    "current": {
+      "id": "legacy-110",
+      "name": "SRCA Summer 2026",
+      "inSeason": true,
+      "scrapedAt": "2026-11-02T03:47:36.693Z"
+    },
+    "last": {
+      "id": "legacy-99",
+      "name": "SRCA Spring 2026",
+      "inSeason": true,
+      "scrapedAt": "2026-11-02T03:48:04.118Z"
+    }
+  },
+  "matches": [
+    {
+      "id": "legacy-4297",
+      "date": "2026-10-25",
+      "series": "SRCA Summer 2026",
+      "seriesId": "legacy-110",
+      "opponent": "Emerald Titans",
+      "ground": "Rancho",
+      "result": "Gale Ranch Warriors won by 41 Runs",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": true,
+      "tossDecision": "bat",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "Gale Ranch Warriors",
+          "runs": 98,
+          "wkts": 7,
+          "overs": "20"
+        },
+        {
+          "team": "Emerald Titans",
+          "runs": 57,
+          "wkts": 10,
+          "overs": "13.5"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Amit Aher",
+          "r": 22,
+          "b": 28,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "st"
+        },
+        {
+          "name": "Karthik Rajaram",
+          "r": 25,
+          "b": 35,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "b"
+        },
+        {
+          "name": "Sankara Rajagopalan",
+          "r": 2,
+          "b": 8,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ct"
+        },
+        {
+          "name": "Sai Chaithanya Varikunta",
+          "r": 12,
+          "b": 16,
+          "f": 2,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "b"
+        },
+        {
+          "name": "Bab S",
+          "r": 19,
+          "b": 18,
+          "f": 0,
+          "s": 1,
+          "out": false,
+          "pos": 5
+        },
+        {
+          "name": "Shrinath Jadhav",
+          "r": 2,
+          "b": 5,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "ct"
+        },
+        {
+          "name": "Raman H",
+          "r": 1,
+          "b": 7,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "hw"
+        },
+        {
+          "name": "Gouri Shankar Swamy",
+          "r": 2,
+          "b": 7,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 8,
+          "how": "st"
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Ashu Vishwakarma",
+          "balls": 18,
+          "r": 8,
+          "w": 1,
+          "dots": 12,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Sankara Rajagopalan",
+          "balls": 18,
+          "r": 13,
+          "w": 3,
+          "dots": 11,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Rushi Kotwal",
+          "balls": 24,
+          "r": 18,
+          "w": 2,
+          "dots": 16,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Bab S",
+          "balls": 18,
+          "r": 11,
+          "w": 3,
+          "dots": 9,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Sriram Viswanathan",
+          "balls": 5,
+          "r": 6,
+          "w": 1,
+          "dots": 4,
+          "wd": 5,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Sriram Viswanathan",
+          "c",
+          3
+        ],
+        [
+          "Sai Chaithanya Varikunta",
+          "c",
+          1
+        ],
+        [
+          "Raman H",
+          "k",
+          1
+        ],
+        [
+          "Ashu Vishwakarma",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-4258",
+      "date": "2026-10-10",
+      "series": "SRCA Summer 2026",
+      "seriesId": "legacy-110",
+      "opponent": "Champions",
+      "ground": "Rancho",
+      "result": "Gale Ranch Warriors won by 5 Wickets",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": true,
+      "tossDecision": "bowl",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "Champions",
+          "runs": 79,
+          "wkts": 10,
+          "overs": "19.3"
+        },
+        {
+          "team": "Gale Ranch Warriors",
+          "runs": 83,
+          "wkts": 5,
+          "overs": "16.3"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Ashu Vishwakarma",
+          "r": 14,
+          "b": 31,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "hw"
+        },
+        {
+          "name": "Sandeep Hiremath",
+          "r": 2,
+          "b": 4,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ct"
+        },
+        {
+          "name": "Gaurav Jain",
+          "r": 21,
+          "b": 28,
+          "f": 0,
+          "s": 1,
+          "out": true,
+          "pos": 3,
+          "how": "ctw"
+        },
+        {
+          "name": "Bab S",
+          "r": 2,
+          "b": 6,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ct"
+        },
+        {
+          "name": "Karthik Rajaram",
+          "r": 7,
+          "b": 13,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 5
+        },
+        {
+          "name": "Gouri Shankar Swamy",
+          "r": 3,
+          "b": 6,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "ctw"
+        },
+        {
+          "name": "Sai Chaithanya Varikunta",
+          "r": 20,
+          "b": 12,
+          "f": 1,
+          "s": 1,
+          "out": false,
+          "pos": 7
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Rushi Kotwal",
+          "balls": 24,
+          "r": 19,
+          "w": 1,
+          "dots": 12,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Bab S",
+          "balls": 24,
+          "r": 8,
+          "w": 3,
+          "dots": 18,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Ashu Vishwakarma",
+          "balls": 24,
+          "r": 15,
+          "w": 2,
+          "dots": 12,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Kiran Kumar Bellary",
+          "balls": 24,
+          "r": 15,
+          "w": 2,
+          "dots": 11,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Karthik Rajaram",
+          "balls": 18,
+          "r": 17,
+          "w": 1,
+          "dots": 8,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Sriram Viswanathan",
+          "balls": 3,
+          "r": 4,
+          "w": 1,
+          "dots": 2,
+          "wd": 0,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Sriram Viswanathan",
+          "c",
+          2
+        ],
+        [
+          "Karthik Rajaram",
+          "c",
+          3
+        ],
+        [
+          "Sai Chaithanya Varikunta",
+          "k",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-4254",
+      "date": "2026-10-04",
+      "series": "SRCA Summer 2026",
+      "seriesId": "legacy-110",
+      "opponent": "Emerald Titans",
+      "ground": "Central Park1",
+      "result": "Gale Ranch Warriors won by 3 Wickets",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": false,
+      "tossDecision": "bat",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "Emerald Titans",
+          "runs": 81,
+          "wkts": 9,
+          "overs": "20"
+        },
+        {
+          "team": "Gale Ranch Warriors",
+          "runs": 82,
+          "wkts": 7,
+          "overs": "18.4"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Amit Aher",
+          "r": 9,
+          "b": 7,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ct"
+        },
+        {
+          "name": "Sriram Viswanathan",
+          "r": 9,
+          "b": 15,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ro"
+        },
+        {
+          "name": "Raman H",
+          "r": 2,
+          "b": 8,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ct"
+        },
+        {
+          "name": "Karthik Rajaram",
+          "r": 8,
+          "b": 18,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "b"
+        },
+        {
+          "name": "Bab S",
+          "r": 33,
+          "b": 38,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "ct"
+        },
+        {
+          "name": "Sai Chaithanya Varikunta",
+          "r": 2,
+          "b": 8,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "ctw"
+        },
+        {
+          "name": "Shrinath Jadhav",
+          "r": 4,
+          "b": 9,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "ct"
+        },
+        {
+          "name": "Ashu Vishwakarma",
+          "r": 1,
+          "b": 7,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 8
+        },
+        {
+          "name": "Kiran Kumar Bellary",
+          "r": 2,
+          "b": 6,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 9
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Dev Ghai",
+          "balls": 24,
+          "r": 14,
+          "w": 2,
+          "dots": 16,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Rushi Kotwal",
+          "balls": 24,
+          "r": 16,
+          "w": 1,
+          "dots": 16,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Ashu Vishwakarma",
+          "balls": 24,
+          "r": 8,
+          "w": 2,
+          "dots": 18,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Bab S",
+          "balls": 24,
+          "r": 24,
+          "w": 2,
+          "dots": 10,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Kiran Kumar Bellary",
+          "balls": 24,
+          "r": 18,
+          "w": 1,
+          "dots": 12,
+          "wd": 0,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Kiran Kumar Bellary",
+          "c",
+          1
+        ],
+        [
+          "Raman H",
+          "c",
+          1
+        ],
+        [
+          "Kiran Kumar Bellary",
+          "r",
+          1
+        ],
+        [
+          "Ashu Vishwakarma",
+          "r",
+          1
+        ],
+        [
+          "Sai Chaithanya Varikunta",
+          "k",
+          1
+        ],
+        [
+          "Amit Aher",
+          "c",
+          1
+        ],
+        [
+          "Dev Ghai",
+          "c",
+          1
+        ],
+        [
+          "Karthik Rajaram",
+          "c",
+          1
+        ],
+        [
+          "Sai Chaithanya Varikunta",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-4234",
+      "date": "2026-09-26",
+      "series": "SRCA Summer 2026",
+      "seriesId": "legacy-110",
+      "opponent": "Emerald Kings",
+      "ground": "Rancho",
+      "result": "Gale Ranch Warriors won by 29 Runs",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": true,
+      "tossDecision": "bat",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "Gale Ranch Warriors",
+          "runs": 92,
+          "wkts": 8,
+          "overs": "20"
+        },
+        {
+          "team": "Emerald Kings",
+          "runs": 63,
+          "wkts": 10,
+          "overs": "18.3"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Sai Chaithanya Varikunta",
+          "r": 28,
+          "b": 26,
+          "f": 1,
+          "s": 2,
+          "out": true,
+          "pos": 1,
+          "how": "ctw"
+        },
+        {
+          "name": "Amit Aher",
+          "r": 16,
+          "b": 20,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "b"
+        },
+        {
+          "name": "Bab S",
+          "r": 4,
+          "b": 18,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ct"
+        },
+        {
+          "name": "Sankara Rajagopalan",
+          "r": 20,
+          "b": 30,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ct"
+        },
+        {
+          "name": "Raman H",
+          "r": 2,
+          "b": 8,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "ct"
+        },
+        {
+          "name": "Shrinath Jadhav",
+          "r": 0,
+          "b": 6,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "ct"
+        },
+        {
+          "name": "Gouri Shankar Swamy",
+          "r": 4,
+          "b": 7,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "ct"
+        },
+        {
+          "name": "Sriram Viswanathan",
+          "r": 6,
+          "b": 6,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 8
+        },
+        {
+          "name": "Karthik Rajaram",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 9,
+          "how": "ro"
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Dev Ghai",
+          "balls": 24,
+          "r": 16,
+          "w": 4,
+          "dots": 15,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Rushi Kotwal",
+          "balls": 24,
+          "r": 15,
+          "w": 3,
+          "dots": 16,
+          "wd": 6,
+          "nb": 0
+        },
+        {
+          "name": "Sankara Rajagopalan",
+          "balls": 24,
+          "r": 13,
+          "w": 0,
+          "dots": 17,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Bab S",
+          "balls": 24,
+          "r": 9,
+          "w": 0,
+          "dots": 17,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Karthik Rajaram",
+          "balls": 15,
+          "r": 9,
+          "w": 2,
+          "dots": 7,
+          "wd": 0,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Shrinath Jadhav",
+          "c",
+          2
+        ],
+        [
+          "Sai Chaithanya Varikunta",
+          "k",
+          3
+        ],
+        [
+          "Bab S",
+          "r",
+          1
+        ],
+        [
+          "Dev Ghai",
+          "r",
+          1
+        ],
+        [
+          "Karthik Rajaram",
+          "c",
+          1
+        ],
+        [
+          "Gouri Shankar Swamy",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-4201",
+      "date": "2026-09-12",
+      "series": "SRCA Summer 2026",
+      "seriesId": "legacy-110",
+      "opponent": "Champions",
+      "ground": "GRMS",
+      "result": "Gale Ranch Warriors won by 3 Runs",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": true,
+      "tossDecision": "bat",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "Gale Ranch Warriors",
+          "runs": 77,
+          "wkts": 10,
+          "overs": "17"
+        },
+        {
+          "team": "Champions",
+          "runs": 74,
+          "wkts": 7,
+          "overs": "20"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Sai Chaithanya Varikunta",
+          "r": 6,
+          "b": 2,
+          "f": 0,
+          "s": 1,
+          "out": true,
+          "pos": 1,
+          "how": "b"
+        },
+        {
+          "name": "Amit Aher",
+          "r": 7,
+          "b": 12,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ct"
+        },
+        {
+          "name": "Bab S",
+          "r": 8,
+          "b": 13,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ct"
+        },
+        {
+          "name": "Sriram Viswanathan",
+          "r": 13,
+          "b": 16,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ctw"
+        },
+        {
+          "name": "Murthy Pitta",
+          "r": 5,
+          "b": 17,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "ctw"
+        },
+        {
+          "name": "Ashu Vishwakarma",
+          "r": 21,
+          "b": 26,
+          "f": 2,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "ct"
+        },
+        {
+          "name": "Shrinath Jadhav",
+          "r": 0,
+          "b": 8,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "ct"
+        },
+        {
+          "name": "Dev Ghai",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 8,
+          "how": "ctw"
+        },
+        {
+          "name": "Shivraj Tahasildar",
+          "r": 0,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 9,
+          "how": "ct"
+        },
+        {
+          "name": "Mehar Kiran Chiruvolu",
+          "r": 0,
+          "b": 3,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 10,
+          "how": "ctw"
+        },
+        {
+          "name": "Rushi Kotwal",
+          "r": 2,
+          "b": 4,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 11
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Dev Ghai",
+          "balls": 24,
+          "r": 13,
+          "w": 1,
+          "dots": 17,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Rushi Kotwal",
+          "balls": 24,
+          "r": 16,
+          "w": 2,
+          "dots": 14,
+          "wd": 5,
+          "nb": 0
+        },
+        {
+          "name": "Ashu Vishwakarma",
+          "balls": 24,
+          "r": 9,
+          "w": 1,
+          "dots": 17,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Bab S",
+          "balls": 24,
+          "r": 22,
+          "w": 3,
+          "dots": 14,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Sriram Viswanathan",
+          "balls": 24,
+          "r": 14,
+          "w": 0,
+          "dots": 18,
+          "wd": 4,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Sai Chaithanya Varikunta",
+          "k",
+          2
+        ],
+        [
+          "Sriram Viswanathan",
+          "c",
+          1
+        ],
+        [
+          "Dev Ghai",
+          "c",
+          1
+        ],
+        [
+          "Shivraj Tahasildar",
+          "c",
+          1
+        ],
+        [
+          "Mehar Kiran Chiruvolu",
+          "c",
+          1
+        ],
+        [
+          "Shrinath Jadhav",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-4165",
+      "date": "2026-08-16",
+      "series": "SRCA Summer 2026",
+      "seriesId": "legacy-110",
+      "opponent": "Emerald Kings",
+      "ground": "Rancho",
+      "result": "Emerald Kings won by 14 Runs",
+      "forfeit": false,
+      "outcome": "L",
+      "tossWonByUs": false,
+      "tossDecision": "bat",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "Emerald Kings",
+          "runs": 82,
+          "wkts": 7,
+          "overs": "20"
+        },
+        {
+          "team": "Gale Ranch Warriors",
+          "runs": 68,
+          "wkts": 10,
+          "overs": "18.5"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Amit Aher",
+          "r": 11,
+          "b": 10,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ct"
+        },
+        {
+          "name": "Karthik Rajaram",
+          "r": 14,
+          "b": 28,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ct"
+        },
+        {
+          "name": "Bab S",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ct"
+        },
+        {
+          "name": "Sankara Rajagopalan",
+          "r": 14,
+          "b": 17,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ct"
+        },
+        {
+          "name": "Sriram Viswanathan",
+          "r": 2,
+          "b": 8,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "ct"
+        },
+        {
+          "name": "Shrinath Jadhav",
+          "r": 4,
+          "b": 15,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "ctw"
+        },
+        {
+          "name": "Sai Chaithanya Varikunta",
+          "r": 5,
+          "b": 10,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "ct"
+        },
+        {
+          "name": "Raman H",
+          "r": 1,
+          "b": 4,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 8,
+          "how": "ct"
+        },
+        {
+          "name": "Dev Ghai",
+          "r": 0,
+          "b": 5,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 9,
+          "how": "ct"
+        },
+        {
+          "name": "Kiran Kumar Bellary",
+          "r": 6,
+          "b": 9,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 10,
+          "how": "ct"
+        },
+        {
+          "name": "Rushi Kotwal",
+          "r": 2,
+          "b": 7,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 11
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Dev Ghai",
+          "balls": 24,
+          "r": 17,
+          "w": 0,
+          "dots": 17,
+          "wd": 7,
+          "nb": 0
+        },
+        {
+          "name": "Rushi Kotwal",
+          "balls": 24,
+          "r": 20,
+          "w": 0,
+          "dots": 9,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Kiran Kumar Bellary",
+          "balls": 24,
+          "r": 20,
+          "w": 1,
+          "dots": 11,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Sankara Rajagopalan",
+          "balls": 24,
+          "r": 8,
+          "w": 2,
+          "dots": 17,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Bab S",
+          "balls": 24,
+          "r": 17,
+          "w": 1,
+          "dots": 15,
+          "wd": 1,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Dev Ghai",
+          "r",
+          1
+        ],
+        [
+          "Bab S",
+          "r",
+          1
+        ],
+        [
+          "Raman H",
+          "k",
+          2
+        ],
+        [
+          "Sai Chaithanya Varikunta",
+          "r",
+          2
+        ]
+      ]
+    },
+    {
+      "id": "legacy-4131",
+      "date": "2026-08-08",
+      "series": "SRCA Summer 2026",
+      "seriesId": "legacy-110",
+      "opponent": "Fallon Falcons",
+      "ground": "WRMS",
+      "result": "Gale Ranch Warriors won by 5 Wickets",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": true,
+      "tossDecision": "bowl",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "Fallon Falcons",
+          "runs": 76,
+          "wkts": 10,
+          "overs": "20"
+        },
+        {
+          "team": "Gale Ranch Warriors",
+          "runs": 77,
+          "wkts": 5,
+          "overs": "16.4"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Amit Aher",
+          "r": 18,
+          "b": 28,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ctw"
+        },
+        {
+          "name": "Karthik Rajaram",
+          "r": 8,
+          "b": 13,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ct"
+        },
+        {
+          "name": "Subhash U",
+          "r": 11,
+          "b": 17,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ct"
+        },
+        {
+          "name": "Sai Chaithanya Varikunta",
+          "r": 12,
+          "b": 20,
+          "f": 0,
+          "s": 1,
+          "out": false,
+          "pos": 4
+        },
+        {
+          "name": "Bab S",
+          "r": 1,
+          "b": 9,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "ctw"
+        },
+        {
+          "name": "Sankara Rajagopalan",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "ctw"
+        },
+        {
+          "name": "Shrinath Jadhav",
+          "r": 14,
+          "b": 13,
+          "f": 2,
+          "s": 0,
+          "out": false,
+          "pos": 7
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Rushi Kotwal",
+          "balls": 24,
+          "r": 20,
+          "w": 3,
+          "dots": 16,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Sankara Rajagopalan",
+          "balls": 24,
+          "r": 12,
+          "w": 0,
+          "dots": 14,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Bab S",
+          "balls": 24,
+          "r": 15,
+          "w": 2,
+          "dots": 15,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Karthik Rajaram",
+          "balls": 18,
+          "r": 14,
+          "w": 0,
+          "dots": 7,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Sriram Viswanathan",
+          "balls": 18,
+          "r": 8,
+          "w": 1,
+          "dots": 12,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Chakry Arunachalam",
+          "balls": 12,
+          "r": 7,
+          "w": 2,
+          "dots": 7,
+          "wd": 1,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Amit Aher",
+          "c",
+          2
+        ],
+        [
+          "Subhash U",
+          "c",
+          3
+        ],
+        [
+          "Chakry Arunachalam",
+          "c",
+          1
+        ],
+        [
+          "Raman H",
+          "r",
+          2
+        ],
+        [
+          "Karthik Rajaram",
+          "c",
+          1
+        ],
+        [
+          "Raman H",
+          "k",
+          1
+        ],
+        [
+          "Chakry Arunachalam",
+          "r",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-4113",
+      "date": "2026-07-26",
+      "series": "SRCA Summer 2026",
+      "seriesId": "legacy-110",
+      "opponent": "Emerald Titans",
+      "ground": "GRMS",
+      "result": "Gale Ranch Warriors won by 7 Wickets",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": true,
+      "tossDecision": "bowl",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "Emerald Titans",
+          "runs": 60,
+          "wkts": 8,
+          "overs": "20"
+        },
+        {
+          "team": "Gale Ranch Warriors",
+          "runs": 63,
+          "wkts": 3,
+          "overs": "15.2"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Karthik Rajaram",
+          "r": 23,
+          "b": 35,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ct"
+        },
+        {
+          "name": "Amit Aher",
+          "r": 18,
+          "b": 39,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "b"
+        },
+        {
+          "name": "Subhash U",
+          "r": 9,
+          "b": 15,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "b"
+        },
+        {
+          "name": "Shrinath Jadhav",
+          "r": 7,
+          "b": 5,
+          "f": 1,
+          "s": 0,
+          "out": false,
+          "pos": 4
+        },
+        {
+          "name": "Bab S",
+          "r": 0,
+          "b": 0,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 5
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Dev Ghai",
+          "balls": 24,
+          "r": 11,
+          "w": 2,
+          "dots": 18,
+          "wd": 5,
+          "nb": 0
+        },
+        {
+          "name": "Rushi Kotwal",
+          "balls": 24,
+          "r": 12,
+          "w": 2,
+          "dots": 16,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Kiran Kumar Bellary",
+          "balls": 24,
+          "r": 9,
+          "w": 2,
+          "dots": 18,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Bab S",
+          "balls": 24,
+          "r": 13,
+          "w": 2,
+          "dots": 17,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Sankara Rajagopalan",
+          "balls": 24,
+          "r": 15,
+          "w": 0,
+          "dots": 15,
+          "wd": 0,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Amit Aher",
+          "c",
+          2
+        ],
+        [
+          "Rushi Kotwal",
+          "c",
+          1
+        ],
+        [
+          "Sankara Rajagopalan",
+          "c",
+          2
+        ],
+        [
+          "Sai Chaithanya Varikunta",
+          "k",
+          1
+        ],
+        [
+          "Dev Ghai",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-4090",
+      "date": "2026-07-19",
+      "series": "SRCA Summer 2026",
+      "seriesId": "legacy-110",
+      "opponent": "Kingfishers",
+      "ground": "GRMS",
+      "result": "Gale Ranch Warriors won by 3 Runs",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": true,
+      "tossDecision": "bat",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "Gale Ranch Warriors",
+          "runs": 26,
+          "wkts": 10,
+          "overs": "12.5"
+        },
+        {
+          "team": "Kingfishers",
+          "runs": 23,
+          "wkts": 10,
+          "overs": "11.2"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Subhash U",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ct"
+        },
+        {
+          "name": "Sai Chaithanya Varikunta",
+          "r": 6,
+          "b": 7,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ctw"
+        },
+        {
+          "name": "Amit Aher",
+          "r": 4,
+          "b": 11,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ct"
+        },
+        {
+          "name": "Bab S",
+          "r": 4,
+          "b": 6,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ctw"
+        },
+        {
+          "name": "Gaurav Jain",
+          "r": 0,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "ctw"
+        },
+        {
+          "name": "Karthik Rajaram",
+          "r": 7,
+          "b": 13,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "b"
+        },
+        {
+          "name": "Sriram Viswanathan",
+          "r": 1,
+          "b": 11,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "ct"
+        },
+        {
+          "name": "Shrinath Jadhav",
+          "r": 1,
+          "b": 6,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 8,
+          "how": "ct"
+        },
+        {
+          "name": "Sandeep Hiremath",
+          "r": 1,
+          "b": 13,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 9,
+          "how": "ct"
+        },
+        {
+          "name": "Dev Ghai",
+          "r": 0,
+          "b": 4,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 10
+        },
+        {
+          "name": "Rushi Kotwal",
+          "r": 0,
+          "b": 4,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 11,
+          "how": "ct"
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Dev Ghai",
+          "balls": 24,
+          "r": 9,
+          "w": 4,
+          "dots": 17,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Rushi Kotwal",
+          "balls": 20,
+          "r": 7,
+          "w": 4,
+          "dots": 14,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Bab S",
+          "balls": 24,
+          "r": 7,
+          "w": 2,
+          "dots": 18,
+          "wd": 1,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Rushi Kotwal",
+          "c",
+          1
+        ],
+        [
+          "Bab S",
+          "c",
+          2
+        ],
+        [
+          "Gaurav Jain",
+          "c",
+          2
+        ],
+        [
+          "Sriram Viswanathan",
+          "c",
+          1
+        ],
+        [
+          "Subhash U",
+          "c",
+          1
+        ],
+        [
+          "Sai Chaithanya Varikunta",
+          "k",
+          1
+        ],
+        [
+          "Amit Aher",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-4055",
+      "date": "2026-06-28",
+      "series": "SRCA Summer 2026",
+      "seriesId": "legacy-110",
+      "opponent": "GRCC",
+      "ground": "Central Park1",
+      "result": "Gale Ranch Warriors won by 11 Runs",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": true,
+      "tossDecision": "bat",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "Gale Ranch Warriors",
+          "runs": 104,
+          "wkts": 7,
+          "overs": "20"
+        },
+        {
+          "team": "GRCC",
+          "runs": 93,
+          "wkts": 8,
+          "overs": "20"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Hemendra Sr",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "b"
+        },
+        {
+          "name": "Amit Aher",
+          "r": 36,
+          "b": 43,
+          "f": 2,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ctw"
+        },
+        {
+          "name": "Bab S",
+          "r": 6,
+          "b": 10,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ctw"
+        },
+        {
+          "name": "Raman H",
+          "r": 15,
+          "b": 17,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ct"
+        },
+        {
+          "name": "Sai Chaithanya Varikunta",
+          "r": 7,
+          "b": 10,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "ct"
+        },
+        {
+          "name": "Karthik Rajaram",
+          "r": 18,
+          "b": 19,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 6
+        },
+        {
+          "name": "Sriram Viswanathan",
+          "r": 10,
+          "b": 15,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 7
+        },
+        {
+          "name": "Andy SR T",
+          "r": 1,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 8,
+          "how": "ct"
+        },
+        {
+          "name": "Dev Ghai",
+          "r": 2,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 9,
+          "how": "ct"
+        },
+        {
+          "name": "Ashu Vishwakarma",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 10
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Dev Ghai",
+          "balls": 24,
+          "r": 15,
+          "w": 1,
+          "dots": 14,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Ashu Vishwakarma",
+          "balls": 24,
+          "r": 17,
+          "w": 0,
+          "dots": 13,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Rushi Kotwal",
+          "balls": 24,
+          "r": 24,
+          "w": 2,
+          "dots": 11,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Bab S",
+          "balls": 24,
+          "r": 12,
+          "w": 2,
+          "dots": 13,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Karthik Rajaram",
+          "balls": 18,
+          "r": 19,
+          "w": 2,
+          "dots": 7,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Sriram Viswanathan",
+          "balls": 6,
+          "r": 5,
+          "w": 1,
+          "dots": 2,
+          "wd": 1,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Raman H",
+          "k",
+          2
+        ],
+        [
+          "Bab S",
+          "c",
+          1
+        ],
+        [
+          "Ashu Vishwakarma",
+          "c",
+          1
+        ],
+        [
+          "Karthik Rajaram",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-4016",
+      "date": "2026-06-14",
+      "series": "SRCA Summer 2026",
+      "seriesId": "legacy-110",
+      "opponent": "Mt Diablo Eagles",
+      "ground": "Central Park1",
+      "result": "Gale Ranch Warriors won by 46 Runs",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": true,
+      "tossDecision": "bat",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "Gale Ranch Warriors",
+          "runs": 117,
+          "wkts": 6,
+          "overs": "20"
+        },
+        {
+          "team": "Mt Diablo Eagles",
+          "runs": 71,
+          "wkts": 9,
+          "overs": "20"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Subhash U",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ct"
+        },
+        {
+          "name": "Sai Chaithanya Varikunta",
+          "r": 5,
+          "b": 6,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ctw"
+        },
+        {
+          "name": "Gaurav Jain",
+          "r": 3,
+          "b": 16,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ctw"
+        },
+        {
+          "name": "Bab S",
+          "r": 39,
+          "b": 43,
+          "f": 2,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ct"
+        },
+        {
+          "name": "Karthik Rajaram",
+          "r": 23,
+          "b": 29,
+          "f": 2,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "ctw"
+        },
+        {
+          "name": "Sriram Viswanathan",
+          "r": 8,
+          "b": 10,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "ct"
+        },
+        {
+          "name": "Shrinath Jadhav",
+          "r": 29,
+          "b": 12,
+          "f": 1,
+          "s": 3,
+          "out": false,
+          "pos": 7
+        },
+        {
+          "name": "Dev Ghai",
+          "r": 2,
+          "b": 4,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 8
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Dev Ghai",
+          "balls": 24,
+          "r": 22,
+          "w": 1,
+          "dots": 14,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Ashu Vishwakarma",
+          "balls": 24,
+          "r": 8,
+          "w": 1,
+          "dots": 17,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Kiran Kumar Bellary",
+          "balls": 18,
+          "r": 9,
+          "w": 3,
+          "dots": 11,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Karthik Rajaram",
+          "balls": 12,
+          "r": 6,
+          "w": 1,
+          "dots": 9,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Sriram Viswanathan",
+          "balls": 12,
+          "r": 8,
+          "w": 0,
+          "dots": 7,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Bab S",
+          "balls": 18,
+          "r": 12,
+          "w": 2,
+          "dots": 9,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Mehar Kiran Chiruvolu",
+          "balls": 12,
+          "r": 6,
+          "w": 1,
+          "dots": 8,
+          "wd": 1,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Shrinath Jadhav",
+          "c",
+          2
+        ],
+        [
+          "Sai Chaithanya Varikunta",
+          "k",
+          3
+        ],
+        [
+          "Bab S",
+          "c",
+          1
+        ],
+        [
+          "Kiran Kumar Bellary",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-3981",
+      "date": "2026-05-30",
+      "series": "SRCA Spring 2026",
+      "seriesId": "legacy-99",
+      "opponent": "Kingfishers",
+      "ground": "Central Park1",
+      "result": "Kingfishers won by 9 Runs",
+      "forfeit": false,
+      "outcome": "L",
+      "tossWonByUs": false,
+      "tossDecision": "bat",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "Kingfishers",
+          "runs": 110,
+          "wkts": 6,
+          "overs": "20"
+        },
+        {
+          "team": "Gale Ranch Warriors",
+          "runs": 101,
+          "wkts": 9,
+          "overs": "20"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Sai Chaithanya Varikunta",
+          "r": 28,
+          "b": 33,
+          "f": 2,
+          "s": 1,
+          "out": true,
+          "pos": 1,
+          "how": "ct"
+        },
+        {
+          "name": "Subhash U",
+          "r": 10,
+          "b": 6,
+          "f": 2,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ro"
+        },
+        {
+          "name": "Bab S",
+          "r": 6,
+          "b": 13,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ct"
+        },
+        {
+          "name": "Gautam Mehra SR",
+          "r": 12,
+          "b": 13,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "b"
+        },
+        {
+          "name": "Karthik Rajaram",
+          "r": 1,
+          "b": 3,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "ct"
+        },
+        {
+          "name": "Raman H",
+          "r": 5,
+          "b": 10,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "b"
+        },
+        {
+          "name": "Shrinath Jadhav",
+          "r": 6,
+          "b": 9,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "b"
+        },
+        {
+          "name": "Ashu Vishwakarma",
+          "r": 0,
+          "b": 8,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 8,
+          "how": "ct"
+        },
+        {
+          "name": "Dev Ghai",
+          "r": 12,
+          "b": 11,
+          "f": 0,
+          "s": 1,
+          "out": false,
+          "pos": 9
+        },
+        {
+          "name": "Sriram Viswanathan",
+          "r": 13,
+          "b": 12,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 10,
+          "how": "b"
+        },
+        {
+          "name": "Rushi Kotwal",
+          "r": 2,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 11
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Dev Ghai",
+          "balls": 24,
+          "r": 22,
+          "w": 2,
+          "dots": 12,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Rushi Kotwal",
+          "balls": 24,
+          "r": 13,
+          "w": 1,
+          "dots": 16,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Bab S",
+          "balls": 24,
+          "r": 22,
+          "w": 1,
+          "dots": 10,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Ashu Vishwakarma",
+          "balls": 24,
+          "r": 21,
+          "w": 0,
+          "dots": 9,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Sriram Viswanathan",
+          "balls": 18,
+          "r": 23,
+          "w": 1,
+          "dots": 8,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Karthik Rajaram",
+          "balls": 6,
+          "r": 9,
+          "w": 1,
+          "dots": 1,
+          "wd": 0,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Shrinath Jadhav",
+          "c",
+          2
+        ],
+        [
+          "Sai Chaithanya Varikunta",
+          "c",
+          1
+        ],
+        [
+          "Rushi Kotwal",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-3951",
+      "date": "2026-05-16",
+      "series": "SRCA Spring 2026",
+      "seriesId": "legacy-99",
+      "opponent": "007",
+      "ground": "Central Park1",
+      "result": "007 won by 35 Runs",
+      "forfeit": false,
+      "outcome": "L",
+      "tossWonByUs": true,
+      "tossDecision": "bowl",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "007",
+          "runs": 92,
+          "wkts": 9,
+          "overs": "20"
+        },
+        {
+          "team": "Gale Ranch Warriors",
+          "runs": 57,
+          "wkts": 10,
+          "overs": "18.4"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Subhash U",
+          "r": 10,
+          "b": 17,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ct"
+        },
+        {
+          "name": "Karthik Rajaram",
+          "r": 8,
+          "b": 13,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ct"
+        },
+        {
+          "name": "Bab S",
+          "r": 14,
+          "b": 26,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ct"
+        },
+        {
+          "name": "Sankara Rajagopalan",
+          "r": 0,
+          "b": 4,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ct"
+        },
+        {
+          "name": "Amit Aher",
+          "r": 2,
+          "b": 4,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "ro"
+        },
+        {
+          "name": "Sai Chaithanya Varikunta",
+          "r": 0,
+          "b": 3,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "ct"
+        },
+        {
+          "name": "Shrinath Jadhav",
+          "r": 9,
+          "b": 28,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "ct"
+        },
+        {
+          "name": "Ashu Vishwakarma",
+          "r": 4,
+          "b": 8,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 8,
+          "how": "ro"
+        },
+        {
+          "name": "Kantha Reddy Yammanuru Rajani",
+          "r": 2,
+          "b": 6,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 9,
+          "how": "ctw"
+        },
+        {
+          "name": "Sriram Viswanathan",
+          "r": 0,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 10,
+          "how": "b"
+        },
+        {
+          "name": "Rushi Kotwal",
+          "r": 0,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 11
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Kantha Reddy Yammanuru Rajani",
+          "balls": 24,
+          "r": 13,
+          "w": 0,
+          "dots": 14,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Rushi Kotwal",
+          "balls": 12,
+          "r": 11,
+          "w": 0,
+          "dots": 5,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Ashu Vishwakarma",
+          "balls": 24,
+          "r": 20,
+          "w": 0,
+          "dots": 11,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Sankara Rajagopalan",
+          "balls": 24,
+          "r": 22,
+          "w": 2,
+          "dots": 11,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Bab S",
+          "balls": 24,
+          "r": 15,
+          "w": 3,
+          "dots": 11,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Karthik Rajaram",
+          "balls": 12,
+          "r": 11,
+          "w": 2,
+          "dots": 5,
+          "wd": 0,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Rushi Kotwal",
+          "c",
+          1
+        ],
+        [
+          "Kantha Reddy Yammanuru Rajani",
+          "c",
+          1
+        ],
+        [
+          "Karthik Rajaram",
+          "c",
+          1
+        ],
+        [
+          "Karthik Rajaram",
+          "r",
+          1
+        ],
+        [
+          "Ashu Vishwakarma",
+          "c",
+          1
+        ],
+        [
+          "Ashu Vishwakarma",
+          "r",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-3936",
+      "date": "2026-05-09",
+      "series": "SRCA Spring 2026",
+      "seriesId": "legacy-99",
+      "opponent": "Emerald Titans",
+      "ground": "GRMS",
+      "result": "Gale Ranch Warriors won by 3 Wickets",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": false,
+      "tossDecision": "bat",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "Emerald Titans",
+          "runs": 131,
+          "wkts": 5,
+          "overs": "20"
+        },
+        {
+          "team": "Gale Ranch Warriors",
+          "runs": 132,
+          "wkts": 7,
+          "overs": "20"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Sankara Rajagopalan",
+          "r": 28,
+          "b": 25,
+          "f": 3,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ct"
+        },
+        {
+          "name": "Karthik Rajaram",
+          "r": 16,
+          "b": 20,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ro"
+        },
+        {
+          "name": "Bab S",
+          "r": 29,
+          "b": 16,
+          "f": 5,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ct"
+        },
+        {
+          "name": "Sai Chaithanya Varikunta",
+          "r": 13,
+          "b": 18,
+          "f": 2,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ct"
+        },
+        {
+          "name": "Raman H",
+          "r": 8,
+          "b": 13,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "ro"
+        },
+        {
+          "name": "Sandeep Hiremath",
+          "r": 17,
+          "b": 16,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "b"
+        },
+        {
+          "name": "Shrinath Jadhav",
+          "r": 9,
+          "b": 6,
+          "f": 1,
+          "s": 0,
+          "out": false,
+          "pos": 7
+        },
+        {
+          "name": "Arjun Warty",
+          "r": 1,
+          "b": 5,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 8,
+          "how": "ct"
+        },
+        {
+          "name": "Ashu Vishwakarma",
+          "r": 1,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 9
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Dev Ghai",
+          "balls": 24,
+          "r": 26,
+          "w": 0,
+          "dots": 11,
+          "wd": 5,
+          "nb": 0
+        },
+        {
+          "name": "Bab S",
+          "balls": 24,
+          "r": 23,
+          "w": 0,
+          "dots": 14,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Sankara Rajagopalan",
+          "balls": 24,
+          "r": 24,
+          "w": 1,
+          "dots": 12,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Ashu Vishwakarma",
+          "balls": 18,
+          "r": 22,
+          "w": 2,
+          "dots": 6,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Karthik Rajaram",
+          "balls": 18,
+          "r": 18,
+          "w": 1,
+          "dots": 7,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Sriram Viswanathan",
+          "balls": 12,
+          "r": 18,
+          "w": 0,
+          "dots": 6,
+          "wd": 0,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Karthik Rajaram",
+          "c",
+          1
+        ],
+        [
+          "Arjun Warty",
+          "k",
+          1
+        ],
+        [
+          "Karthik Rajaram",
+          "r",
+          1
+        ],
+        [
+          "Sriram Viswanathan",
+          "c",
+          1
+        ],
+        [
+          "Dev Ghai",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-3903",
+      "date": "2026-04-26",
+      "series": "SRCA Spring 2026",
+      "seriesId": "legacy-99",
+      "opponent": "Fallon Falcons",
+      "ground": "Central Park1",
+      "result": "Gale Ranch Warriors won by 13 Runs",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": true,
+      "tossDecision": "bat",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "Gale Ranch Warriors",
+          "runs": 96,
+          "wkts": 6,
+          "overs": "20"
+        },
+        {
+          "team": "Fallon Falcons",
+          "runs": 83,
+          "wkts": 10,
+          "overs": "19.4"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Sai Chaithanya Varikunta",
+          "r": 9,
+          "b": 11,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ct"
+        },
+        {
+          "name": "Amit Aher",
+          "r": 11,
+          "b": 24,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ct"
+        },
+        {
+          "name": "Raman H",
+          "r": 24,
+          "b": 32,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ro"
+        },
+        {
+          "name": "Gautam Mehra SR",
+          "r": 38,
+          "b": 42,
+          "f": 2,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ro"
+        },
+        {
+          "name": "Sankara Rajagopalan",
+          "r": 1,
+          "b": 4,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "b"
+        },
+        {
+          "name": "Shrinath Jadhav",
+          "r": 0,
+          "b": 3,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "ct"
+        },
+        {
+          "name": "Karthik Rajaram",
+          "r": 0,
+          "b": 5,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 7
+        },
+        {
+          "name": "Kiran Kumar Bellary",
+          "r": 0,
+          "b": 0,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 8
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Dev Ghai",
+          "balls": 24,
+          "r": 13,
+          "w": 2,
+          "dots": 17,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Rushi Kotwal",
+          "balls": 24,
+          "r": 22,
+          "w": 1,
+          "dots": 11,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Kiran Kumar Bellary",
+          "balls": 24,
+          "r": 22,
+          "w": 1,
+          "dots": 9,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Sankara Rajagopalan",
+          "balls": 24,
+          "r": 12,
+          "w": 2,
+          "dots": 16,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Karthik Rajaram",
+          "balls": 22,
+          "r": 14,
+          "w": 3,
+          "dots": 10,
+          "wd": 0,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Shrinath Jadhav",
+          "c",
+          2
+        ],
+        [
+          "Dev Ghai",
+          "c",
+          1
+        ],
+        [
+          "Sai Chaithanya Varikunta",
+          "c",
+          2
+        ],
+        [
+          "Sankara Rajagopalan",
+          "c",
+          1
+        ],
+        [
+          "Shrinath Jadhav",
+          "r",
+          1
+        ],
+        [
+          "Karthik Rajaram",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-3887",
+      "date": "2026-04-19",
+      "series": "SRCA Spring 2026",
+      "seriesId": "legacy-99",
+      "opponent": "Emerald Kings",
+      "ground": "GRMS",
+      "result": "Gale Ranch Warriors won by 4 Wickets",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": false,
+      "tossDecision": "bat",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "Emerald Kings",
+          "runs": 77,
+          "wkts": 7,
+          "overs": "20"
+        },
+        {
+          "team": "Gale Ranch Warriors",
+          "runs": 81,
+          "wkts": 6,
+          "overs": "18.2"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Karthik Rajaram",
+          "r": 2,
+          "b": 7,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ctw"
+        },
+        {
+          "name": "Sandeep Hiremath",
+          "r": 8,
+          "b": 13,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ct"
+        },
+        {
+          "name": "Raman H",
+          "r": 31,
+          "b": 40,
+          "f": 1,
+          "s": 1,
+          "out": true,
+          "pos": 3,
+          "how": "ctw"
+        },
+        {
+          "name": "Gautam Mehra SR",
+          "r": 9,
+          "b": 23,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "b"
+        },
+        {
+          "name": "Arjun Warty",
+          "r": 0,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "ctw"
+        },
+        {
+          "name": "Sai Chaithanya Varikunta",
+          "r": 12,
+          "b": 10,
+          "f": 2,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "ctw"
+        },
+        {
+          "name": "Kantha Reddy Yammanuru Rajani",
+          "r": 5,
+          "b": 7,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 7
+        },
+        {
+          "name": "Ashu Vishwakarma",
+          "r": 6,
+          "b": 8,
+          "f": 1,
+          "s": 0,
+          "out": false,
+          "pos": 8
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Kantha Reddy Yammanuru Rajani",
+          "balls": 24,
+          "r": 16,
+          "w": 1,
+          "dots": 15,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Dev Ghai",
+          "balls": 24,
+          "r": 19,
+          "w": 0,
+          "dots": 11,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Rushi Kotwal",
+          "balls": 24,
+          "r": 9,
+          "w": 3,
+          "dots": 16,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Ashu Vishwakarma",
+          "balls": 24,
+          "r": 13,
+          "w": 1,
+          "dots": 15,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Karthik Rajaram",
+          "balls": 18,
+          "r": 16,
+          "w": 1,
+          "dots": 10,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Sriram Viswanathan",
+          "balls": 6,
+          "r": 4,
+          "w": 1,
+          "dots": 3,
+          "wd": 0,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Ashu Vishwakarma",
+          "c",
+          1
+        ],
+        [
+          "Raman H",
+          "k",
+          2
+        ],
+        [
+          "Gautam Mehra SR",
+          "c",
+          1
+        ],
+        [
+          "Karthik Rajaram",
+          "c",
+          1
+        ],
+        [
+          "Sandeep Hiremath",
+          "c",
+          1
+        ],
+        [
+          "Sriram Viswanathan",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-3834",
+      "date": "2026-03-22",
+      "series": "SRCA Spring 2026",
+      "seriesId": "legacy-99",
+      "opponent": "Punjab Battalion",
+      "ground": "Rancho",
+      "result": "Punjab Battalion won by 95 Runs",
+      "forfeit": false,
+      "outcome": "L",
+      "tossWonByUs": false,
+      "tossDecision": "bat",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "Punjab Battalion",
+          "runs": 200,
+          "wkts": 10,
+          "overs": "20"
+        },
+        {
+          "team": "Gale Ranch Warriors",
+          "runs": 105,
+          "wkts": 6,
+          "overs": "20"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Sai Chaithanya Varikunta",
+          "r": 7,
+          "b": 5,
+          "f": 0,
+          "s": 1,
+          "out": true,
+          "pos": 1,
+          "how": "ct"
+        },
+        {
+          "name": "Amit Aher",
+          "r": 12,
+          "b": 18,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ro"
+        },
+        {
+          "name": "Shrinath Jadhav",
+          "r": 3,
+          "b": 6,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "b"
+        },
+        {
+          "name": "Karthik Rajaram",
+          "r": 7,
+          "b": 17,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ct"
+        },
+        {
+          "name": "Arun Singh",
+          "r": 3,
+          "b": 7,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "ctw"
+        },
+        {
+          "name": "Raman H",
+          "r": 42,
+          "b": 43,
+          "f": 1,
+          "s": 0,
+          "out": false,
+          "pos": 6
+        },
+        {
+          "name": "Arjun Warty",
+          "r": 12,
+          "b": 13,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "b"
+        },
+        {
+          "name": "Dev Ghai",
+          "r": 12,
+          "b": 14,
+          "f": 0,
+          "s": 1,
+          "out": false,
+          "pos": 8
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Kantha Reddy Yammanuru Rajani",
+          "balls": 24,
+          "r": 30,
+          "w": 2,
+          "dots": 14,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Dev Ghai",
+          "balls": 24,
+          "r": 51,
+          "w": 0,
+          "dots": 7,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Bab S",
+          "balls": 24,
+          "r": 22,
+          "w": 0,
+          "dots": 13,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Karthik Rajaram",
+          "balls": 24,
+          "r": 48,
+          "w": 2,
+          "dots": 9,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Amit Aher",
+          "balls": 6,
+          "r": 28,
+          "w": 0,
+          "dots": 1,
+          "wd": 0,
+          "nb": 2
+        },
+        {
+          "name": "Sriram Viswanathan",
+          "balls": 18,
+          "r": 21,
+          "w": 5,
+          "dots": 9,
+          "wd": 1,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Arjun Warty",
+          "k",
+          4
+        ],
+        [
+          "Arun Singh",
+          "r",
+          1
+        ],
+        [
+          "Arjun Warty",
+          "r",
+          1
+        ],
+        [
+          "Sriram Viswanathan",
+          "c",
+          2
+        ],
+        [
+          "Bab S",
+          "k",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-3791",
+      "date": "2026-03-07",
+      "series": "SRCA Spring 2026",
+      "seriesId": "legacy-99",
+      "opponent": "Preserve",
+      "ground": "Central Park1",
+      "result": "Gale Ranch Warriors won by 4 Wickets",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": true,
+      "tossDecision": "bowl",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "Preserve",
+          "runs": 90,
+          "wkts": 8,
+          "overs": "20"
+        },
+        {
+          "team": "Gale Ranch Warriors",
+          "runs": 91,
+          "wkts": 6,
+          "overs": "16.3"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Subhash U",
+          "r": 7,
+          "b": 5,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ro"
+        },
+        {
+          "name": "Amit Aher",
+          "r": 3,
+          "b": 4,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ct"
+        },
+        {
+          "name": "Karthik Rajaram",
+          "r": 2,
+          "b": 6,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ct"
+        },
+        {
+          "name": "Raman H",
+          "r": 11,
+          "b": 22,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ctw"
+        },
+        {
+          "name": "Sankara Rajagopalan",
+          "r": 41,
+          "b": 39,
+          "f": 1,
+          "s": 0,
+          "out": false,
+          "pos": 5
+        },
+        {
+          "name": "Gouri Shankar Swamy",
+          "r": 4,
+          "b": 13,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "ctw"
+        },
+        {
+          "name": "Sai Chaithanya Varikunta",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "ctw"
+        },
+        {
+          "name": "Raggy R SR",
+          "r": 6,
+          "b": 10,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 8
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Dev Ghai",
+          "balls": 24,
+          "r": 25,
+          "w": 0,
+          "dots": 11,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Karthik Rajaram",
+          "balls": 18,
+          "r": 16,
+          "w": 0,
+          "dots": 10,
+          "wd": 0,
+          "nb": 2
+        },
+        {
+          "name": "Bab S",
+          "balls": 24,
+          "r": 6,
+          "w": 3,
+          "dots": 20,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Sankara Rajagopalan",
+          "balls": 24,
+          "r": 10,
+          "w": 1,
+          "dots": 16,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Ashu Vishwakarma",
+          "balls": 24,
+          "r": 21,
+          "w": 3,
+          "dots": 14,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Amit Aher",
+          "balls": 6,
+          "r": 12,
+          "w": 0,
+          "dots": 1,
+          "wd": 0,
+          "nb": 1
+        }
+      ],
+      "fielding": [
+        [
+          "Sankara Rajagopalan",
+          "c",
+          1
+        ],
+        [
+          "Raman H",
+          "c",
+          1
+        ],
+        [
+          "Gouri Shankar Swamy",
+          "c",
+          1
+        ],
+        [
+          "Raggy R SR",
+          "k",
+          1
+        ],
+        [
+          "Sai Chaithanya Varikunta",
+          "c",
+          1
+        ]
+      ]
+    }
+  ],
+  "unresolvedFielders": 0
+}
