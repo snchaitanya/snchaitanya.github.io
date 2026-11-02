@@ -1,0 +1,235 @@
+name: Scan
+
+on:
+  schedule:
+    - cron: '0 10 * * 1'
+  workflow_dispatch:
+    inputs:
+      league:
+        description: League code or cricclubs.com URL
+        required: true
+        type: string
+      team:
+        description: Team name. Leave empty to only add or refresh the league.
+        required: false
+        type: string
+  issues:
+    types: [opened, labeled]
+
+permissions: {}
+
+concurrency:
+  group: scout-data
+  cancel-in-progress: false
+
+jobs:
+  prepare:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      issues: read
+    outputs:
+      proceed: ${{ steps.set.outputs.proceed }}
+      mode: ${{ steps.set.outputs.mode }}
+      league: ${{ steps.set.outputs.league }}
+      team: ${{ steps.set.outputs.team }}
+      error: ${{ steps.set.outputs.error }}
+    steps:
+      - uses: actions/checkout@v4
+      - name: Already handled
+        id: seen
+        if: github.event_name == 'issues'
+        uses: actions/github-script@v7
+        env:
+          EVENT_AT: ${{ github.event.issue.updated_at }}
+        with:
+          script: |
+            const eventAt = Date.parse(process.env.EVENT_AT || '');
+            const comments = await github.rest.issues.listComments({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              per_page: 100
+            });
+            const seen = Number.isFinite(eventAt) && comments.data.some(c =>
+              (c.body || '').includes('<!-- scout-handled -->') && Date.parse(c.created_at) >= eventAt
+            );
+            core.setOutput('seen', seen ? 'true' : 'false');
+      - name: Choose mode
+        id: set
+        env:
+          EVENT: ${{ github.event_name }}
+          ACTION: ${{ github.event.action }}
+          LABEL: ${{ github.event.label.name }}
+          ISSUE_LABELS: ${{ github.event_name == 'issues' && join(github.event.issue.labels.*.name, ',') || '' }}
+          ISSUE_BODY: ${{ github.event_name == 'issues' && github.event.issue.body || '' }}
+          INPUT_LEAGUE: ${{ inputs.league }}
+          INPUT_TEAM: ${{ inputs.team }}
+          SEEN: ${{ steps.seen.outputs.seen }}
+        run: node .github/scripts/prepare.js
+
+  scan:
+    needs: prepare
+    if: needs.prepare.outputs.proceed == 'true' && needs.prepare.outputs.mode != 'invalid' && needs.prepare.outputs.mode != 'skip'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pages: write
+      id-token: write
+    outputs:
+      comment: ${{ steps.emit.outputs.comment }}
+      close: ${{ steps.emit.outputs.close }}
+      changed: ${{ steps.commit.outputs.changed }}
+      status: ${{ steps.run.outputs.status }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: npm
+      - run: npm ci
+      - name: Find Chrome
+        run: |
+          set -euo pipefail
+          candidates=(
+            /usr/bin/google-chrome
+            /usr/bin/google-chrome-stable
+            /usr/local/bin/google-chrome
+            /opt/google/chrome/chrome
+          )
+          for c in "${candidates[@]}"; do
+            if [ -x "$c" ]; then
+              echo "CHROME_PATH=$c" >> "$GITHUB_ENV"
+              "$c" --version
+              exit 0
+            fi
+          done
+          echo "Chrome not on the runner; installing google-chrome-stable"
+          sudo apt-get update
+          sudo apt-get install -y wget gnupg ca-certificates
+          wget -qO- https://dl.google.com/linux/linux_signing_key.pub | sudo gpg --dearmor -o /usr/share/keyrings/google-chrome.gpg
+          echo "deb [arch=amd64 signed-by=/usr/share/keyrings/google-chrome.gpg] http://dl.google.com/linux/chrome/deb/ stable main" | sudo tee /etc/apt/sources.list.d/google-chrome.list >/dev/null
+          sudo apt-get update
+          sudo apt-get install -y google-chrome-stable
+          echo "CHROME_PATH=/usr/bin/google-chrome-stable" >> "$GITHUB_ENV"
+          google-chrome-stable --version
+      - name: Run scraper
+        id: run
+        env:
+          MODE: ${{ needs.prepare.outputs.mode }}
+          LEAGUE: ${{ needs.prepare.outputs.league }}
+          TEAM: ${{ needs.prepare.outputs.team }}
+          SITE_URL: https://kunal1985.github.io/cricclubs-scout/
+        run: |
+          set +e
+          node cli.js run
+          code=$?
+          echo "code=$code" >> "$GITHUB_OUTPUT"
+          if [ "$code" -eq 1 ]; then echo "status=error" >> "$GITHUB_OUTPUT"; else echo "status=ok" >> "$GITHUB_OUTPUT"; fi
+          exit 0
+      - name: Publish result
+        id: emit
+        if: always()
+        run: node .github/scripts/emit-result.js
+      - name: Commit data
+        id: commit
+        if: steps.run.outputs.code != ''
+        env:
+          LEAGUE: ${{ needs.prepare.outputs.league }}
+          TEAM: ${{ needs.prepare.outputs.team }}
+          MODE: ${{ needs.prepare.outputs.mode }}
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -- data/store site/data
+          if git diff --cached --quiet; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          if [ "$MODE" = "weekly" ]; then
+            msg="data: weekly current-season rescan"
+          elif [ -n "${TEAM}" ]; then
+            msg="data: scan ${LEAGUE} / ${TEAM}"
+          else
+            msg="data: cache league ${LEAGUE}"
+          fi
+          git commit -m "$msg"
+          git pull --rebase origin main
+          git push origin HEAD:main
+          echo "changed=true" >> "$GITHUB_OUTPUT"
+      - uses: actions/configure-pages@v5
+        if: steps.commit.outputs.changed == 'true'
+      - name: Stamp asset version
+        if: steps.commit.outputs.changed == 'true'
+        run: node scripts/stamp-assets.js
+      - uses: actions/upload-pages-artifact@v3
+        if: steps.commit.outputs.changed == 'true'
+        with:
+          path: site
+
+  comment:
+    needs: [prepare, scan]
+    if: |
+      always() &&
+      github.event_name == 'issues' &&
+      needs.prepare.outputs.proceed == 'true' &&
+      needs.prepare.outputs.mode != 'skip' &&
+      (needs.scan.result == 'success' || needs.scan.result == 'failure' || needs.prepare.outputs.mode == 'invalid')
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+    steps:
+      - name: Comment and close
+        uses: actions/github-script@v7
+        env:
+          COMMENT: ${{ needs.scan.outputs.comment }}
+          CLOSE: ${{ needs.scan.outputs.close }}
+          PREPARE_MODE: ${{ needs.prepare.outputs.mode }}
+          PREPARE_ERROR: ${{ needs.prepare.outputs.error }}
+        with:
+          script: |
+            const { owner, repo } = context.repo;
+            const issue_number = context.issue.number;
+            let body = process.env.COMMENT || '';
+            let close = process.env.CLOSE !== 'false';
+            if (process.env.PREPARE_MODE === 'invalid') {
+              body = '<!-- scout-handled -->\n**Scan request failed.**\n\n' + (process.env.PREPARE_ERROR || 'Invalid request.');
+              close = true;
+            }
+            if (!body.trim()) {
+              body = '<!-- scout-handled -->\n**Scan request failed.**\n\nNo result was produced. Check the Actions log.';
+              close = false;
+            }
+            await github.rest.issues.createComment({ owner, repo, issue_number, body });
+            if (close) {
+              const failed = body.includes('Scan request failed');
+              await github.rest.issues.update({
+                owner,
+                repo,
+                issue_number,
+                state: 'closed',
+                state_reason: failed ? 'not_planned' : 'completed'
+              });
+            }
+
+  deploy:
+    needs: scan
+    if: always() && needs.scan.outputs.changed == 'true'
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
+
+  fail-on-error:
+    needs: [scan, comment, deploy]
+    if: always() && needs.scan.result == 'success' && needs.scan.outputs.status == 'error'
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Scraper failed. See the scan job log." && exit 1

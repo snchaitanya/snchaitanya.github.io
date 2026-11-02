@@ -1,0 +1,17 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Cric Scout</title><link rel="manifest" href="manifest.json"><meta name="theme-color" content="#07130e"><link rel="icon" href="icon.svg"><link rel="apple-touch-icon" href="icon.svg">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css?v=__ASSET_VERSION__"></head><body>
+<div class="sticky" id="bar">
+ <div class="brand"><span class="ball" aria-hidden="true"></span><span class="logo">CRIC<b>SCOUT</b></span><span class="lgname" id="league">Opponent scouting</span></div>
+ <div class="row"><label class="sr" for="lg">League name</label><input id="lg" placeholder="League Name" autocomplete="off" autocapitalize="off" spellcheck="false"><button id="go" class="btn" type="button">Add</button></div>
+ <div class="row"><label class="sr" for="leagueSel">League</label><select id="leagueSel"><option value="" hidden></option></select></div>
+ <div class="row" id="teamRow"><div class="pick" id="teamPick"><label class="sr" for="teamSearch">Team name</label><div class="team-field"><input id="teamSearch" type="text" role="combobox" placeholder="Team Name" autocomplete="off" autocapitalize="off" spellcheck="false" disabled aria-autocomplete="list" aria-expanded="false" aria-controls="teamList" aria-label="Team name"><button type="button" id="teamClear" class="team-clear" hidden aria-label="Clear team">×</button></div><div id="teamList" class="menu" role="listbox" hidden></div><select id="team" class="sr" tabindex="-1" aria-hidden="true" disabled><option value="">Select a team</option></select></div>
+ <div id="periodHome"><label class="sr" for="period">Period</label><select id="period"><option value="last5">Last 5</option><option value="current">Current season</option><option value="last">Last season</option><option value="all">Both seasons</option></select></div></div>
+</div>
+<div id="dock" class="dock" hidden></div>
+<div id="msg" class="msg" role="alert" hidden></div>
+<main id="main"></main>
+<footer><span id="scraped"></span><br>Data: CricClubs public scorecards · <a href="https://github.com/Kunal1985/cricclubs-scout">Source</a></footer>
+<script src="app.js?v=__ASSET_VERSION__"></script></body></html>

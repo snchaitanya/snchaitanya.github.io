@@ -1,0 +1,3225 @@
+{
+  "team": "MTCA Tri-Valley Titans",
+  "logo": "https://media.cricclubs.com/documentsRep/teamLogos/a3ad8d13-c01a-451a-8c4a-6d31c8124bce.jpg",
+  "logos": {
+    "MTCA Azmari": "https://media.cricclubs.com/documentsRep/teamLogos/f9517260-8b82-480d-b12a-bf8582469783.jpg",
+    "MTCA SNIPERS": "https://media.cricclubs.com/documentsRep/teamLogos/e218535c-be05-4422-a033-14965ca3c2ed.jpg",
+    "MTCA Blasters": "https://media.cricclubs.com/documentsRep/teamLogos/b29f2fdc-fb29-4e1c-b5fa-e32895746e49.jpg",
+    "MTCA Khalsa Warriors": "https://media.cricclubs.com/documentsRep/teamLogos/768d4d96-1476-4703-a175-28c3b331e121.jpg",
+    "MTCA Game Strikers": "https://media.cricclubs.com/documentsRep/teamLogos/7d5c7d6d-0c82-4047-a5f3-67bfcef9dfdf.jpg",
+    "MTCA Royal Kings": "https://media.cricclubs.com/documentsRep/teamLogos/7bbfe602-f45b-45f8-b8f8-d07da7613246.jpeg",
+    "MTCA Blazers": "https://media.cricclubs.com/documentsRep/teamLogos/ea9efbed-1c79-4a4b-ae39-9366c4c7ec8f.jpg",
+    "MTCA Spartans": "https://media.cricclubs.com/documentsRep/teamLogos/26b84237-6348-45d5-ba36-9c1b1313c7c3.jpg",
+    "MTCA Hurricanes": "https://media.cricclubs.com/documentsRep/teamLogos/923e13da-3de0-4a4c-b4c3-6bbe3b3a2a30.jpg",
+    "MTCA Risers": "https://media.cricclubs.com/documentsRep/teamLogos/dcda0544-5c47-470c-81e4-5db09efaa4d4.jpg",
+    "MTCA Badgers": "https://media.cricclubs.com/documentsRep/teamLogos/97fe019d-0c36-4b60-afea-038bdd369230.jpg",
+    "MTCA Vintage Warriors": "https://media.cricclubs.com/documentsRep/teamLogos/efb0951f-b9ab-43e7-86aa-eeddaafe2051.jpg",
+    "MTCA RDX": "https://media.cricclubs.com/documentsRep/teamLogos/f61bd45c-8554-44e0-a716-99d64d3268ec.jpg",
+    "MTCA Dark Knights": "https://media.cricclubs.com/documentsRep/teamLogos/74a3e251-505c-4752-95af-38e61630c314.jpg",
+    "MTCA Sundance Warriors": "https://media.cricclubs.com/documentsRep/teamLogos/ee2bde70-2436-4d71-84b7-648eda8d7ce9.jpg",
+    "MTCA Mumbai Indians": "https://media.cricclubs.com/documentsRep/teamLogos/dbd04d47-f111-4f3f-928e-5c67e1964f72.jpg",
+    "MTCA Tri-Valley Titans": "https://media.cricclubs.com/documentsRep/teamLogos/a3ad8d13-c01a-451a-8c4a-6d31c8124bce.jpg",
+    "MTCA Legends": "https://media.cricclubs.com/documentsRep/teamLogos/ee1e598a-3459-4571-869e-2d180a80f519.jpg",
+    "MTCA Oakwood Mavericks": "https://media.cricclubs.com/documentsRep/teamLogos/f9f79711-1f39-4ab0-8a83-b5ed091c91c5.jpg",
+    "MTCA Legacy Lions": "https://media.cricclubs.com/documentsRep/teamLogos/05ca2286-3065-449f-b6cb-483765b4761f.jpg",
+    "MTCA Ellis Strikers": "https://media.cricclubs.com/documentsRep/teamLogos/f23b7d26-276f-4023-a6ef-1a29376a57da.jpg",
+    "MTCA Raging Bulls": "https://media.cricclubs.com/documentsRep/teamLogos/f23053f1-697f-4a4d-a9df-0dc3346c7880.jpg",
+    "MTCA All-Rounders": "https://media.cricclubs.com/documentsRep/teamLogos/25825f86-da6d-4fd1-ad94-e1bd565b2f3a.jpg",
+    "MTCA Phantoms": "https://media.cricclubs.com/documentsRep/teamLogos/f58550a4-b430-4872-8656-19916e2ef835.jpg",
+    "MTCA Smashers XI": "https://media.cricclubs.com/documentsRep/teamLogos/43c2a957-4f4d-49d7-9301-ae372cf24372.jpg",
+    "MTCA Hillview Eagles": "https://media.cricclubs.com/documentsRep/teamLogos/95bc83fa-551e-4cb3-81d9-14ba1ae018b0.jpg",
+    "MTCA Centurions": "https://media.cricclubs.com/documentsRep/teamLogos/a26a2c7b-3d2a-498a-8794-a735cb75ea6b.jpg",
+    "MTCA Sunrisers Manteca": "https://media.cricclubs.com/documentsRep/teamLogos/e609a03e-3f6d-4f50-93fe-43e59de1f8e7.jpg",
+    "MTCA Avatars": "https://media.cricclubs.com/documentsRep/teamLogos/cd82cf0c-8afa-4b59-a6d8-a2cbd87673af.jpeg",
+    "MTCA Power Stars": "https://media.cricclubs.com/documentsRep/teamLogos/25fb2f67-5f9b-4455-98d3-1411f43e9467.jpg",
+    "MTCA Asuras": "https://media.cricclubs.com/documentsRep/teamLogos/06657bd0-899c-49e8-b048-1abffdb39940.jpg",
+    "MTCA California Eagles": "https://media.cricclubs.com/documentsRep/teamLogos/119e8434-4687-43bc-97fe-83345e540454.jpg",
+    "MTCA Mountaineers": "https://media.cricclubs.com/documentsRep/teamLogos/68f9fcc5-67e8-462d-9199-20e9fc901ceb.jpg",
+    "MTCA Jolly-lo-Gymkhana": "https://media.cricclubs.com/documentsRep/teamLogos/63772208-c3ca-4281-a908-6e6a9c554d39.jpg",
+    "MTCA ICT": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+    "MTCA Dhurandhars": "https://media.cricclubs.com/documentsRep/teamLogos/457009a4-15de-4b7d-9138-aa1a62b169ca.jpg",
+    "MTCA Sky Risers": "https://media.cricclubs.com/documentsRep/teamLogos/4375726c-a0bf-4382-96d4-adf8cd6f4b29.jpg",
+    "MTCA Stanford Islanders": "https://media.cricclubs.com/documentsRep/teamLogos/08dcbe49-210f-4bf0-af03-517850ee2241.jpg",
+    "MTCA Sunheaven Leopards": "https://media.cricclubs.com/documentsRep/teamLogos/b9633797-ec72-4a0b-8e9c-98edac7a0d8b.jpg",
+    "MTCA Hawks": "https://media.cricclubs.com/documentsRep/teamLogos/5403f663-6bc9-40f0-a400-9d88a3489509.jpg",
+    "MTCA Golden Eagles": "https://media.cricclubs.com/documentsRep/teamLogos/45bf856d-80ca-4cbc-b519-9c70388a56c5.jpg",
+    "MTCA StanTerra Thunders": "https://media.cricclubs.com/documentsRep/teamLogos/d24f29a1-b2bf-4e09-95f2-29eb1dc06aaa.jpg",
+    "MTCA DevAsuras": "https://media.cricclubs.com/documentsRep/teamLogos/c87567e1-76e0-4527-8fa1-260c311d7188.jpg",
+    "MTCA Sapphires": "https://media.cricclubs.com/documentsRep/teamLogos/f99417ec-61fe-4aed-8734-368e68598b87.jpg",
+    "MTCA Manteca Rising Stars": "https://media.cricclubs.com/documentsRep/teamLogos/6cb01ac3-3fc9-42fa-87df-fecc3628fd90.jpg",
+    "MTCA Chargers": "https://media.cricclubs.com/documentsRep/teamLogos/92e14033-e281-4635-a3b3-967c7c7b8ebe.jpg",
+    "MTCA Brentwood Bulls": "https://media.cricclubs.com/documentsRep/teamLogos/36b3b9bd-33f1-4447-8e5e-82bbf29fd640.jpg",
+    "MTCA Elite XI": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team3.jpg",
+    "MTCA Singhz": "https://media.cricclubs.com/documentsRep/teamLogos/0b8af999-7bff-4d29-b592-85d81dd0f40f.jpg",
+    "MTCA RICC": "https://media.cricclubs.com/documentsRep/teamLogos/58341203-2511-44d0-ad32-bb5c84b19877.jpg",
+    "MTCA River Hawks": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+    "MTCA California Super Kings": "https://media.cricclubs.com/documentsRep/teamLogos/ba1e97a6-f18c-42da-9440-b79cd0bc00f2.jpg",
+    "MTCA Falcons": "https://media.cricclubs.com/documentsRep/teamLogos/bf07340b-37cb-4377-863f-8690d0c7a0cd.jpg",
+    "MTCA Valley Risers": "https://media.cricclubs.com/documentsRep/teamLogos/854ef9f3-24d7-411f-b3f5-4ce16b88f0bc.jpg",
+    "MTCA RICM": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg"
+  },
+  "league": {
+    "code": "MountainHouseTracyCricketAssociationMTCA",
+    "name": "MTCA"
+  },
+  "seasons": {
+    "current": {
+      "id": "legacy-93",
+      "name": "2026 MTCA Fall League",
+      "inSeason": true,
+      "scrapedAt": "2026-10-31T15:15:24.166Z"
+    },
+    "last": {
+      "id": "legacy-87",
+      "name": "2026 MTCA Spring League",
+      "inSeason": true,
+      "scrapedAt": "2026-10-31T15:16:02.825Z"
+    }
+  },
+  "matches": [
+    {
+      "id": "legacy-3453",
+      "date": "2026-10-18",
+      "series": "2026 MTCA Fall League",
+      "seriesId": "legacy-93",
+      "opponent": "MTCA Raging Bulls",
+      "ground": "Cordes Park",
+      "result": "MTCA Tri-Valley Titans won by 47 Runs",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": true,
+      "tossDecision": "bat",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "MTCA Tri-Valley Titans",
+          "runs": 121,
+          "wkts": 2,
+          "overs": "20"
+        },
+        {
+          "team": "MTCA Raging Bulls",
+          "runs": 74,
+          "wkts": 10,
+          "overs": "16"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Veera Ravula",
+          "r": 9,
+          "b": 23,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ro"
+        },
+        {
+          "name": "Sravan Dev",
+          "r": 4,
+          "b": 10,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ct"
+        },
+        {
+          "name": "Bharath Nikesh G",
+          "r": 53,
+          "b": 51,
+          "f": 4,
+          "s": 4,
+          "out": false,
+          "pos": 3
+        },
+        {
+          "name": "Satish Kancherla",
+          "r": 43,
+          "b": 39,
+          "f": 1,
+          "s": 3,
+          "out": false,
+          "pos": 4
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Kiran Bukka",
+          "balls": 17,
+          "r": 8,
+          "w": 4,
+          "dots": 12,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Fayaz Aashiq Shaik",
+          "balls": 24,
+          "r": 18,
+          "w": 1,
+          "dots": 13,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Rama Gannamaneni",
+          "balls": 6,
+          "r": 7,
+          "w": 0,
+          "dots": 3,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Phanindra Sripada",
+          "balls": 18,
+          "r": 11,
+          "w": 0,
+          "dots": 9,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Bharath Nikesh G",
+          "balls": 24,
+          "r": 20,
+          "w": 4,
+          "dots": 14,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Satish Kancherla",
+          "balls": 6,
+          "r": 5,
+          "w": 0,
+          "dots": 4,
+          "wd": 0,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Rama Gannamaneni",
+          "c",
+          1
+        ],
+        [
+          "Ajay Mutyala",
+          "c",
+          3
+        ],
+        [
+          "Veera Ravula",
+          "c",
+          1
+        ],
+        [
+          "Bharath Nikesh G",
+          "c",
+          1
+        ],
+        [
+          "Phanindra Sripada",
+          "c",
+          1
+        ],
+        [
+          "Kiran Bukka",
+          "r",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-3403",
+      "date": "2026-10-10",
+      "series": "2026 MTCA Fall League",
+      "seriesId": "legacy-93",
+      "opponent": "MTCA Ellis Strikers",
+      "ground": "Altamont Park - BaseBall",
+      "result": "MTCA Tri-Valley Titans won by 47 Runs",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": false,
+      "tossDecision": "bowl",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "MTCA Tri-Valley Titans",
+          "runs": 118,
+          "wkts": 7,
+          "overs": "20"
+        },
+        {
+          "team": "MTCA Ellis Strikers",
+          "runs": 71,
+          "wkts": 10,
+          "overs": "18.3"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Veera Ravula",
+          "r": 12,
+          "b": 35,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ct"
+        },
+        {
+          "name": "Mohan Murthy",
+          "r": 17,
+          "b": 35,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ct"
+        },
+        {
+          "name": "Satish Kancherla",
+          "r": 28,
+          "b": 13,
+          "f": 0,
+          "s": 4,
+          "out": true,
+          "pos": 3,
+          "how": "ct"
+        },
+        {
+          "name": "Sashi K",
+          "r": 18,
+          "b": 14,
+          "f": 0,
+          "s": 2,
+          "out": true,
+          "pos": 4,
+          "how": "ct"
+        },
+        {
+          "name": "Ramanan Bangaru",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "ro"
+        },
+        {
+          "name": "Kiran Bukka",
+          "r": 20,
+          "b": 16,
+          "f": 0,
+          "s": 2,
+          "out": false,
+          "pos": 6
+        },
+        {
+          "name": "Srinivasa Joga Commuri",
+          "r": 4,
+          "b": 4,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "ro"
+        },
+        {
+          "name": "Ankit Shah",
+          "r": 3,
+          "b": 3,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 8,
+          "how": "ro"
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Mahesh Baratam",
+          "balls": 18,
+          "r": 9,
+          "w": 2,
+          "dots": 11,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Kiran Bukka",
+          "balls": 24,
+          "r": 14,
+          "w": 2,
+          "dots": 12,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Satish Kancherla",
+          "balls": 12,
+          "r": 11,
+          "w": 0,
+          "dots": 6,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Sashi K",
+          "balls": 18,
+          "r": 10,
+          "w": 0,
+          "dots": 10,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Phanindra Sripada",
+          "balls": 24,
+          "r": 12,
+          "w": 2,
+          "dots": 16,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Ankit Shah",
+          "balls": 12,
+          "r": 10,
+          "w": 1,
+          "dots": 5,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Manav Gupta",
+          "balls": 3,
+          "r": 5,
+          "w": 1,
+          "dots": 2,
+          "wd": 1,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Srinivasa Joga Commuri",
+          "c",
+          1
+        ],
+        [
+          "Ankit Shah",
+          "c",
+          1
+        ],
+        [
+          "Satish Kancherla",
+          "c",
+          1
+        ],
+        [
+          "Mahesh Baratam",
+          "c",
+          1
+        ],
+        [
+          "Kiran Bukka",
+          "r",
+          1
+        ],
+        [
+          "Sashi K",
+          "r",
+          1
+        ],
+        [
+          "Kiran Bukka",
+          "c",
+          1
+        ],
+        [
+          "Manav Gupta",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-3392",
+      "date": "2026-10-04",
+      "series": "2026 MTCA Fall League",
+      "seriesId": "legacy-93",
+      "opponent": "MTCA Sundance Warriors",
+      "ground": "Cordes Park",
+      "result": "MTCA Sundance Warriors won by 3 Runs",
+      "forfeit": false,
+      "outcome": "L",
+      "tossWonByUs": false,
+      "tossDecision": "bat",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "MTCA Sundance Warriors",
+          "runs": 72,
+          "wkts": 10,
+          "overs": "20"
+        },
+        {
+          "team": "MTCA Tri-Valley Titans",
+          "runs": 69,
+          "wkts": 9,
+          "overs": "20"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Veera Ravula",
+          "r": 8,
+          "b": 20,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "b"
+        },
+        {
+          "name": "Kiran Bukka",
+          "r": 0,
+          "b": 4,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "b"
+        },
+        {
+          "name": "Satish Kancherla",
+          "r": 2,
+          "b": 5,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ct"
+        },
+        {
+          "name": "Satish Mudiganti",
+          "r": 3,
+          "b": 9,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ctw"
+        },
+        {
+          "name": "Bharath Nikesh G",
+          "r": 19,
+          "b": 30,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "ct"
+        },
+        {
+          "name": "Manav Gupta",
+          "r": 6,
+          "b": 16,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "ro"
+        },
+        {
+          "name": "Ajay Mutyala",
+          "r": 11,
+          "b": 14,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "ct"
+        },
+        {
+          "name": "Sashi K",
+          "r": 9,
+          "b": 10,
+          "f": 0,
+          "s": 1,
+          "out": false,
+          "pos": 8
+        },
+        {
+          "name": "Sravan Dev",
+          "r": 3,
+          "b": 5,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 9,
+          "how": "ct"
+        },
+        {
+          "name": "Fayaz Aashiq Shaik",
+          "r": 1,
+          "b": 3,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 10,
+          "how": "ct"
+        },
+        {
+          "name": "Phanindra Sripada",
+          "r": 0,
+          "b": 4,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 11
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Mahesh Baratam",
+          "balls": 18,
+          "r": 8,
+          "w": 2,
+          "dots": 11,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Kiran Bukka",
+          "balls": 24,
+          "r": 12,
+          "w": 1,
+          "dots": 17,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Fayaz Aashiq Shaik",
+          "balls": 18,
+          "r": 11,
+          "w": 1,
+          "dots": 9,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Sashi K",
+          "balls": 12,
+          "r": 11,
+          "w": 0,
+          "dots": 3,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Phanindra Sripada",
+          "balls": 18,
+          "r": 6,
+          "w": 1,
+          "dots": 13,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Satish Mudiganti",
+          "balls": 12,
+          "r": 16,
+          "w": 1,
+          "dots": 6,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Bharath Nikesh G",
+          "balls": 18,
+          "r": 8,
+          "w": 1,
+          "dots": 12,
+          "wd": 2,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Sravan Dev",
+          "k",
+          2
+        ],
+        [
+          "Sashi K",
+          "c",
+          1
+        ],
+        [
+          "Sravan Dev",
+          "r",
+          1
+        ],
+        [
+          "Satish Kancherla",
+          "c",
+          1
+        ],
+        [
+          "Bharath Nikesh G",
+          "c",
+          1
+        ],
+        [
+          "Ajay Mutyala",
+          "r",
+          1
+        ],
+        [
+          "Manav Gupta",
+          "r",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-3349",
+      "date": "2026-09-26",
+      "series": "2026 MTCA Fall League",
+      "seriesId": "legacy-93",
+      "opponent": "MTCA RDX",
+      "ground": "Hansen School - BaseBall 1",
+      "result": "MTCA RDX won by 4 Wickets",
+      "forfeit": false,
+      "outcome": "L",
+      "tossWonByUs": false,
+      "tossDecision": "bowl",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "MTCA Tri-Valley Titans",
+          "runs": 64,
+          "wkts": 10,
+          "overs": "20"
+        },
+        {
+          "team": "MTCA RDX",
+          "runs": 65,
+          "wkts": 6,
+          "overs": "15.4"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Sravan Dev",
+          "r": 7,
+          "b": 11,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ct"
+        },
+        {
+          "name": "Mohan Murthy",
+          "r": 28,
+          "b": 45,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ct"
+        },
+        {
+          "name": "Krish Venkatraman",
+          "r": 10,
+          "b": 20,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "b"
+        },
+        {
+          "name": "Srinivasa Joga Commuri",
+          "r": 1,
+          "b": 6,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "b"
+        },
+        {
+          "name": "Satish Kancherla",
+          "r": 1,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "b"
+        },
+        {
+          "name": "Ajay Mutyala",
+          "r": 2,
+          "b": 8,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "b"
+        },
+        {
+          "name": "Niteesh T",
+          "r": 0,
+          "b": 4,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "ct"
+        },
+        {
+          "name": "Sashi K",
+          "r": 6,
+          "b": 12,
+          "f": 0,
+          "s": 1,
+          "out": true,
+          "pos": 8,
+          "how": "ctw"
+        },
+        {
+          "name": "Phanindra Sripada",
+          "r": 2,
+          "b": 8,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 9,
+          "how": "b"
+        },
+        {
+          "name": "Mahesh Baratam",
+          "r": 2,
+          "b": 4,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 10,
+          "how": "ro"
+        },
+        {
+          "name": "Rama Gannamaneni",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 11
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Mahesh Baratam",
+          "balls": 18,
+          "r": 15,
+          "w": 1,
+          "dots": 12,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Satish Kancherla",
+          "balls": 18,
+          "r": 14,
+          "w": 1,
+          "dots": 10,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Sashi K",
+          "balls": 16,
+          "r": 15,
+          "w": 0,
+          "dots": 9,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Phanindra Sripada",
+          "balls": 18,
+          "r": 11,
+          "w": 1,
+          "dots": 12,
+          "wd": 5,
+          "nb": 0
+        },
+        {
+          "name": "Rama Gannamaneni",
+          "balls": 24,
+          "r": 10,
+          "w": 3,
+          "dots": 18,
+          "wd": 1,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Sashi K",
+          "c",
+          1
+        ],
+        [
+          "Krish Venkatraman",
+          "k",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-3332",
+      "date": "2026-09-12",
+      "series": "2026 MTCA Spring League",
+      "seriesId": "legacy-87",
+      "opponent": "MTCA Mountaineers",
+      "ground": "Altamont School ground",
+      "result": "MTCA Mountaineers won by 4 Runs",
+      "forfeit": false,
+      "outcome": "L",
+      "tossWonByUs": true,
+      "tossDecision": "bowl",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "MTCA Mountaineers",
+          "runs": 71,
+          "wkts": 8,
+          "overs": "20"
+        },
+        {
+          "team": "MTCA Tri-Valley Titans",
+          "runs": 67,
+          "wkts": 8,
+          "overs": "20"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Venkat Sabbella",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ct"
+        },
+        {
+          "name": "Sravan Dev",
+          "r": 3,
+          "b": 12,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "b"
+        },
+        {
+          "name": "Kunal Ugale",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "b"
+        },
+        {
+          "name": "Srinivasa Joga Commuri",
+          "r": 1,
+          "b": 5,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ct"
+        },
+        {
+          "name": "Manav Gupta",
+          "r": 15,
+          "b": 31,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "ro"
+        },
+        {
+          "name": "Satish Kancherla",
+          "r": 11,
+          "b": 21,
+          "f": 0,
+          "s": 1,
+          "out": true,
+          "pos": 6,
+          "how": "ct"
+        },
+        {
+          "name": "Ajay Mutyala",
+          "r": 3,
+          "b": 9,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "ctw"
+        },
+        {
+          "name": "Sashi K",
+          "r": 8,
+          "b": 14,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 8
+        },
+        {
+          "name": "Phanindra Sripada",
+          "r": 4,
+          "b": 20,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 9,
+          "how": "b"
+        },
+        {
+          "name": "Rama Gannamaneni",
+          "r": 1,
+          "b": 7,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 10
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Rama Gannamaneni",
+          "balls": 24,
+          "r": 12,
+          "w": 2,
+          "dots": 16,
+          "wd": 4,
+          "nb": 0
+        },
+        {
+          "name": "Satish Kancherla",
+          "balls": 24,
+          "r": 10,
+          "w": 1,
+          "dots": 15,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Manav Gupta",
+          "balls": 24,
+          "r": 14,
+          "w": 0,
+          "dots": 14,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Sashi K",
+          "balls": 24,
+          "r": 15,
+          "w": 3,
+          "dots": 11,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Phanindra Sripada",
+          "balls": 24,
+          "r": 20,
+          "w": 1,
+          "dots": 11,
+          "wd": 4,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Phanindra Sripada",
+          "c",
+          1
+        ],
+        [
+          "Ajay Mutyala",
+          "c",
+          1
+        ],
+        [
+          "Sravan Dev",
+          "k",
+          2
+        ],
+        [
+          "Rama Gannamaneni",
+          "r",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-3313",
+      "date": "2026-08-23",
+      "series": "2026 MTCA Spring League",
+      "seriesId": "legacy-87",
+      "opponent": "MTCA Sundance Warriors",
+      "ground": "Altamont School ground",
+      "result": "MTCA Tri-Valley Titans won by 3 Wickets",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": true,
+      "tossDecision": "bowl",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "MTCA Sundance Warriors",
+          "runs": 69,
+          "wkts": 10,
+          "overs": "20"
+        },
+        {
+          "team": "MTCA Tri-Valley Titans",
+          "runs": 75,
+          "wkts": 7,
+          "overs": "13.4"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Krish Venkatraman",
+          "r": 1,
+          "b": 8,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "st"
+        },
+        {
+          "name": "Sravan Dev",
+          "r": 2,
+          "b": 3,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ct"
+        },
+        {
+          "name": "Kiran Bukka",
+          "r": 4,
+          "b": 5,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ct"
+        },
+        {
+          "name": "Srinivasa Joga Commuri",
+          "r": 3,
+          "b": 8,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ct"
+        },
+        {
+          "name": "Mohan Murthy",
+          "r": 6,
+          "b": 16,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "ct"
+        },
+        {
+          "name": "Satish Kancherla",
+          "r": 35,
+          "b": 25,
+          "f": 0,
+          "s": 5,
+          "out": false,
+          "pos": 6
+        },
+        {
+          "name": "Ajay Mutyala",
+          "r": 0,
+          "b": 5,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "ctw"
+        },
+        {
+          "name": "Sashi K",
+          "r": 18,
+          "b": 11,
+          "f": 0,
+          "s": 3,
+          "out": true,
+          "pos": 8,
+          "how": "b"
+        },
+        {
+          "name": "Mahesh Baratam",
+          "r": 0,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 9
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Mahesh Baratam",
+          "balls": 18,
+          "r": 12,
+          "w": 1,
+          "dots": 11,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Sashi K",
+          "balls": 36,
+          "r": 19,
+          "w": 3,
+          "dots": 21,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Kiran Bukka",
+          "balls": 24,
+          "r": 16,
+          "w": 1,
+          "dots": 15,
+          "wd": 4,
+          "nb": 0
+        },
+        {
+          "name": "Rama Gannamaneni",
+          "balls": 18,
+          "r": 6,
+          "w": 1,
+          "dots": 14,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Phanindra Sripada",
+          "balls": 24,
+          "r": 14,
+          "w": 3,
+          "dots": 14,
+          "wd": 4,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Kiran Bukka",
+          "c",
+          1
+        ],
+        [
+          "Rama Gannamaneni",
+          "c",
+          2
+        ],
+        [
+          "Krish Venkatraman",
+          "k",
+          3
+        ],
+        [
+          "Krish Venkatraman",
+          "c",
+          1
+        ],
+        [
+          "Phanindra Sripada",
+          "r",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-3275",
+      "date": "2026-08-15",
+      "series": "2026 MTCA Spring League",
+      "seriesId": "legacy-87",
+      "opponent": "MTCA Hurricanes",
+      "ground": "Hansen School - BaseBall 2",
+      "result": "MTCA Hurricanes won by 6 Wickets",
+      "forfeit": false,
+      "outcome": "L",
+      "tossWonByUs": true,
+      "tossDecision": "bat",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "MTCA Tri-Valley Titans",
+          "runs": 63,
+          "wkts": 10,
+          "overs": "19.1"
+        },
+        {
+          "team": "MTCA Hurricanes",
+          "runs": 65,
+          "wkts": 4,
+          "overs": "12.1"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Srinivasa Joga Commuri",
+          "r": 0,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "b"
+        },
+        {
+          "name": "Sravan Dev",
+          "r": 2,
+          "b": 7,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ct"
+        },
+        {
+          "name": "Satish Kancherla",
+          "r": 1,
+          "b": 8,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "b"
+        },
+        {
+          "name": "Mohan Murthy",
+          "r": 31,
+          "b": 40,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ct"
+        },
+        {
+          "name": "Ajay Mutyala",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "ct"
+        },
+        {
+          "name": "Manav Gupta",
+          "r": 2,
+          "b": 11,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "ct"
+        },
+        {
+          "name": "Niteesh T",
+          "r": 0,
+          "b": 3,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "ct"
+        },
+        {
+          "name": "SRAVAN KUMAR KHAMBAMPATI",
+          "r": 20,
+          "b": 37,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 8,
+          "how": "ct"
+        },
+        {
+          "name": "Sashi K",
+          "r": 0,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 9
+        },
+        {
+          "name": "Phanindra Sripada",
+          "r": 0,
+          "b": 4,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 10,
+          "how": "b"
+        },
+        {
+          "name": "Rama Gannamaneni",
+          "r": 0,
+          "b": 0,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 11,
+          "how": "ro"
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Rama Gannamaneni",
+          "balls": 12,
+          "r": 11,
+          "w": 0,
+          "dots": 7,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Sashi K",
+          "balls": 12,
+          "r": 8,
+          "w": 0,
+          "dots": 8,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Satish Kancherla",
+          "balls": 6,
+          "r": 8,
+          "w": 0,
+          "dots": 4,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Phanindra Sripada",
+          "balls": 13,
+          "r": 11,
+          "w": 1,
+          "dots": 8,
+          "wd": 5,
+          "nb": 0
+        },
+        {
+          "name": "Manav Gupta",
+          "balls": 12,
+          "r": 6,
+          "w": 0,
+          "dots": 9,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Niteesh T",
+          "balls": 6,
+          "r": 8,
+          "w": 0,
+          "dots": 4,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "SRAVAN KUMAR KHAMBAMPATI",
+          "balls": 12,
+          "r": 13,
+          "w": 3,
+          "dots": 7,
+          "wd": 0,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Niteesh T",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-3265",
+      "date": "2026-08-09",
+      "series": "2026 MTCA Spring League",
+      "seriesId": "legacy-87",
+      "opponent": "MTCA Badgers",
+      "ground": "Hansen School - BaseBall 1",
+      "result": "MTCA Badgers won by 3 Runs",
+      "forfeit": false,
+      "outcome": "L",
+      "tossWonByUs": false,
+      "tossDecision": "bat",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "MTCA Badgers",
+          "runs": 83,
+          "wkts": 10,
+          "overs": "18"
+        },
+        {
+          "team": "MTCA Tri-Valley Titans",
+          "runs": 80,
+          "wkts": 10,
+          "overs": "19.2"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Satish Kancherla",
+          "r": 4,
+          "b": 11,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ct"
+        },
+        {
+          "name": "Sravan Dev",
+          "r": 8,
+          "b": 14,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ct"
+        },
+        {
+          "name": "Ramanan Bangaru",
+          "r": 9,
+          "b": 20,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ct"
+        },
+        {
+          "name": "Kiran Bukka",
+          "r": 2,
+          "b": 11,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "b"
+        },
+        {
+          "name": "Mohan Murthy",
+          "r": 8,
+          "b": 20,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "ct"
+        },
+        {
+          "name": "Niteesh T",
+          "r": 14,
+          "b": 15,
+          "f": 1,
+          "s": 1,
+          "out": true,
+          "pos": 6,
+          "how": "ctw"
+        },
+        {
+          "name": "Sashi K",
+          "r": 13,
+          "b": 10,
+          "f": 1,
+          "s": 1,
+          "out": true,
+          "pos": 7,
+          "how": "ct"
+        },
+        {
+          "name": "Ajay Mutyala",
+          "r": 2,
+          "b": 5,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 8,
+          "how": "ct"
+        },
+        {
+          "name": "Srinivasa Joga Commuri",
+          "r": 3,
+          "b": 6,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 9,
+          "how": "b"
+        },
+        {
+          "name": "Mahesh Baratam",
+          "r": 4,
+          "b": 4,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 10,
+          "how": "ct"
+        },
+        {
+          "name": "Rama Gannamaneni",
+          "r": 0,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 11
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Mahesh Baratam",
+          "balls": 24,
+          "r": 17,
+          "w": 1,
+          "dots": 16,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Kiran Bukka",
+          "balls": 24,
+          "r": 4,
+          "w": 3,
+          "dots": 20,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Sashi K",
+          "balls": 24,
+          "r": 18,
+          "w": 1,
+          "dots": 17,
+          "wd": 5,
+          "nb": 0
+        },
+        {
+          "name": "Rama Gannamaneni",
+          "balls": 12,
+          "r": 20,
+          "w": 1,
+          "dots": 6,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Niteesh T",
+          "balls": 6,
+          "r": 7,
+          "w": 0,
+          "dots": 0,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Satish Kancherla",
+          "balls": 18,
+          "r": 16,
+          "w": 3,
+          "dots": 12,
+          "wd": 0,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Niteesh T",
+          "c",
+          2
+        ],
+        [
+          "Satish Kancherla",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-3193",
+      "date": "2026-07-12",
+      "series": "2026 MTCA Spring League",
+      "seriesId": "legacy-87",
+      "opponent": "MTCA Ellis Strikers",
+      "ground": "Cordes Park",
+      "result": "MTCA Ellis Strikers won by 4 Runs",
+      "forfeit": false,
+      "outcome": "L",
+      "tossWonByUs": true,
+      "tossDecision": "bowl",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "MTCA Ellis Strikers",
+          "runs": 93,
+          "wkts": 10,
+          "overs": "19.4"
+        },
+        {
+          "team": "MTCA Tri-Valley Titans",
+          "runs": 89,
+          "wkts": 9,
+          "overs": "20"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Veera Ravula",
+          "r": 1,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "b"
+        },
+        {
+          "name": "Kiran Bukka",
+          "r": 6,
+          "b": 15,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ctw"
+        },
+        {
+          "name": "Ajay Mutyala",
+          "r": 8,
+          "b": 9,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ct"
+        },
+        {
+          "name": "Niteesh T",
+          "r": 7,
+          "b": 9,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ct"
+        },
+        {
+          "name": "Mohan Murthy",
+          "r": 7,
+          "b": 9,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "ct"
+        },
+        {
+          "name": "Satish Kancherla",
+          "r": 34,
+          "b": 31,
+          "f": 3,
+          "s": 2,
+          "out": true,
+          "pos": 6,
+          "how": "ct"
+        },
+        {
+          "name": "Srinivasa Joga Commuri",
+          "r": 2,
+          "b": 16,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "ro"
+        },
+        {
+          "name": "Sashi K",
+          "r": 9,
+          "b": 12,
+          "f": 0,
+          "s": 1,
+          "out": true,
+          "pos": 8,
+          "how": "ct"
+        },
+        {
+          "name": "Sravan Dev",
+          "r": 9,
+          "b": 13,
+          "f": 1,
+          "s": 0,
+          "out": false,
+          "pos": 9
+        },
+        {
+          "name": "Phanindra Sripada",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 10,
+          "how": "ro"
+        },
+        {
+          "name": "Rama Gannamaneni",
+          "r": 1,
+          "b": 3,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 11
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Mahesh Baratam",
+          "balls": 22,
+          "r": 17,
+          "w": 1,
+          "dots": 12,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Ajay Mutyala",
+          "balls": 6,
+          "r": 7,
+          "w": 0,
+          "dots": 3,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Sashi K",
+          "balls": 24,
+          "r": 20,
+          "w": 1,
+          "dots": 12,
+          "wd": 4,
+          "nb": 0
+        },
+        {
+          "name": "Rama Gannamaneni",
+          "balls": 18,
+          "r": 11,
+          "w": 3,
+          "dots": 13,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Kiran Bukka",
+          "balls": 18,
+          "r": 12,
+          "w": 2,
+          "dots": 13,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Phanindra Sripada",
+          "balls": 18,
+          "r": 19,
+          "w": 1,
+          "dots": 12,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Satish Kancherla",
+          "balls": 12,
+          "r": 7,
+          "w": 0,
+          "dots": 7,
+          "wd": 1,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Sravan Dev",
+          "c",
+          2
+        ],
+        [
+          "Niteesh T",
+          "c",
+          1
+        ],
+        [
+          "Mahesh Baratam",
+          "c",
+          1
+        ],
+        [
+          "Sravan Dev",
+          "r",
+          1
+        ],
+        [
+          "Ajay Mutyala",
+          "c",
+          1
+        ],
+        [
+          "Mahesh Baratam",
+          "r",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-3188",
+      "date": "2026-07-05",
+      "series": "2026 MTCA Spring League",
+      "seriesId": "legacy-87",
+      "opponent": "MTCA Hillview Eagles",
+      "ground": "Altamont Park - BaseBall",
+      "result": "MTCA Tri-Valley Titans won by 4 Wickets",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": false,
+      "tossDecision": "bat",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "MTCA Hillview Eagles",
+          "runs": 76,
+          "wkts": 10,
+          "overs": "19.5"
+        },
+        {
+          "team": "MTCA Tri-Valley Titans",
+          "runs": 82,
+          "wkts": 6,
+          "overs": "19.3"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Veera Ravula",
+          "r": 6,
+          "b": 15,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ro"
+        },
+        {
+          "name": "Sravan Dev",
+          "r": 3,
+          "b": 4,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ct"
+        },
+        {
+          "name": "Kiran Bukka",
+          "r": 3,
+          "b": 16,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ctw"
+        },
+        {
+          "name": "Ajay Mutyala",
+          "r": 7,
+          "b": 11,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ct"
+        },
+        {
+          "name": "Satish Kancherla",
+          "r": 29,
+          "b": 33,
+          "f": 0,
+          "s": 1,
+          "out": false,
+          "pos": 5
+        },
+        {
+          "name": "Srinivasa Joga Commuri",
+          "r": 9,
+          "b": 29,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "b"
+        },
+        {
+          "name": "Mohan Murthy",
+          "r": 6,
+          "b": 9,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "ct"
+        },
+        {
+          "name": "Sashi K",
+          "r": 8,
+          "b": 3,
+          "f": 0,
+          "s": 1,
+          "out": false,
+          "pos": 8
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Mahesh Baratam",
+          "balls": 24,
+          "r": 26,
+          "w": 1,
+          "dots": 10,
+          "wd": 0,
+          "nb": 2
+        },
+        {
+          "name": "Kiran Bukka",
+          "balls": 23,
+          "r": 12,
+          "w": 2,
+          "dots": 13,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Sashi K",
+          "balls": 24,
+          "r": 11,
+          "w": 2,
+          "dots": 15,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Rama Gannamaneni",
+          "balls": 12,
+          "r": 13,
+          "w": 0,
+          "dots": 7,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Phanindra Sripada",
+          "balls": 24,
+          "r": 12,
+          "w": 3,
+          "dots": 15,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Satish Kancherla",
+          "balls": 12,
+          "r": 2,
+          "w": 0,
+          "dots": 11,
+          "wd": 1,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Phanindra Sripada",
+          "c",
+          1
+        ],
+        [
+          "Kiran Bukka",
+          "c",
+          1
+        ],
+        [
+          "Mahesh Baratam",
+          "r",
+          1
+        ],
+        [
+          "Srinivasa Joga Commuri",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-3180",
+      "date": "2026-06-27",
+      "series": "2026 MTCA Spring League",
+      "seriesId": "legacy-87",
+      "opponent": "MTCA Vintage Warriors",
+      "ground": "Hansen Park",
+      "result": "MTCA Tri-Valley Titans won by 8 Wickets",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": true,
+      "tossDecision": "bowl",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "MTCA Vintage Warriors",
+          "runs": 68,
+          "wkts": 9,
+          "overs": "20"
+        },
+        {
+          "team": "MTCA Tri-Valley Titans",
+          "runs": 69,
+          "wkts": 2,
+          "overs": "15.4"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Veera Ravula",
+          "r": 21,
+          "b": 43,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "b"
+        },
+        {
+          "name": "Kiran Bukka",
+          "r": 24,
+          "b": 41,
+          "f": 1,
+          "s": 0,
+          "out": false,
+          "pos": 2
+        },
+        {
+          "name": "Sravan Dev",
+          "r": 3,
+          "b": 6,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ct"
+        },
+        {
+          "name": "Satish Kancherla",
+          "r": 11,
+          "b": 6,
+          "f": 0,
+          "s": 1,
+          "out": false,
+          "pos": 4
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Mahesh Baratam",
+          "balls": 24,
+          "r": 13,
+          "w": 2,
+          "dots": 14,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Kiran Bukka",
+          "balls": 24,
+          "r": 15,
+          "w": 4,
+          "dots": 15,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Satish Kancherla",
+          "balls": 12,
+          "r": 5,
+          "w": 1,
+          "dots": 7,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Phanindra Sripada",
+          "balls": 24,
+          "r": 8,
+          "w": 0,
+          "dots": 19,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Rama Gannamaneni",
+          "balls": 24,
+          "r": 14,
+          "w": 1,
+          "dots": 12,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "SRAVAN KUMAR KHAMBAMPATI",
+          "balls": 6,
+          "r": 5,
+          "w": 0,
+          "dots": 2,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Sashi K",
+          "balls": 6,
+          "r": 8,
+          "w": 0,
+          "dots": 3,
+          "wd": 0,
+          "nb": 2
+        }
+      ],
+      "fielding": [
+        [
+          "Rama Gannamaneni",
+          "c",
+          1
+        ],
+        [
+          "Phanindra Sripada",
+          "c",
+          1
+        ],
+        [
+          "Sravan Dev",
+          "k",
+          1
+        ],
+        [
+          "Phanindra Sripada",
+          "r",
+          1
+        ],
+        [
+          "Kiran Bukka",
+          "r",
+          1
+        ],
+        [
+          "Kiran Bukka",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-3164",
+      "date": "2026-06-21",
+      "series": "2026 MTCA Spring League",
+      "seriesId": "legacy-87",
+      "opponent": "MTCA Smashers XI",
+      "ground": "Altamont Park - BaseBall",
+      "result": "MTCA Tri-Valley Titans won by 30 Runs",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": false,
+      "tossDecision": "bowl",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "MTCA Tri-Valley Titans",
+          "runs": 88,
+          "wkts": 6,
+          "overs": "20"
+        },
+        {
+          "team": "MTCA Smashers XI",
+          "runs": 58,
+          "wkts": 10,
+          "overs": "17.2"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Veera Ravula",
+          "r": 9,
+          "b": 23,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "b"
+        },
+        {
+          "name": "Satish Kancherla",
+          "r": 43,
+          "b": 57,
+          "f": 2,
+          "s": 2,
+          "out": true,
+          "pos": 2,
+          "how": "b"
+        },
+        {
+          "name": "Ajay Mutyala",
+          "r": 0,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ct"
+        },
+        {
+          "name": "Mohan Murthy",
+          "r": 16,
+          "b": 26,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ct"
+        },
+        {
+          "name": "Kiran Bukka",
+          "r": 9,
+          "b": 8,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "ro"
+        },
+        {
+          "name": "Sashi K",
+          "r": 3,
+          "b": 5,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "ct"
+        },
+        {
+          "name": "Phanindra Sripada",
+          "r": 1,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 7
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Kiran Bukka",
+          "balls": 18,
+          "r": 9,
+          "w": 2,
+          "dots": 12,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Phanindra Sripada",
+          "balls": 24,
+          "r": 16,
+          "w": 0,
+          "dots": 12,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Rama Gannamaneni",
+          "balls": 18,
+          "r": 8,
+          "w": 0,
+          "dots": 14,
+          "wd": 4,
+          "nb": 0
+        },
+        {
+          "name": "SRAVAN KUMAR KHAMBAMPATI",
+          "balls": 24,
+          "r": 15,
+          "w": 4,
+          "dots": 16,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Sashi K",
+          "balls": 12,
+          "r": 5,
+          "w": 2,
+          "dots": 9,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Jeetu Asija",
+          "balls": 6,
+          "r": 4,
+          "w": 0,
+          "dots": 3,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Manav Gupta",
+          "balls": 2,
+          "r": 1,
+          "w": 1,
+          "dots": 1,
+          "wd": 0,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Kiran Bukka",
+          "c",
+          1
+        ],
+        [
+          "Jeetu Asija",
+          "c",
+          1
+        ],
+        [
+          "SRAVAN KUMAR KHAMBAMPATI",
+          "c",
+          1
+        ],
+        [
+          "Kiran Bukka",
+          "r",
+          1
+        ],
+        [
+          "Ajay Mutyala",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-3142",
+      "date": "2026-06-13",
+      "series": "2026 MTCA Spring League",
+      "seriesId": "legacy-87",
+      "opponent": "MTCA SNIPERS",
+      "ground": "Hansen Park",
+      "result": "MTCA SNIPERS won by 26 Runs",
+      "forfeit": false,
+      "outcome": "L",
+      "tossWonByUs": false,
+      "tossDecision": "bat",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "MTCA SNIPERS",
+          "runs": 83,
+          "wkts": 9,
+          "overs": "20"
+        },
+        {
+          "team": "MTCA Tri-Valley Titans",
+          "runs": 57,
+          "wkts": 10,
+          "overs": "18.5"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Satish Kancherla",
+          "r": 2,
+          "b": 6,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ctw"
+        },
+        {
+          "name": "Veera Ravula",
+          "r": 7,
+          "b": 24,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "b"
+        },
+        {
+          "name": "Srinivasa Joga Commuri",
+          "r": 4,
+          "b": 16,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ctw"
+        },
+        {
+          "name": "Niteesh T",
+          "r": 15,
+          "b": 17,
+          "f": 3,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ct"
+        },
+        {
+          "name": "Mohan Murthy",
+          "r": 2,
+          "b": 8,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "ct"
+        },
+        {
+          "name": "Ajay Mutyala",
+          "r": 1,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "ct"
+        },
+        {
+          "name": "Kiran Bukka",
+          "r": 0,
+          "b": 5,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "ctw"
+        },
+        {
+          "name": "Sashi K",
+          "r": 3,
+          "b": 7,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 8,
+          "how": "ct"
+        },
+        {
+          "name": "Sravan Dev",
+          "r": 6,
+          "b": 14,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 9
+        },
+        {
+          "name": "Phanindra Sripada",
+          "r": 2,
+          "b": 6,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 10,
+          "how": "ct"
+        },
+        {
+          "name": "Mahesh Baratam",
+          "r": 1,
+          "b": 9,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 11,
+          "how": "ctw"
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Mahesh Baratam",
+          "balls": 24,
+          "r": 12,
+          "w": 1,
+          "dots": 15,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Kiran Bukka",
+          "balls": 24,
+          "r": 15,
+          "w": 4,
+          "dots": 16,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Phanindra Sripada",
+          "balls": 24,
+          "r": 23,
+          "w": 2,
+          "dots": 13,
+          "wd": 5,
+          "nb": 0
+        },
+        {
+          "name": "Sashi K",
+          "balls": 18,
+          "r": 19,
+          "w": 0,
+          "dots": 7,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Satish Kancherla",
+          "balls": 6,
+          "r": 2,
+          "w": 0,
+          "dots": 4,
+          "wd": 0,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Niteesh T",
+          "r",
+          1
+        ],
+        [
+          "Ajay Mutyala",
+          "r",
+          1
+        ],
+        [
+          "Phanindra Sripada",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-3108",
+      "date": "2026-05-30",
+      "series": "2026 MTCA Spring League",
+      "seriesId": "legacy-87",
+      "opponent": "MTCA Legacy Lions",
+      "ground": "Hansen School - BaseBall 2",
+      "result": "MTCA Tri-Valley Titans won by 8 Wickets",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": false,
+      "tossDecision": "bat",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "MTCA Legacy Lions",
+          "runs": 45,
+          "wkts": 10,
+          "overs": "16"
+        },
+        {
+          "team": "MTCA Tri-Valley Titans",
+          "runs": 47,
+          "wkts": 2,
+          "overs": "12.3"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Satish Kancherla",
+          "r": 8,
+          "b": 9,
+          "f": 0,
+          "s": 1,
+          "out": true,
+          "pos": 1,
+          "how": "b"
+        },
+        {
+          "name": "Srinivasa Joga Commuri",
+          "r": 18,
+          "b": 37,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 2
+        },
+        {
+          "name": "Manav Gupta",
+          "r": 0,
+          "b": 5,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "b"
+        },
+        {
+          "name": "Mohan Murthy",
+          "r": 8,
+          "b": 24,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 4
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Mahesh Baratam",
+          "balls": 24,
+          "r": 1,
+          "w": 3,
+          "dots": 23,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Sashi K",
+          "balls": 18,
+          "r": 22,
+          "w": 2,
+          "dots": 13,
+          "wd": 0,
+          "nb": 2
+        },
+        {
+          "name": "Kiran Bukka",
+          "balls": 24,
+          "r": 6,
+          "w": 3,
+          "dots": 20,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Rama Gannamaneni",
+          "balls": 18,
+          "r": 10,
+          "w": 1,
+          "dots": 12,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Satish Kancherla",
+          "balls": 12,
+          "r": 4,
+          "w": 1,
+          "dots": 9,
+          "wd": 0,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Niteesh T",
+          "c",
+          1
+        ],
+        [
+          "Kiran Bukka",
+          "c",
+          2
+        ],
+        [
+          "Mahesh Baratam",
+          "c",
+          1
+        ],
+        [
+          "Venkat Chundru",
+          "c",
+          1
+        ],
+        [
+          "Satish Kancherla",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-3063",
+      "date": "2026-05-09",
+      "series": "2026 MTCA Spring League",
+      "seriesId": "legacy-87",
+      "opponent": "MTCA RICC",
+      "ground": "E-Costa School Ground",
+      "result": "MTCA RICC won by 10 Runs",
+      "forfeit": false,
+      "outcome": "L",
+      "tossWonByUs": false,
+      "tossDecision": "bat",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "MTCA RICC",
+          "runs": 102,
+          "wkts": 9,
+          "overs": "20"
+        },
+        {
+          "team": "MTCA Tri-Valley Titans",
+          "runs": 92,
+          "wkts": 10,
+          "overs": "19.5"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Satish Kancherla",
+          "r": 27,
+          "b": 42,
+          "f": 2,
+          "s": 1,
+          "out": true,
+          "pos": 1,
+          "how": "b"
+        },
+        {
+          "name": "Sravan Dev",
+          "r": 1,
+          "b": 3,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "b"
+        },
+        {
+          "name": "Kiran Bukka",
+          "r": 1,
+          "b": 9,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ct"
+        },
+        {
+          "name": "Manav Gupta",
+          "r": 0,
+          "b": 0,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ro"
+        },
+        {
+          "name": "Mohan Murthy",
+          "r": 24,
+          "b": 30,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "ct"
+        },
+        {
+          "name": "Venkat Chundru",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "ctw"
+        },
+        {
+          "name": "Sashikumar Nehrumohan",
+          "r": 3,
+          "b": 10,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "ro"
+        },
+        {
+          "name": "Sashi K",
+          "r": 1,
+          "b": 4,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 8,
+          "how": "ctw"
+        },
+        {
+          "name": "Ajay Mutyala",
+          "r": 9,
+          "b": 12,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 9,
+          "how": "b"
+        },
+        {
+          "name": "Rama Gannamaneni",
+          "r": 2,
+          "b": 8,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 10
+        },
+        {
+          "name": "Phanindra Sripada",
+          "r": 0,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 11,
+          "how": "b"
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Rama Gannamaneni",
+          "balls": 24,
+          "r": 14,
+          "w": 2,
+          "dots": 19,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Satish Kancherla",
+          "balls": 24,
+          "r": 20,
+          "w": 2,
+          "dots": 17,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Sashi K",
+          "balls": 24,
+          "r": 20,
+          "w": 2,
+          "dots": 13,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Phanindra Sripada",
+          "balls": 24,
+          "r": 22,
+          "w": 1,
+          "dots": 14,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Kiran Bukka",
+          "balls": 24,
+          "r": 26,
+          "w": 1,
+          "dots": 13,
+          "wd": 1,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Kiran Bukka",
+          "c",
+          1
+        ],
+        [
+          "Ajay Mutyala",
+          "c",
+          1
+        ],
+        [
+          "Rama Gannamaneni",
+          "c",
+          1
+        ],
+        [
+          "Sashi K",
+          "r",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-3048",
+      "date": "2026-05-03",
+      "series": "2026 MTCA Spring League",
+      "seriesId": "legacy-87",
+      "opponent": "MTCA Raging Bulls",
+      "ground": "Cordes Park",
+      "result": "MTCA Raging Bulls won by 9 Wickets",
+      "forfeit": false,
+      "outcome": "L",
+      "tossWonByUs": true,
+      "tossDecision": "bat",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "MTCA Tri-Valley Titans",
+          "runs": 43,
+          "wkts": 10,
+          "overs": "13.2"
+        },
+        {
+          "team": "MTCA Raging Bulls",
+          "runs": 45,
+          "wkts": 1,
+          "overs": "8.2"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Satish Kancherla",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ct"
+        },
+        {
+          "name": "Kiran Bukka",
+          "r": 5,
+          "b": 4,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ct"
+        },
+        {
+          "name": "Krish Venkatraman",
+          "r": 14,
+          "b": 20,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ctw"
+        },
+        {
+          "name": "Manav Gupta",
+          "r": 7,
+          "b": 17,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ro"
+        },
+        {
+          "name": "Ajay Mutyala",
+          "r": 4,
+          "b": 9,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "ct"
+        },
+        {
+          "name": "SRAVAN KUMAR KHAMBAMPATI",
+          "r": 1,
+          "b": 10,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "ct"
+        },
+        {
+          "name": "Sashi K",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "b"
+        },
+        {
+          "name": "Sravan Dev",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 8,
+          "how": "b"
+        },
+        {
+          "name": "Niteesh T",
+          "r": 1,
+          "b": 4,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 9,
+          "how": "ct"
+        },
+        {
+          "name": "Phanindra Sripada",
+          "r": 2,
+          "b": 10,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 10,
+          "how": "ro"
+        },
+        {
+          "name": "Rama Gannamaneni",
+          "r": 0,
+          "b": 5,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 11
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Sashi K",
+          "balls": 12,
+          "r": 4,
+          "w": 0,
+          "dots": 9,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Kiran Bukka",
+          "balls": 12,
+          "r": 12,
+          "w": 0,
+          "dots": 8,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Rama Gannamaneni",
+          "balls": 6,
+          "r": 7,
+          "w": 1,
+          "dots": 4,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Phanindra Sripada",
+          "balls": 12,
+          "r": 3,
+          "w": 0,
+          "dots": 9,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Manav Gupta",
+          "balls": 6,
+          "r": 13,
+          "w": 0,
+          "dots": 4,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Krish Venkatraman",
+          "balls": 2,
+          "r": 6,
+          "w": 0,
+          "dots": 1,
+          "wd": 0,
+          "nb": 0
+        }
+      ],
+      "fielding": []
+    }
+  ],
+  "unresolvedFielders": 25
+}

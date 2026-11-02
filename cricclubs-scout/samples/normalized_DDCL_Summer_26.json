@@ -1,0 +1,425 @@
+{
+ "pointsTable": {
+  "series": {
+   "id": "u2KnAWQG_l9DZ_jsRAByWA",
+   "name": "DDCL Summer 26"
+  },
+  "groups": [
+   {
+    "group": "Group A",
+    "groupId": "ie8VBJAvF0KbhpZGdKqQTQ",
+    "winnerTeamId": "2aAxM4-LPtXlSIilbQAp3g",
+    "runnerUpTeamId": "6h0HDQQJ-rn2cdwTPIRbVA",
+    "rows": [
+     {
+      "position": 1,
+      "team": "Dublin Super Kings",
+      "teamId": "euBya8ZtwP3PY50jUc4ulg",
+      "played": 10,
+      "won": 8,
+      "lost": 2,
+      "nr": 0,
+      "tied": 0,
+      "abandoned": 0,
+      "points": 16,
+      "nrr": 0.2173,
+      "logo": "https://media.cricclubs.com/documentsRep/teamLogos/13bf5847-60cf-411c-9ba3-b63bb275170c.jpg"
+     },
+     {
+      "position": 2,
+      "team": "Retro Runners",
+      "teamId": "s_x-7cySkWShkqdxvLb6FA",
+      "played": 10,
+      "won": 7,
+      "lost": 3,
+      "nr": 0,
+      "tied": 0,
+      "abandoned": 0,
+      "points": 14,
+      "nrr": 1.3443,
+      "logo": "https://media.cricclubs.com/documentsRep/teamLogos/6dfe256e-6bd1-4342-b8c7-0bb33fa52e04.jpg"
+     },
+     {
+      "position": 3,
+      "team": "Namma Boys",
+      "teamId": "fc47K1vmxFKNbzXiU67Ipg",
+      "played": 10,
+      "won": 7,
+      "lost": 3,
+      "nr": 0,
+      "tied": 0,
+      "abandoned": 0,
+      "points": 14,
+      "nrr": 0.2569,
+      "logo": "https://media.cricclubs.com/documentsRep/teamLogos/a9b4665c-b906-4a05-a9c9-f06a91ce36a7.jpeg"
+     },
+     {
+      "position": 4,
+      "team": "Fundoos",
+      "teamId": "xDiffzK4iYTJmJqB7XApCg",
+      "played": 10,
+      "won": 6,
+      "lost": 4,
+      "nr": 0,
+      "tied": 0,
+      "abandoned": 0,
+      "points": 12,
+      "nrr": 0.0805,
+      "logo": "https://media.cricclubs.com/documentsRep/teamLogos/e31184e8-0ccd-4f0b-858a-284538f801ae.jpg"
+     },
+     {
+      "position": 5,
+      "team": "Vikings",
+      "teamId": "wLIRAHLpeoXE0vBZIbymUw",
+      "played": 10,
+      "won": 5,
+      "lost": 5,
+      "nr": 0,
+      "tied": 0,
+      "abandoned": 0,
+      "points": 10,
+      "nrr": 0.4173,
+      "logo": "https://media.cricclubs.com/documentsRep/teamLogos/7f93325e-817b-49b2-83c0-3faee144f559.png"
+     },
+     {
+      "position": 6,
+      "team": "Loyals",
+      "teamId": "Cv0bh7Hkl2Zmepzr4Knrzg",
+      "played": 10,
+      "won": 4,
+      "lost": 5,
+      "nr": 0,
+      "tied": 1,
+      "abandoned": 0,
+      "points": 9,
+      "nrr": 0.0658,
+      "logo": "https://media.cricclubs.com/documentsRep/teamLogos/5c5c5e63-7a28-4805-802c-5257d131363f.jpg"
+     },
+     {
+      "position": 7,
+      "team": "PVCC",
+      "teamId": "2p0WpCHpUe4y45bFJbEhRg",
+      "played": 10,
+      "won": 4,
+      "lost": 6,
+      "nr": 0,
+      "tied": 0,
+      "abandoned": 0,
+      "points": 8,
+      "nrr": -0.4299,
+      "logo": "https://media.cricclubs.com/documentsRep/teamLogos/5879816b-3fe4-42cc-a384-33e6af2b8ef6.jpg"
+     },
+     {
+      "position": 8,
+      "team": "Monks",
+      "teamId": "EEbq9JyxlFXZCBqbaHPDHA",
+      "played": 10,
+      "won": 1,
+      "lost": 9,
+      "nr": 0,
+      "tied": 0,
+      "abandoned": 0,
+      "points": 2,
+      "nrr": -1.366,
+      "logo": null
+     }
+    ]
+   },
+   {
+    "group": "Group B",
+    "groupId": "1WsAYvg2aOUxiMXutmB0LA",
+    "winnerTeamId": "2aAxM4-LPtXlSIilbQAp3g",
+    "runnerUpTeamId": "6h0HDQQJ-rn2cdwTPIRbVA",
+    "rows": [
+     {
+      "position": 1,
+      "team": "Vodoo Rangers",
+      "teamId": "2aAxM4-LPtXlSIilbQAp3g",
+      "played": 10,
+      "won": 8,
+      "lost": 2,
+      "nr": 0,
+      "tied": 0,
+      "abandoned": 0,
+      "points": 16,
+      "nrr": 1.3073,
+      "logo": "https://media.cricclubs.com/documentsRep/teamLogos/cdbd7647-2bdb-4af7-bcee-c86f153e6f52.jpg"
+     },
+     {
+      "position": 2,
+      "team": "Deccan Chargers",
+      "teamId": "6h0HDQQJ-rn2cdwTPIRbVA",
+      "played": 10,
+      "won": 6,
+      "lost": 3,
+      "nr": 0,
+      "tied": 1,
+      "abandoned": 0,
+      "points": 13,
+      "nrr": 0.5376,
+      "logo": "https://media.cricclubs.com/documentsRep/teamLogos/30358e13-46be-45ca-b7c0-cb1693a1d3e8.jpg"
+     },
+     {
+      "position": 3,
+      "team": "Sunrise Strikers",
+      "teamId": "OXFAIWN1qRNrgHThBT9WZA",
+      "played": 10,
+      "won": 6,
+      "lost": 4,
+      "nr": 0,
+      "tied": 0,
+      "abandoned": 0,
+      "points": 12,
+      "nrr": 0.1107,
+      "logo": "https://media.cricclubs.com/documentsRep/teamLogos/1ed4cd12-29a6-4269-a903-4c614bf8151d.jpg"
+     },
+     {
+      "position": 4,
+      "team": "Legion Mavericks",
+      "teamId": "OLQ9oWvH5hXoqpiDruTyng",
+      "played": 10,
+      "won": 5,
+      "lost": 4,
+      "nr": 0,
+      "tied": 1,
+      "abandoned": 0,
+      "points": 11,
+      "nrr": -0.0533,
+      "logo": "https://media.cricclubs.com/documentsRep/teamLogos/93a034a8-a607-41ec-8763-ad3fd4b4eec7.jpeg"
+     },
+     {
+      "position": 5,
+      "team": "Bay Strikers",
+      "teamId": "dln4hHr8c1sjiaOGkf3fCQ",
+      "played": 10,
+      "won": 5,
+      "lost": 5,
+      "nr": 0,
+      "tied": 0,
+      "abandoned": 0,
+      "points": 10,
+      "nrr": -0.0735,
+      "logo": "https://media.cricclubs.com/documentsRep/teamLogos/ea482ccb-1fe9-45ff-80b5-77eb34fa5467.jpg"
+     },
+     {
+      "position": 6,
+      "team": "Bay Area Falcons",
+      "teamId": "2oGHuCzg7Lc9psG70LO3fA",
+      "played": 10,
+      "won": 3,
+      "lost": 7,
+      "nr": 0,
+      "tied": 0,
+      "abandoned": 0,
+      "points": 6,
+      "nrr": -1.1546,
+      "logo": "https://media.cricclubs.com/documentsRep/teamLogos/3c575945-947f-4b39-a26a-9a0f938127a4.png"
+     },
+     {
+      "position": 7,
+      "team": "Tipsy Bulls",
+      "teamId": "Qh63w8GZlGZFfR5oSjhhmQ",
+      "played": 10,
+      "won": 2,
+      "lost": 7,
+      "nr": 0,
+      "tied": 1,
+      "abandoned": 0,
+      "points": 5,
+      "nrr": -1.0155,
+      "logo": "https://media.cricclubs.com/documentsRep/teamLogos/24150af4-32b9-47de-b632-f0edb3d6622c.jpg"
+     },
+     {
+      "position": 8,
+      "team": "Chhavas",
+      "teamId": "Ncd1Z5DOmembl9kruvsUYw",
+      "played": 10,
+      "won": 1,
+      "lost": 9,
+      "nr": 0,
+      "tied": 0,
+      "abandoned": 0,
+      "points": 2,
+      "nrr": -1.9267,
+      "logo": "https://media.cricclubs.com/documentsRep/teamLogos/b58e53fa-5031-4279-870b-af5a75971dcb.png"
+     }
+    ]
+   }
+  ]
+ },
+ "playoffs": {
+  "season": {
+   "id": "u2KnAWQG_l9DZ_jsRAByWA",
+   "name": "DDCL Summer 26"
+  },
+  "linkedPlayoffSeries": [],
+  "playoffsFound": true,
+  "fixturesPending": false,
+  "series": {
+   "u2KnAWQG_l9DZ_jsRAByWA": {
+    "name": "DDCL Summer 26",
+    "playoffSeries": false,
+    "completed": 30,
+    "total": 88
+   }
+  },
+  "teams": {
+   "Legion Mavericks": {
+    "reached": "Final",
+    "games": [
+     {
+      "date": "2026-08-01",
+      "round": "Semi Final",
+      "cup": null,
+      "opponent": "Namma Boys",
+      "won": true,
+      "result": "Legion Mavericks won by 18 Runs",
+      "matchId": "HwBTH3Dw1CkxCvkyV4Y6Pg"
+     },
+     {
+      "date": "2026-08-08",
+      "round": "Final",
+      "cup": "secondary final",
+      "opponent": "Fundoos",
+      "won": false,
+      "result": "Fundoos won by 5 Wickets",
+      "matchId": "iO5VUDI3avwuuReVCI7BzA"
+     }
+    ],
+    "result": "Runner-up – secondary final"
+   },
+   "Namma Boys": {
+    "reached": "Semi Final",
+    "games": [
+     {
+      "date": "2026-08-01",
+      "round": "Semi Final",
+      "cup": null,
+      "opponent": "Legion Mavericks",
+      "won": false,
+      "result": "Legion Mavericks won by 18 Runs",
+      "matchId": "HwBTH3Dw1CkxCvkyV4Y6Pg"
+     }
+    ],
+    "result": "Lost in playoffs (Semi Final)"
+   },
+   "Deccan Chargers": {
+    "reached": "Final",
+    "games": [
+     {
+      "date": "2026-08-01",
+      "round": "Semi Final",
+      "cup": null,
+      "opponent": "Dublin Super Kings",
+      "won": true,
+      "result": "Deccan Chargers won by 2 Runs",
+      "matchId": "me798bqMcutLK3NG2pMvAg"
+     },
+     {
+      "date": "2026-08-08",
+      "round": "Final",
+      "cup": null,
+      "opponent": "Vodoo Rangers",
+      "won": false,
+      "result": "Vodoo Rangers won by 5 Wickets",
+      "matchId": "FCRHioSSOvHCVgg2YbqtkQ"
+     }
+    ],
+    "result": "Runner-up"
+   },
+   "Dublin Super Kings": {
+    "reached": "Semi Final",
+    "games": [
+     {
+      "date": "2026-08-01",
+      "round": "Semi Final",
+      "cup": null,
+      "opponent": "Deccan Chargers",
+      "won": false,
+      "result": "Deccan Chargers won by 2 Runs",
+      "matchId": "me798bqMcutLK3NG2pMvAg"
+     }
+    ],
+    "result": "Lost in playoffs (Semi Final)"
+   },
+   "Sunrise Strikers": {
+    "reached": "Semi Final",
+    "games": [
+     {
+      "date": "2026-08-02",
+      "round": "Semi Final",
+      "cup": null,
+      "opponent": "Fundoos",
+      "won": false,
+      "result": "Fundoos won by 7 Wickets",
+      "matchId": "2mWyBFAIZMlXjQN0ZhzIOw"
+     }
+    ],
+    "result": "Lost in playoffs (Semi Final)"
+   },
+   "Fundoos": {
+    "reached": "Final",
+    "games": [
+     {
+      "date": "2026-08-02",
+      "round": "Semi Final",
+      "cup": null,
+      "opponent": "Sunrise Strikers",
+      "won": true,
+      "result": "Fundoos won by 7 Wickets",
+      "matchId": "2mWyBFAIZMlXjQN0ZhzIOw"
+     },
+     {
+      "date": "2026-08-08",
+      "round": "Final",
+      "cup": "secondary final",
+      "opponent": "Legion Mavericks",
+      "won": true,
+      "result": "Fundoos won by 5 Wickets",
+      "matchId": "iO5VUDI3avwuuReVCI7BzA"
+     }
+    ],
+    "result": "Winner – secondary final"
+   },
+   "Vodoo Rangers": {
+    "reached": "Final",
+    "games": [
+     {
+      "date": "2026-08-02",
+      "round": "Semi Final",
+      "cup": null,
+      "opponent": "Retro Runners",
+      "won": true,
+      "result": "Vodoo Rangers won by 21 Runs",
+      "matchId": "mbtQoh960KzrD5AyOcU5OA"
+     },
+     {
+      "date": "2026-08-08",
+      "round": "Final",
+      "cup": null,
+      "opponent": "Deccan Chargers",
+      "won": true,
+      "result": "Vodoo Rangers won by 5 Wickets",
+      "matchId": "FCRHioSSOvHCVgg2YbqtkQ"
+     }
+    ],
+    "result": "Winner"
+   },
+   "Retro Runners": {
+    "reached": "Semi Final",
+    "games": [
+     {
+      "date": "2026-08-02",
+      "round": "Semi Final",
+      "cup": null,
+      "opponent": "Vodoo Rangers",
+      "won": false,
+      "result": "Vodoo Rangers won by 21 Runs",
+      "matchId": "mbtQoh960KzrD5AyOcU5OA"
+     }
+    ],
+    "result": "Lost in playoffs (Semi Final)"
+   }
+  }
+ }
+}

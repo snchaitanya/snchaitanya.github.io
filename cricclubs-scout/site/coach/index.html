@@ -1,0 +1,271 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Cric Coach</title>
+<meta name="theme-color" content="#07130e">
+<link rel="icon" href="../icon.svg">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#07130e;--bg2:#0d1f17;--card:#12261d;--card2:#183226;--line:#24402f;--grid:#1d3326;--tx:#eef5f0;--mut:#9fb5a8;--green:#2fd27a;--red:#ff6b78;--gold:#ffc83d;
+--s1:#3987e5;--s2:#d95926;
+--disp:'Bebas Neue',Impact,'Arial Narrow',sans-serif;--body:Inter,system-ui,-apple-system,'Segoe UI',Roboto,sans-serif}
+*{box-sizing:border-box}html{background:var(--bg)}
+body{margin:0;font:15px/1.45 var(--body);color:var(--tx);background:radial-gradient(1200px 500px at 50% -200px,#1b4d33 0,transparent 70%),var(--bg);min-height:100vh;-webkit-font-smoothing:antialiased}
+a{color:var(--gold)}
+header{padding:14px 16px 6px;max-width:760px;margin:0 auto}
+.brand{display:flex;align-items:center;gap:8px}.logo{font:28px/1 var(--disp);letter-spacing:1px;color:var(--tx);text-decoration:none}.logo b{color:var(--gold);font-weight:400}
+.ball{width:18px;height:18px;border-radius:50%;background:radial-gradient(circle at 35% 35%,#ff8a95,#ff4d5e 45%,#a3121f);position:relative}.ball:after{content:'';position:absolute;inset:0 8px;border-left:1.5px dashed #fff9;border-right:1.5px dashed #fff9}
+.back{margin-left:auto;font-size:13px;color:var(--mut)}
+main{max-width:760px;margin:0 auto;padding:6px 16px 40px}
+h1{font:56px/.9 var(--disp);margin:14px 0 4px;letter-spacing:.5px}
+.sub{color:var(--mut);font-size:13px;margin:0 0 14px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:18px;padding:16px;margin:0 0 12px}
+.card h2{font:26px/1 var(--disp);letter-spacing:.5px;margin:0 0 4px}
+.card .note{color:var(--mut);font-size:12.5px;margin:0 0 12px}
+.tiles{display:grid;grid-template-columns:repeat(auto-fit,minmax(104px,1fr));gap:8px;margin-bottom:12px}
+.tile{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:10px 12px}
+.tile .v{font:34px/1 var(--disp);letter-spacing:.5px}.tile .k{font-size:11.5px;color:var(--mut);margin-top:4px}
+.coach li{margin:0 0 8px}.coach ul{margin:0;padding-left:18px}
+.chart{position:relative;width:100%}
+.chart svg{display:block;width:100%;height:auto;overflow:visible}
+.axis text{fill:var(--mut);font:11px var(--body)}
+.legend{display:flex;gap:14px;flex-wrap:wrap;font-size:12px;color:var(--mut);margin:0 0 8px}
+.legend i{display:inline-block;width:10px;height:10px;border-radius:50%;margin-right:6px;vertical-align:-1px}
+.legend i.ln{width:16px;height:2px;border-radius:1px;vertical-align:3px}
+.tip{position:fixed;pointer-events:none;z-index:10;background:#0b1a13f2;border:1px solid var(--line);border-radius:10px;padding:8px 10px;font-size:12.5px;line-height:1.4;max-width:240px;box-shadow:0 8px 24px #0008;display:none}
+.tip b{font-weight:700}.tip .m{color:var(--mut)}
+.hbar{display:grid;grid-template-columns:110px 1fr 70px;align-items:center;gap:10px;margin:6px 0;font-size:13.5px}
+.hbar .track{height:14px;border-radius:0 4px 4px 0;position:relative}
+.hbar .fill{height:100%;background:var(--s1);border-radius:0 4px 4px 0;min-width:2px}
+.hbar .n{color:var(--mut);font-variant-numeric:tabular-nums;text-align:right}
+table{width:100%;border-collapse:collapse;font-size:13px;font-variant-numeric:tabular-nums}
+th,td{padding:7px 6px;border-bottom:1px solid var(--grid);text-align:right;white-space:nowrap}
+th:first-child,td:first-child{text-align:left}
+th{color:var(--mut);font-weight:600;font-size:11.5px}
+.scroll{overflow-x:auto;-webkit-overflow-scrolling:touch}
+.W{color:var(--green);font-weight:700}.L{color:var(--red);font-weight:700}
+.pending{display:grid;grid-template-columns:repeat(3,1fr);gap:8px;margin:0 0 12px}
+.pending .tile{border-style:dashed;text-align:center}.pending .v{color:var(--mut)}
+.lock{display:flex;gap:10px;align-items:flex-start;background:var(--bg2);border:1px dashed var(--line);border-radius:12px;padding:10px 12px;font-size:13px;color:var(--mut);margin:0 0 12px}
+.lock b{color:var(--tx)}
+h3{font:600 13px var(--body);color:var(--mut);margin:14px 0 6px;text-transform:uppercase;letter-spacing:.6px}
+.msg{padding:14px;border-radius:14px;background:#3a0f15;border:1px solid #ff4d5e66;color:#ffd5d9}
+footer{color:var(--mut);font-size:12px;text-align:center;padding:10px 16px 30px}
+@media (max-width:480px){h1{font-size:46px}.hbar{grid-template-columns:90px 1fr 56px}}
+</style>
+</head>
+<body>
+<header><div class="brand"><span class="ball"></span><a class="logo" href="../">CRIC<b>COACH</b></a><a class="back" href="../">← Team scout</a></div></header>
+<main id="main"><p class="sub">Loading…</p></main>
+<div class="tip" id="tip" role="status"></div>
+<footer id="foot"></footer>
+<script>
+const $ = s => document.querySelector(s);
+const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
+const sr = (r, b) => b ? (100 * r / b) : null;
+const f1 = x => x == null || !isFinite(x) ? '—' : x.toFixed(1);
+const HOW = { ct: 'Caught', ctw: 'Caught (keeper)', b: 'Bowled', lbw: 'LBW', ro: 'Run out', st: 'Stumped', hw: 'Hit wicket', rt: 'Retired', other: 'Other' };
+const MON = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+const dshort = d => { const [y, m, dd] = d.split('-'); return `${MON[+m - 1]} ${+dd}`; };
+const posBand = p => p <= 2 ? 'Opening (1–2)' : p <= 4 ? 'Top order (3–4)' : 'Middle / lower (5+)';
+
+function agg(list) {
+  const r = list.reduce((a, i) => a + i.r, 0), b = list.reduce((a, i) => a + i.b, 0);
+  const outs = list.filter(i => i.out).length;
+  const bnd = list.reduce((a, i) => a + 4 * i.f + 6 * i.s, 0);
+  return { n: list.length, r, b, outs, avg: outs ? r / outs : null, sr: sr(r, b), hs: Math.max(0, ...list.map(i => i.r)),
+    f: list.reduce((a, i) => a + i.f, 0), s: list.reduce((a, i) => a + i.s, 0), bndPct: r ? 100 * bnd / r : null };
+}
+
+// ---------- tooltip ----------
+const tip = $('#tip');
+function showTip(e, html) {
+  tip.innerHTML = html; tip.style.display = 'block';
+  const x = e.clientX, y = e.clientY, w = tip.offsetWidth, h = tip.offsetHeight;
+  tip.style.left = Math.min(window.innerWidth - w - 8, Math.max(8, x + 12)) + 'px';
+  tip.style.top = (y - h - 12 < 8 ? y + 16 : y - h - 12) + 'px';
+}
+const hideTip = () => { tip.style.display = 'none'; };
+function bindTips(root, items) {
+  root.querySelectorAll('[data-i]').forEach(el => {
+    const html = items[+el.dataset.i];
+    el.addEventListener('pointermove', e => showTip(e, html));
+    el.addEventListener('pointerleave', hideTip);
+    el.addEventListener('focus', () => { const r = el.getBoundingClientRect(); showTip({ clientX: r.left + r.width / 2, clientY: r.top }, html); });
+    el.addEventListener('blur', hideTip);
+  });
+}
+function inningsTip(i) {
+  return `<b>${esc(i.r)}${i.out ? '' : '*'} off ${esc(i.b)}</b> · SR ${f1(sr(i.r, i.b))}<br>`
+    + `<span class="m">${esc(dshort(i.date))} · vs ${esc(i.opponent)} · bat ${esc(i.pos)}</span><br>`
+    + `<span class="m">${i.out ? esc(HOW[i.how] || i.how) : 'Not out'} · ${esc(i.f)}×4 ${esc(i.s)}×6 · ${i.outcome === 'W' ? 'Won' : 'Lost'}</span>`;
+}
+
+// ---------- charts ----------
+function niceMax(v) { const s = [10, 20, 25, 40, 50, 60, 80, 100, 120, 150, 200, 250, 300]; return s.find(x => x >= v) || Math.ceil(v / 50) * 50; }
+
+function runsChart(inns) {
+  const W = 700, H = 230, L = 34, R = 8, T = 10, B = 34, n = inns.length;
+  const max = niceMax(Math.max(...inns.map(i => i.r)) * 1.1);
+  const cw = (W - L - R) / n, bw = Math.min(28, cw * 0.62);
+  const y = v => T + (H - T - B) * (1 - v / max);
+  const ticks = [0, max / 2, max];
+  let g = ticks.map(t => `<line x1="${L}" x2="${W - R}" y1="${y(t)}" y2="${y(t)}" stroke="var(--grid)"/><text x="${L - 6}" y="${y(t) + 4}" text-anchor="end">${t}</text>`).join('');
+  let bars = '', hits = '', labels = '';
+  let prevSeries = null;
+  inns.forEach((i, k) => {
+    const cx = L + cw * k + cw / 2, top = y(i.r), h = Math.max(1, y(0) - top);
+    // 4px rounded data end, square at the baseline
+    bars += `<path d="M${cx - bw / 2},${y(0)} V${top + Math.min(4, h)} q0,-${Math.min(4, h)} ${Math.min(4, bw / 2)},-${Math.min(4, h)} H${cx + bw / 2 - Math.min(4, bw / 2)} q${Math.min(4, bw / 2)},0 ${Math.min(4, bw / 2)},${Math.min(4, h)} V${y(0)} Z" fill="${i.out ? 'var(--s1)' : 'none'}" stroke="var(--s1)" stroke-width="${i.out ? 0 : 2}"/>`;
+    hits += `<rect data-i="${k}" tabindex="0" x="${L + cw * k}" y="${T}" width="${cw}" height="${H - T - B}" fill="transparent" aria-label="${esc(i.date)}: ${i.r} off ${i.b}"/>`;
+    if (k % Math.ceil(n / 8) === 0 || k === n - 1) labels += `<text x="${cx}" y="${H - B + 16}" text-anchor="middle">${dshort(i.date)}</text>`;
+    if (prevSeries && prevSeries !== i.series) labels += `<line x1="${L + cw * k}" x2="${L + cw * k}" y1="${T}" y2="${H - B}" stroke="var(--line)" stroke-dasharray="3 3"/><text x="${L + cw * k + 4}" y="${T + 10}" style="font-size:10.5px">${esc(i.series.replace(/^.*?(\w+ \d{4})$/, '$1'))}</text>`;
+    prevSeries = i.series;
+  });
+  const best = inns.reduce((a, i, k) => i.r > inns[a].r ? k : a, 0);
+  const bx = L + cw * best + cw / 2;
+  labels += `<text x="${bx}" y="${y(inns[best].r) - 6}" text-anchor="middle" style="fill:var(--tx);font-weight:600">${inns[best].r}</text>`;
+  return `<svg viewBox="0 0 ${W} ${H}" role="img" aria-label="Runs per innings, oldest to newest"><g class="axis">${g}${labels}</g>${bars}${hits}</svg>`;
+}
+
+function srChart(inns) {
+  const W = 700, H = 210, L = 34, R = 8, T = 12, B = 30, n = inns.length;
+  const srs = inns.map(i => sr(i.r, i.b));
+  let cr = 0, cb = 0; const cum = inns.map(i => (cr += i.r, cb += i.b, sr(cr, cb)));
+  const max = niceMax(Math.max(...srs, ...cum) * 1.08);
+  const cw = (W - L - R) / n, x = k => L + cw * k + cw / 2, y = v => T + (H - T - B) * (1 - v / max);
+  const ticks = [0, max / 2, max];
+  let g = ticks.map(t => `<line x1="${L}" x2="${W - R}" y1="${y(t)}" y2="${y(t)}" stroke="var(--grid)"/><text x="${L - 6}" y="${y(t) + 4}" text-anchor="end">${t}</text>`).join('');
+  inns.forEach((i, k) => { if (k % Math.ceil(n / 8) === 0 || k === n - 1) g += `<text x="${x(k)}" y="${H - B + 16}" text-anchor="middle">${dshort(i.date)}</text>`; });
+  const line = cum.map((v, k) => `${k ? 'L' : 'M'}${x(k)},${y(v)}`).join(' ');
+  const dots = srs.map((v, k) => `<circle cx="${x(k)}" cy="${y(v)}" r="5" fill="var(--s2)" stroke="var(--card)" stroke-width="2"/>`).join('');
+  const last = cum[n - 1];
+  const lab = `<text x="${W - R}" y="${y(last) - 8}" text-anchor="end" style="fill:var(--tx);font-weight:600">${f1(last)} career</text>`;
+  const hits = inns.map((i, k) => `<rect data-i="${k}" tabindex="0" x="${L + cw * k}" y="${T}" width="${cw}" height="${H - T - B}" fill="transparent"/>`).join('');
+  return `<svg viewBox="0 0 ${W} ${H}" role="img" aria-label="Strike rate per innings and running career strike rate"><g class="axis">${g}${lab}</g><path d="${line}" fill="none" stroke="var(--s1)" stroke-width="2" stroke-linejoin="round"/>${dots}${hits}</svg>`;
+}
+
+function hbars(rows, total) {
+  const max = Math.max(...rows.map(r => r.n));
+  return rows.map(r => `<div class="hbar"><span>${esc(r.label)}</span><div class="track"><div class="fill" style="width:${(100 * r.n / max).toFixed(1)}%"></div></div><span class="n">${r.n} · ${Math.round(100 * r.n / total)}%</span></div>`).join('');
+}
+
+function table(head, rows) {
+  return `<div class="scroll"><table><thead><tr>${head.map(h => `<th>${h}</th>`).join('')}</tr></thead><tbody>${rows.map(r => `<tr>${r.map(c => `<td>${c}</td>`).join('')}</tr>`).join('')}</tbody></table></div>`;
+}
+
+// ---------- coaching notes (computed, never hand-written) ----------
+function coachNotes(inns, all) {
+  const notes = [];
+  const bands = {};
+  inns.forEach(i => (bands[posBand(i.pos)] ||= []).push(i));
+  const bandStats = Object.entries(bands).map(([k, v]) => [k, agg(v)]).filter(([, a]) => a.n >= 3);
+  if (bandStats.length > 1) {
+    bandStats.sort((a, b) => (b[1].sr ?? 0) - (a[1].sr ?? 0));
+    const [bk, ba] = bandStats[0], [wk, wa] = bandStats[bandStats.length - 1];
+    notes.push(`Best strike rate when batting <b>${esc(bk.toLowerCase())}</b>: ${f1(ba.sr)} over ${ba.n} innings, against ${f1(wa.sr)} at ${esc(wk.toLowerCase())}.`);
+  }
+  const outs = inns.filter(i => i.out);
+  if (outs.length) {
+    const c = outs.filter(i => i.how === 'ct' || i.how === 'ctw').length;
+    const b = outs.filter(i => i.how === 'b' || i.how === 'lbw').length;
+    const ro = outs.filter(i => i.how === 'ro').length;
+    if (c / outs.length >= 0.5) notes.push(`<b>${c} of ${outs.length}</b> dismissals are catches. Keep the ball along the ground until you're set.`);
+    if (b >= 2) notes.push(`Bowled or LBW <b>${b}</b> times: ${b} of ${outs.length} dismissals were the ball hitting the stumps.`);
+    if (ro >= 2) notes.push(`Run out <b>${ro}</b> times: ${Math.round(100 * ro / outs.length)}% of dismissals. Calling and running are costing wickets.`);
+  }
+  const early = inns.filter(i => i.out && i.b <= 6).length;
+  if (early >= 2) notes.push(`Out within the first 6 balls in <b>${early} of ${inns.length}</b> innings. The start is where the risk is.`);
+  const set = inns.filter(i => i.b >= 20);
+  if (set.length >= 2) { const a = agg(set); notes.push(`Once past 20 balls you score at SR ${f1(a.sr)} (${a.n} innings). Getting in is the bigger problem than accelerating.`); }
+  if (all.bndPct != null) notes.push(`${f1(all.bndPct)}% of runs come in boundaries (${all.f}×4, ${all.s}×6). The rest is running between the wickets.`);
+  const last5 = agg(inns.slice(-5));
+  notes.push(`Last 5 innings: ${last5.r} runs at SR ${f1(last5.sr)}, average ${f1(last5.avg)} (career SR ${f1(all.sr)}, average ${f1(all.avg)}).`);
+  return notes;
+}
+
+// ---------- page ----------
+async function main() {
+  const q = new URLSearchParams(location.search);
+  const player = (q.get('player') || 'chay-s').replace(/[^a-z0-9-]/gi, '');
+  let d;
+  try { const r = await fetch(`${player}.json`, { cache: 'no-cache' }); if (!r.ok) throw new Error(r.status); d = await r.json(); }
+  catch (e) { $('#main').innerHTML = `<p class="msg">No coaching file for “${esc(player)}” yet.</p>`; return; }
+  document.title = `${d.player} · Cric Coach`;
+  const inns = d.innings, all = agg(inns);
+  const seasons = [...new Set(inns.map(i => i.series))];
+  const span = inns.length ? `${dshort(inns[0].date)} ${inns[0].date.slice(0, 4)} – ${dshort(inns.at(-1).date)} ${inns.at(-1).date.slice(0, 4)}` : '';
+  let h = `<h1>${esc(d.player)}</h1><p class="sub">${esc(d.teams.join(', '))} · ${esc(seasons.join(', '))} · ${span}</p>`;
+
+  h += `<div class="tiles">
+    <div class="tile"><div class="v">${all.n}</div><div class="k">Innings</div></div>
+    <div class="tile"><div class="v">${all.r}</div><div class="k">Runs (${all.b} balls)</div></div>
+    <div class="tile"><div class="v">${f1(all.avg)}</div><div class="k">Average</div></div>
+    <div class="tile"><div class="v">${f1(all.sr)}</div><div class="k">Strike rate</div></div>
+    <div class="tile"><div class="v">${all.hs}</div><div class="k">Highest</div></div>
+    <div class="tile"><div class="v">${d.fielding.length}</div><div class="k">Catches / run outs</div></div>
+  </div>`;
+
+  h += `<section class="card coach"><h2>Coach's notes</h2><p class="note">Worked out from the scorecards below.</p><ul>${coachNotes(inns, all).map(n => `<li>${n}</li>`).join('')}</ul></section>`;
+
+  h += `<section class="card"><h2>Form over time</h2><p class="note">Runs per innings, oldest to newest. Hollow bar = not out. Hover a bar for the innings.</p>
+    <div class="chart" id="cRuns">${runsChart(inns)}</div>
+    <h3>Strike rate</h3>
+    <div class="legend"><span><i style="background:var(--s2)"></i>Innings strike rate</span><span><i class="ln" style="background:var(--s1)"></i>Running career strike rate</span></div>
+    <div class="chart" id="cSr">${srChart(inns)}</div></section>`;
+
+  const outs = inns.filter(i => i.out);
+  const howCount = {}; outs.forEach(i => { const k = HOW[i.how] || i.how; howCount[k] = (howCount[k] || 0) + 1; });
+  const howRows = Object.entries(howCount).map(([label, n]) => ({ label, n })).sort((a, b) => b.n - a.n);
+  const notOut = inns.length - outs.length;
+  h += `<section class="card"><h2>How I get out</h2><p class="note">${outs.length} dismissals in ${inns.length} innings${notOut ? `, ${notOut} not out` : ''}.</p>${hbars(howRows, outs.length)}
+    <h3>Balls faced before getting out</h3>${hbars([
+      { label: '0–6 balls', n: outs.filter(i => i.b <= 6).length },
+      { label: '7–15 balls', n: outs.filter(i => i.b > 6 && i.b <= 15).length },
+      { label: '16–25 balls', n: outs.filter(i => i.b > 15 && i.b <= 25).length },
+      { label: '26+ balls', n: outs.filter(i => i.b > 25).length },
+    ].filter(r => r.n), outs.length)}</section>`;
+
+  h += `<section class="card"><h2>Strike rate by phase</h2><p class="note">Powerplay (overs 1–6), middle (7–15) and death (16–20).</p>
+    <div class="pending">
+      <div class="tile"><div class="v">—</div><div class="k">Powerplay SR</div></div>
+      <div class="tile"><div class="v">—</div><div class="k">Middle SR</div></div>
+      <div class="tile"><div class="v">—</div><div class="k">Death SR</div></div>
+    </div>
+    <div class="lock"><span>🔒</span><span><b>Needs ball-by-ball data.</b> Scorecards only give total runs and balls per innings, not which over each ball came in. This fills in once the ball-by-ball commentary is scanned.</span></div>
+    <h3>Meanwhile: by batting position</h3>
+    ${table(['Position', 'Inns', 'Runs', 'Balls', 'Avg', 'SR'], ['Opening (1–2)', 'Top order (3–4)', 'Middle / lower (5+)'].map(k => {
+      const a = agg(inns.filter(i => posBand(i.pos) === k)); return a.n ? [k, a.n, a.r, a.b, f1(a.avg), f1(a.sr)] : null;
+    }).filter(Boolean))}</section>`;
+
+  const opp = {}; inns.forEach(i => (opp[i.opponent] ||= []).push(i));
+  h += `<section class="card"><h2>Opponent bowler vs me</h2><p class="note">Runs, balls and dismissals against each bowler who has bowled to you.</p>
+    <div class="lock"><span>🔒</span><span><b>Needs ball-by-ball data.</b> The stored scorecards record <i>how</i> you got out, not which bowler bowled each ball, so per-bowler numbers can't be worked out yet.</span></div>
+    <h3>Meanwhile: by opposing team</h3>
+    ${table(['Opponent', 'Inns', 'Runs', 'Balls', 'SR', 'Outs', 'How out'], Object.entries(opp).sort((a, b) => b[1].length - a[1].length).map(([k, v]) => {
+      const a = agg(v); return [esc(k), a.n, a.r, a.b, f1(a.sr), a.outs, esc(v.filter(i => i.out).map(i => HOW[i.how] || i.how).join(', ') || '—')];
+    }))}</section>`;
+
+  if (d.bowling.length) {
+    const balls = d.bowling.reduce((a, i) => a + i.balls, 0), r = d.bowling.reduce((a, i) => a + i.r, 0), w = d.bowling.reduce((a, i) => a + i.w, 0);
+    h += `<section class="card"><h2>Bowling</h2>${table(['Overs', 'Runs', 'Wkts', 'Econ'], [[`${Math.floor(balls / 6)}.${balls % 6}`, r, w, f1(balls ? 6 * r / balls : null)]])}</section>`;
+  } else {
+    h += `<section class="card"><h2>Bowling</h2><p class="note" style="margin:0">No overs bowled in the scanned matches.</p></section>`;
+  }
+
+  h += `<section class="card"><h2>Every innings</h2>${table(['Date', 'Opponent', 'Pos', 'R', 'B', '4s', '6s', 'SR', 'How out', 'Result'],
+    inns.slice().reverse().map(i => [dshort(i.date) + ' ' + i.date.slice(2, 4), esc(i.opponent), i.pos, i.r + (i.out ? '' : '*'), i.b, i.f, i.s, f1(sr(i.r, i.b)),
+      i.out ? esc(HOW[i.how] || i.how) : 'not out', `<span class="${i.outcome}">${i.outcome}</span>`]))}</section>`;
+
+  $('#main').innerHTML = h;
+  const tips = inns.map(inningsTip);
+  bindTips($('#cRuns'), tips); bindTips($('#cSr'), tips);
+  $('#foot').innerHTML = `Data: CricClubs public scorecards · updated ${esc(new Date(d.generatedAt).toLocaleDateString())}`;
+}
+main();
+</script>
+</body>
+</html>

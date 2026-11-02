@@ -1,0 +1,3826 @@
+{
+  "team": "Emerald Titans",
+  "logo": "https://media.cricclubs.com/documentsRep/teamLogos/9c4c0bc2-d2ac-447a-b3e5-fc6f53b575f8.jpg",
+  "logos": {
+    "Super Kings": "https://media.cricclubs.com/documentsRep/teamLogos/superkings.jpg",
+    "CSK Jaguars": "https://media.cricclubs.com/documentsRep/teamLogos/cfc2250d-3186-4f2c-8d48-c2739706f44d.jpg",
+    "Bay Area Paltan": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+    "Spartans": "https://media.cricclubs.com/documentsRep/teamLogos/7e39bc8f-197c-465a-966f-a472d12347e4.jpg",
+    "White Lightning": "https://media.cricclubs.com/documentsRep/teamLogos/c52ac345-0288-40b0-9e24-7cc4b9f30bbf.jpg",
+    "Royal Kings": "https://media.cricclubs.com/documentsRep/teamLogos/9976f4b9-f7eb-4da4-b723-30221da86858.jpg",
+    "Thunders": "https://media.cricclubs.com/documentsRep/teamLogos/d95d4387-973f-457a-aa1a-8284505734bb.jpg",
+    "Titans": "https://media.cricclubs.com/documentsRep/teamLogos/titans.jpg",
+    "Dukes XI": "https://media.cricclubs.com/documentsRep/teamLogos/20625c9e-4b6f-45a2-a2ed-e18b9755e473.jpg",
+    "Skippers": "https://media.cricclubs.com/documentsRep/teamLogos/98d9d9d1-f0e8-47cb-8086-141dc0df600d.jpg",
+    "Gully Cricketers": "https://media.cricclubs.com/documentsRep/teamLogos/5bc67916-4509-47e5-bb4c-4ecd65398d12.jpg",
+    "Challengers": "https://media.cricclubs.com/documentsRep/teamLogos/challengers.jpg",
+    "United CC": "https://media.cricclubs.com/documentsRep/teamLogos/9b19eda5-e3cc-4f6f-aa5d-e45311d79f6c.jpg",
+    "Fire Friends": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team3.jpg",
+    "Warriors": "https://media.cricclubs.com/documentsRep/teamLogos/6e7e01fe-3bcf-4bf6-8b5f-8e6c5a2e1e1c.jpg",
+    "Pleasanton Mercers": "https://media.cricclubs.com/documentsRep/teamLogos/9149bc1c-6f1f-4e10-834a-4249cfbfc604.jpg",
+    "Punjab Battalion": "https://media.cricclubs.com/documentsRep/teamLogos/762faa14-bc64-41c2-a51e-d6373295a5e6.jpg",
+    "Black Caps": "https://media.cricclubs.com/documentsRep/teamLogos/dcdbdf97-a8ee-448a-93b0-69abdf80cb18.jpg",
+    "Friendz United": "https://media.cricclubs.com/documentsRep/teamLogos/d0f59da6-cd5e-4f0b-936b-35908223c609.jpg",
+    "Mavericks": "https://media.cricclubs.com/documentsRep/teamLogos/81d7179e-d627-4b1b-ac81-7bf35409872f.jpg",
+    "Fairfield Falcons": "https://media.cricclubs.com/documentsRep/teamLogos/e77c18ec-06eb-4575-b9d2-26c7ffefbd66.jpg",
+    "Pine Valley Cricket Club": "https://media.cricclubs.com/documentsRep/teamLogos/de49dcc8-0a6c-4731-a156-7166acb5d2ec.jpg",
+    "007": "https://media.cricclubs.com/documentsRep/teamLogos/18c99f03-1ba0-4df2-8ea0-482508564ffc.jpg",
+    "Pullaingo": "https://media.cricclubs.com/documentsRep/teamLogos/abb3a261-9073-4355-84d3-18db1658b97a.jpg",
+    "Gale Ranch Warriors": "https://media.cricclubs.com/documentsRep/teamLogos/f1fa21b0-9998-4134-a43c-3c93b6058309.jpg",
+    "Emerald Titans": "https://media.cricclubs.com/documentsRep/teamLogos/9c4c0bc2-d2ac-447a-b3e5-fc6f53b575f8.jpg",
+    "Kingfishers": "https://media.cricclubs.com/documentsRep/teamLogos/14163cda-0e4f-4b53-bbfa-026645d57cae.jpg",
+    "Fallon Falcons": "https://media.cricclubs.com/documentsRep/teamLogos/4e98ec5b-ef96-4257-b0bd-fac7dffc8105.jpg",
+    "Mt Diablo Eagles": "https://media.cricclubs.com/documentsRep/teamLogos/f3069d7a-8a7a-460a-be5b-7317271c52a5.jpg",
+    "GRCC": "https://media.cricclubs.com/documentsRep/teamLogos/e0d5d230-6712-412f-9d5a-10b1315d75df.jpg",
+    "Emerald Kings": "https://media.cricclubs.com/documentsRep/teamLogos/b7852a3a-7fe5-4f50-b44a-8e90dfcccf37.jpg",
+    "Champions": "https://media.cricclubs.com/documentsRep/teamLogos/51ccc4cc-16a6-42eb-8b5d-e3922373bf94.jpg",
+    "Fundoos": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team2.jpg",
+    "Bravehearts": "https://media.cricclubs.com/documentsRep/teamLogos/96a438f6-cd65-49c2-8cfe-2fd1f8eeb8fc.jpg",
+    "Dabangg": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team1.jpg",
+    "Preserve": "https://media.cricclubs.com/documentsRep/teamLogos/256d0d01-b22e-4d98-817c-b389b953af56.jpeg",
+    "Livermore Lions": "https://media.cricclubs.com/documentsRep/teamLogos/167c5a95-6a22-49a1-8df8-40150301f3ed.jpg",
+    "Dublin Blazers": "https://media.cricclubs.com/documentsRep/teamLogos/026648f9-02b2-4a86-b329-79ddf0ff158e.jpg",
+    "Shockwave": "https://media.cricclubs.com/documentsRep/teamLogos/waves.jpg",
+    "Rebels": "https://media.cricclubs.com/documentsRep/teamLogos/d24ad128-903e-4573-8996-cec81c7aa220.jpg",
+    "Dominators": "https://media.cricclubs.com/documentsRep/teamLogos/5c96eb11-b7f6-42e0-8e20-4950cef022c2.jpg",
+    "CaliLegends": "https://media.cricclubs.com/documentsRep/teamLogos/b2f485e8-466e-48c0-a8e0-d50b484f7fbd.jpg",
+    "Phoenix": "https://media.cricclubs.com/documentsRep/teamLogos/432093c3-f50d-4809-b84f-19f2fc28a6b7.jpg",
+    "Chhavas": "https://media.cricclubs.com/documentsRep/teamLogos/b267fb78-2cb7-46c7-b739-86ba847fa2ee.jpg",
+    "MCC": "https://media.cricclubs.com/documentsRep/teamLogos/d8449c81-45b7-4fe9-9771-b6e93d1ae886.jpg",
+    "Buddies": "https://media.cricclubs.com/documentsRep/teamLogos/21f0fb91-ef52-4b3b-86e3-5823c71231d0.jpg",
+    "Dhurandhars": "https://media.cricclubs.com/documentsRep/teamLogos/b473d1ce-8394-44ec-a7fe-9a7514abbd82.jpg",
+    "Iron Horse Riders": "https://media.cricclubs.com/documentsRep/teamLogos/16ec0648-dec2-427e-b6c8-5ea2f9009d60.jpg",
+    "Elite XI": "https://media.cricclubs.com/documentsRep/teamLogos/37ee9d33-523e-40f8-bb5c-b039c0b7bb6f.jpg",
+    "Emerald Warriors": "https://media.cricclubs.com/documentsRep/teamLogos/39a3d678-295b-438f-9ac6-2b4b6b5391f7.jpg",
+    "OG": "https://static.cricclubs.com/utilsv2/img/icons/no-image-team4.jpg",
+    "Bay Cc Elites": "https://media.cricclubs.com/documentsRep/teamLogos/elites.jpg",
+    "Tigers": "https://media.cricclubs.com/documentsRep/teamLogos/2a79d41a-93b8-4c83-88ca-82dc5628a69d.jpg",
+    "Dublin Green Caps": "https://media.cricclubs.com/documentsRep/teamLogos/026648f9-02b2-4a86-b329-79ddf0ff158e.jpg",
+    "Trailblazers": "https://media.cricclubs.com/documentsRep/teamLogos/efcb826d-735b-4f9f-a1aa-a6f2c7eafcbf.jpg",
+    "Dublin Warriors": "https://media.cricclubs.com/documentsRep/teamLogos/2f596dc4-51ba-4243-af5f-df9981b074b0.jpg",
+    "AFG XI": "https://media.cricclubs.com/documentsRep/teamLogos/57db8fd6-1ecf-40c0-8593-eeefc2396c7e.jpg",
+    "Rising Stars": "https://media.cricclubs.com/documentsRep/teamLogos/935b8be6-2a53-4a16-9bbe-4d476dcddeb8.jpg",
+    "Dublin Emeralds": "https://media.cricclubs.com/documentsRep/teamLogos/a16d2e01-7a08-4883-93d7-094b18a778a3.jpg"
+  },
+  "league": {
+    "code": "SrcaUsa",
+    "name": "SRCA"
+  },
+  "seasons": {
+    "current": {
+      "id": "legacy-110",
+      "name": "SRCA Summer 2026",
+      "inSeason": true,
+      "scrapedAt": "2026-10-31T16:48:12.965Z"
+    },
+    "last": {
+      "id": "legacy-99",
+      "name": "SRCA Spring 2026",
+      "inSeason": true,
+      "scrapedAt": "2026-10-31T16:48:43.121Z"
+    }
+  },
+  "matches": [
+    {
+      "id": "legacy-4297",
+      "date": "2026-10-25",
+      "series": "SRCA Summer 2026",
+      "seriesId": "legacy-110",
+      "opponent": "Gale Ranch Warriors",
+      "ground": "Rancho",
+      "result": "Gale Ranch Warriors won by 41 Runs",
+      "forfeit": false,
+      "outcome": "L",
+      "tossWonByUs": false,
+      "tossDecision": "bat",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "Gale Ranch Warriors",
+          "runs": 98,
+          "wkts": 7,
+          "overs": "20"
+        },
+        {
+          "team": "Emerald Titans",
+          "runs": 57,
+          "wkts": 10,
+          "overs": "13.5"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Prasad Kapa",
+          "r": 4,
+          "b": 8,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "b"
+        },
+        {
+          "name": "Amol Deshmukh",
+          "r": 3,
+          "b": 12,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ct"
+        },
+        {
+          "name": "Aniruddha Dhamal",
+          "r": 16,
+          "b": 17,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ct"
+        },
+        {
+          "name": "Sai Krishna Nimmala",
+          "r": 1,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ct"
+        },
+        {
+          "name": "Ashish B",
+          "r": 5,
+          "b": 7,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "b"
+        },
+        {
+          "name": "Keyur M",
+          "r": 0,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "ctw"
+        },
+        {
+          "name": "Krishna Arava",
+          "r": 5,
+          "b": 7,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "ct"
+        },
+        {
+          "name": "Umang Tandon",
+          "r": 0,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 8,
+          "how": "b"
+        },
+        {
+          "name": "Suchit Shah",
+          "r": 6,
+          "b": 14,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 9,
+          "how": "ct"
+        },
+        {
+          "name": "Shareef Shaik",
+          "r": 1,
+          "b": 6,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 10,
+          "how": "b"
+        },
+        {
+          "name": "Suneel Sharma",
+          "r": 3,
+          "b": 8,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 11
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Krishna Arava",
+          "balls": 18,
+          "r": 25,
+          "w": 0,
+          "dots": 9,
+          "wd": 0,
+          "nb": 3
+        },
+        {
+          "name": "Ashish B",
+          "balls": 24,
+          "r": 27,
+          "w": 0,
+          "dots": 8,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Suneel Sharma",
+          "balls": 12,
+          "r": 9,
+          "w": 0,
+          "dots": 5,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Shareef Shaik",
+          "balls": 24,
+          "r": 7,
+          "w": 3,
+          "dots": 20,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Aniruddha Dhamal",
+          "balls": 24,
+          "r": 14,
+          "w": 2,
+          "dots": 11,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Prasad Kapa",
+          "balls": 18,
+          "r": 14,
+          "w": 2,
+          "dots": 10,
+          "wd": 0,
+          "nb": 1
+        }
+      ],
+      "fielding": [
+        [
+          "Ashish B",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-4266",
+      "date": "2026-10-10",
+      "series": "SRCA Summer 2026",
+      "seriesId": "legacy-110",
+      "opponent": "Emerald Kings",
+      "ground": "GRMS",
+      "result": "Emerald Titans won by 9 Wickets",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": false,
+      "tossDecision": "bat",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "Emerald Kings",
+          "runs": 67,
+          "wkts": 10,
+          "overs": "19.5"
+        },
+        {
+          "team": "Emerald Titans",
+          "runs": 68,
+          "wkts": 1,
+          "overs": "6"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Amol Deshmukh",
+          "r": 16,
+          "b": 11,
+          "f": 2,
+          "s": 1,
+          "out": true,
+          "pos": 1,
+          "how": "ctw"
+        },
+        {
+          "name": "Prasad Kapa",
+          "r": 12,
+          "b": 12,
+          "f": 0,
+          "s": 1,
+          "out": false,
+          "pos": 2
+        },
+        {
+          "name": "Sai Krishna Nimmala",
+          "r": 37,
+          "b": 14,
+          "f": 2,
+          "s": 4,
+          "out": false,
+          "pos": 3
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Krishna Arava",
+          "balls": 23,
+          "r": 14,
+          "w": 2,
+          "dots": 13,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Suneel Sharma",
+          "balls": 18,
+          "r": 10,
+          "w": 2,
+          "dots": 12,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Shareef Shaik",
+          "balls": 24,
+          "r": 14,
+          "w": 0,
+          "dots": 17,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Aniruddha Dhamal",
+          "balls": 18,
+          "r": 8,
+          "w": 2,
+          "dots": 14,
+          "wd": 4,
+          "nb": 0
+        },
+        {
+          "name": "Chaitanya Gollapudi",
+          "balls": 24,
+          "r": 11,
+          "w": 1,
+          "dots": 16,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Amol Deshmukh",
+          "balls": 12,
+          "r": 10,
+          "w": 0,
+          "dots": 7,
+          "wd": 1,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Umang Tandon",
+          "k",
+          2
+        ],
+        [
+          "Suchit Shah",
+          "c",
+          2
+        ],
+        [
+          "Sai Krishna Nimmala",
+          "c",
+          1
+        ],
+        [
+          "Keyur M",
+          "c",
+          2
+        ],
+        [
+          "Amol Deshmukh",
+          "r",
+          1
+        ],
+        [
+          "Suneel Sharma",
+          "r",
+          1
+        ],
+        [
+          "Shareef Shaik",
+          "r",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-4254",
+      "date": "2026-10-04",
+      "series": "SRCA Summer 2026",
+      "seriesId": "legacy-110",
+      "opponent": "Gale Ranch Warriors",
+      "ground": "Central Park1",
+      "result": "Gale Ranch Warriors won by 3 Wickets",
+      "forfeit": false,
+      "outcome": "L",
+      "tossWonByUs": true,
+      "tossDecision": "bat",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "Emerald Titans",
+          "runs": 81,
+          "wkts": 9,
+          "overs": "20"
+        },
+        {
+          "team": "Gale Ranch Warriors",
+          "runs": 82,
+          "wkts": 7,
+          "overs": "18.4"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Ashish B",
+          "r": 0,
+          "b": 6,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ct"
+        },
+        {
+          "name": "Amol Deshmukh",
+          "r": 4,
+          "b": 8,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ct"
+        },
+        {
+          "name": "Prasad Kapa",
+          "r": 6,
+          "b": 12,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ro"
+        },
+        {
+          "name": "Keyur M",
+          "r": 7,
+          "b": 10,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ctw"
+        },
+        {
+          "name": "Umang Tandon",
+          "r": 18,
+          "b": 36,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 5
+        },
+        {
+          "name": "Suchit Shah",
+          "r": 2,
+          "b": 3,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "ct"
+        },
+        {
+          "name": "Sai Krishna Nimmala",
+          "r": 14,
+          "b": 6,
+          "f": 0,
+          "s": 2,
+          "out": true,
+          "pos": 7,
+          "how": "ct"
+        },
+        {
+          "name": "Chaitanya Gollapudi",
+          "r": 9,
+          "b": 16,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 8,
+          "how": "b"
+        },
+        {
+          "name": "Shareef Shaik",
+          "r": 5,
+          "b": 10,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 9,
+          "how": "ct"
+        },
+        {
+          "name": "Suneel Sharma",
+          "r": 0,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 10,
+          "how": "ct"
+        },
+        {
+          "name": "Krishna Arava",
+          "r": 9,
+          "b": 12,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 11
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Krishna Arava",
+          "balls": 22,
+          "r": 18,
+          "w": 0,
+          "dots": 11,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Ashish B",
+          "balls": 24,
+          "r": 13,
+          "w": 3,
+          "dots": 18,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Shareef Shaik",
+          "balls": 24,
+          "r": 20,
+          "w": 1,
+          "dots": 11,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Suneel Sharma",
+          "balls": 6,
+          "r": 12,
+          "w": 0,
+          "dots": 1,
+          "wd": 0,
+          "nb": 2
+        },
+        {
+          "name": "Prasad Kapa",
+          "balls": 24,
+          "r": 9,
+          "w": 2,
+          "dots": 21,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Amol Deshmukh",
+          "balls": 12,
+          "r": 10,
+          "w": 0,
+          "dots": 6,
+          "wd": 0,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Krishna Arava",
+          "c",
+          1
+        ],
+        [
+          "Sai Krishna Nimmala",
+          "r",
+          1
+        ],
+        [
+          "Umang Tandon",
+          "r",
+          1
+        ],
+        [
+          "Sai Krishna Nimmala",
+          "c",
+          2
+        ],
+        [
+          "Suneel Sharma",
+          "c",
+          1
+        ],
+        [
+          "Umang Tandon",
+          "k",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-4229",
+      "date": "2026-09-26",
+      "series": "SRCA Summer 2026",
+      "seriesId": "legacy-110",
+      "opponent": "Champions",
+      "ground": "WRMS",
+      "result": "Emerald Titans won by 8 Wickets",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": true,
+      "tossDecision": "bowl",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "Champions",
+          "runs": 68,
+          "wkts": 8,
+          "overs": "20"
+        },
+        {
+          "team": "Emerald Titans",
+          "runs": 70,
+          "wkts": 2,
+          "overs": "9.1"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Ashish B",
+          "r": 31,
+          "b": 24,
+          "f": 4,
+          "s": 1,
+          "out": true,
+          "pos": 1,
+          "how": "ctw"
+        },
+        {
+          "name": "Amol Deshmukh",
+          "r": 20,
+          "b": 22,
+          "f": 2,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ct"
+        },
+        {
+          "name": "Sai Krishna Nimmala",
+          "r": 9,
+          "b": 6,
+          "f": 0,
+          "s": 1,
+          "out": false,
+          "pos": 3
+        },
+        {
+          "name": "Aniruddha Dhamal",
+          "r": 2,
+          "b": 4,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 4
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Krishna Arava",
+          "balls": 24,
+          "r": 15,
+          "w": 3,
+          "dots": 14,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Suneel Sharma",
+          "balls": 18,
+          "r": 10,
+          "w": 0,
+          "dots": 12,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Ashish B",
+          "balls": 18,
+          "r": 7,
+          "w": 1,
+          "dots": 14,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Shareef Shaik",
+          "balls": 24,
+          "r": 12,
+          "w": 1,
+          "dots": 15,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Chaitanya Gollapudi",
+          "balls": 24,
+          "r": 10,
+          "w": 2,
+          "dots": 19,
+          "wd": 0,
+          "nb": 2
+        },
+        {
+          "name": "Aniruddha Dhamal",
+          "balls": 12,
+          "r": 14,
+          "w": 0,
+          "dots": 3,
+          "wd": 0,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Chaitanya Gollapudi",
+          "r",
+          1
+        ],
+        [
+          "Suchit Shah",
+          "c",
+          1
+        ],
+        [
+          "Sai Krishna Nimmala",
+          "c",
+          2
+        ],
+        [
+          "Suneel Sharma",
+          "c",
+          1
+        ],
+        [
+          "Ashish B",
+          "c",
+          2
+        ]
+      ]
+    },
+    {
+      "id": "legacy-4199",
+      "date": "2026-09-12",
+      "series": "SRCA Summer 2026",
+      "seriesId": "legacy-110",
+      "opponent": "Fallon Falcons",
+      "ground": "Rancho",
+      "result": "Emerald Titans won by 26 Runs",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": false,
+      "tossDecision": "bowl",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "Emerald Titans",
+          "runs": 108,
+          "wkts": 6,
+          "overs": "20"
+        },
+        {
+          "team": "Fallon Falcons",
+          "runs": 82,
+          "wkts": 9,
+          "overs": "20"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Amol Deshmukh",
+          "r": 20,
+          "b": 34,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "b"
+        },
+        {
+          "name": "Ashish B",
+          "r": 7,
+          "b": 15,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ctw"
+        },
+        {
+          "name": "Umang Tandon",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ct"
+        },
+        {
+          "name": "Keyur M",
+          "r": 2,
+          "b": 6,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ct"
+        },
+        {
+          "name": "Suchit Shah",
+          "r": 31,
+          "b": 41,
+          "f": 2,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "b"
+        },
+        {
+          "name": "Sai Krishna Nimmala",
+          "r": 35,
+          "b": 22,
+          "f": 2,
+          "s": 2,
+          "out": true,
+          "pos": 6,
+          "how": "ro"
+        },
+        {
+          "name": "Arun Dharumar",
+          "r": 1,
+          "b": 3,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 7
+        },
+        {
+          "name": "Krishna Arava",
+          "r": 0,
+          "b": 0,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 8
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Krishna Arava",
+          "balls": 24,
+          "r": 15,
+          "w": 3,
+          "dots": 14,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Ashish B",
+          "balls": 24,
+          "r": 14,
+          "w": 0,
+          "dots": 16,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Shareef Shaik",
+          "balls": 24,
+          "r": 15,
+          "w": 3,
+          "dots": 13,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Arun Dharumar",
+          "balls": 12,
+          "r": 14,
+          "w": 0,
+          "dots": 4,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Amol Deshmukh",
+          "balls": 18,
+          "r": 10,
+          "w": 2,
+          "dots": 10,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Chaitanya Gollapudi",
+          "balls": 18,
+          "r": 13,
+          "w": 0,
+          "dots": 9,
+          "wd": 0,
+          "nb": 1
+        }
+      ],
+      "fielding": [
+        [
+          "Arun Dharumar",
+          "c",
+          1
+        ],
+        [
+          "Ashish B",
+          "c",
+          1
+        ],
+        [
+          "Suchit Shah",
+          "c",
+          1
+        ],
+        [
+          "Sai Krishna Nimmala",
+          "c",
+          1
+        ],
+        [
+          "Ashish B",
+          "r",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-4156",
+      "date": "2026-08-15",
+      "series": "SRCA Summer 2026",
+      "seriesId": "legacy-110",
+      "opponent": "Champions",
+      "ground": "Central Park1",
+      "result": "Emerald Titans won by 6 Wickets",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": false,
+      "tossDecision": "bat",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "Champions",
+          "runs": 51,
+          "wkts": 10,
+          "overs": "18.3"
+        },
+        {
+          "team": "Emerald Titans",
+          "runs": 52,
+          "wkts": 4,
+          "overs": "12"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Amol Deshmukh",
+          "r": 2,
+          "b": 5,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ctw"
+        },
+        {
+          "name": "Ashish B",
+          "r": 19,
+          "b": 28,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ct"
+        },
+        {
+          "name": "Suchit Shah",
+          "r": 13,
+          "b": 23,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ct"
+        },
+        {
+          "name": "Somnadh Allu",
+          "r": 2,
+          "b": 7,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ct"
+        },
+        {
+          "name": "Shiv Sundar",
+          "r": 3,
+          "b": 5,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 5
+        },
+        {
+          "name": "Arun Dharumar",
+          "r": 5,
+          "b": 4,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 6
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Krishna Arava",
+          "balls": 24,
+          "r": 20,
+          "w": 2,
+          "dots": 15,
+          "wd": 0,
+          "nb": 2
+        },
+        {
+          "name": "Suneel Sharma",
+          "balls": 12,
+          "r": 5,
+          "w": 0,
+          "dots": 8,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Ashish B",
+          "balls": 24,
+          "r": 7,
+          "w": 3,
+          "dots": 19,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Amol Deshmukh",
+          "balls": 12,
+          "r": 6,
+          "w": 1,
+          "dots": 7,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Shareef Shaik",
+          "balls": 18,
+          "r": 5,
+          "w": 0,
+          "dots": 13,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Chaitanya Gollapudi",
+          "balls": 21,
+          "r": 8,
+          "w": 1,
+          "dots": 16,
+          "wd": 1,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Amol Deshmukh",
+          "c",
+          2
+        ],
+        [
+          "Amol Deshmukh",
+          "r",
+          1
+        ],
+        [
+          "Ashish B",
+          "c",
+          1
+        ],
+        [
+          "Suchit Shah",
+          "c",
+          1
+        ],
+        [
+          "Shiv Sundar",
+          "r",
+          1
+        ],
+        [
+          "Arun Dharumar",
+          "r",
+          1
+        ],
+        [
+          "Chaitanya Gollapudi",
+          "r",
+          1
+        ],
+        [
+          "Shareef Shaik",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-4147",
+      "date": "2026-08-09",
+      "series": "SRCA Summer 2026",
+      "seriesId": "legacy-110",
+      "opponent": "Mt Diablo Eagles",
+      "ground": "Rancho",
+      "result": "Emerald Titans won by 12 Runs",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": true,
+      "tossDecision": "bat",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "Emerald Titans",
+          "runs": 105,
+          "wkts": 7,
+          "overs": "20"
+        },
+        {
+          "team": "Mt Diablo Eagles",
+          "runs": 93,
+          "wkts": 10,
+          "overs": "19.4"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Amol Deshmukh",
+          "r": 5,
+          "b": 11,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ct"
+        },
+        {
+          "name": "Ashish B",
+          "r": 5,
+          "b": 6,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ctw"
+        },
+        {
+          "name": "Aniruddha Dhamal",
+          "r": 27,
+          "b": 29,
+          "f": 2,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "b"
+        },
+        {
+          "name": "Keyur M",
+          "r": 35,
+          "b": 42,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "rt"
+        },
+        {
+          "name": "Suchit Shah",
+          "r": 10,
+          "b": 16,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "ct"
+        },
+        {
+          "name": "Shiv Sundar",
+          "r": 13,
+          "b": 12,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 6
+        },
+        {
+          "name": "Umang Tandon",
+          "r": 1,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "b"
+        },
+        {
+          "name": "Monish Peddapally",
+          "r": 1,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 8,
+          "how": "ct"
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Krishna Arava",
+          "balls": 24,
+          "r": 29,
+          "w": 3,
+          "dots": 16,
+          "wd": 0,
+          "nb": 2
+        },
+        {
+          "name": "Ashish B",
+          "balls": 22,
+          "r": 20,
+          "w": 1,
+          "dots": 9,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Amol Deshmukh",
+          "balls": 18,
+          "r": 9,
+          "w": 2,
+          "dots": 13,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Shareef Shaik",
+          "balls": 24,
+          "r": 18,
+          "w": 0,
+          "dots": 14,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Chaitanya Gollapudi",
+          "balls": 18,
+          "r": 13,
+          "w": 2,
+          "dots": 13,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Aniruddha Dhamal",
+          "balls": 12,
+          "r": 4,
+          "w": 2,
+          "dots": 10,
+          "wd": 1,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Umang Tandon",
+          "k",
+          1
+        ],
+        [
+          "Shareef Shaik",
+          "c",
+          1
+        ],
+        [
+          "Amol Deshmukh",
+          "c",
+          2
+        ],
+        [
+          "Shiv Sundar",
+          "c",
+          1
+        ],
+        [
+          "Suchit Shah",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-4113",
+      "date": "2026-07-26",
+      "series": "SRCA Summer 2026",
+      "seriesId": "legacy-110",
+      "opponent": "Gale Ranch Warriors",
+      "ground": "GRMS",
+      "result": "Gale Ranch Warriors won by 7 Wickets",
+      "forfeit": false,
+      "outcome": "L",
+      "tossWonByUs": false,
+      "tossDecision": "bowl",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "Emerald Titans",
+          "runs": 60,
+          "wkts": 8,
+          "overs": "20"
+        },
+        {
+          "team": "Gale Ranch Warriors",
+          "runs": 63,
+          "wkts": 3,
+          "overs": "15.2"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Monish Peddapally",
+          "r": 4,
+          "b": 7,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ct"
+        },
+        {
+          "name": "Arun Dharumar",
+          "r": 0,
+          "b": 3,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ct"
+        },
+        {
+          "name": "Aniruddha Dhamal",
+          "r": 10,
+          "b": 18,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ct"
+        },
+        {
+          "name": "Keyur M",
+          "r": 4,
+          "b": 11,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ctw"
+        },
+        {
+          "name": "Chaitanya Gollapudi",
+          "r": 0,
+          "b": 5,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "ct"
+        },
+        {
+          "name": "Abhiram Reddy",
+          "r": 5,
+          "b": 17,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "ct"
+        },
+        {
+          "name": "Pavan Kumar Kolepaka",
+          "r": 1,
+          "b": 14,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "b"
+        },
+        {
+          "name": "Amol Deshmukh",
+          "r": 19,
+          "b": 22,
+          "f": 3,
+          "s": 0,
+          "out": false,
+          "pos": 8
+        },
+        {
+          "name": "Krishna Arava",
+          "r": 11,
+          "b": 19,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 9,
+          "how": "ct"
+        },
+        {
+          "name": "Suneel Sharma",
+          "r": 0,
+          "b": 5,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 10
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Krishna Arava",
+          "balls": 24,
+          "r": 15,
+          "w": 0,
+          "dots": 15,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Pavan Kumar Kolepaka",
+          "balls": 12,
+          "r": 7,
+          "w": 0,
+          "dots": 7,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Chaitanya Gollapudi",
+          "balls": 24,
+          "r": 16,
+          "w": 2,
+          "dots": 14,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Suneel Sharma",
+          "balls": 6,
+          "r": 6,
+          "w": 0,
+          "dots": 3,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Arun Dharumar",
+          "balls": 18,
+          "r": 8,
+          "w": 1,
+          "dots": 14,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Amol Deshmukh",
+          "balls": 6,
+          "r": 7,
+          "w": 0,
+          "dots": 2,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Ashish Paandyaa SR",
+          "balls": 2,
+          "r": 4,
+          "w": 0,
+          "dots": 1,
+          "wd": 0,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Krishna Arava",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-4091",
+      "date": "2026-07-19",
+      "series": "SRCA Summer 2026",
+      "seriesId": "legacy-110",
+      "opponent": "GRCC",
+      "ground": "Rancho",
+      "result": "Emerald Titans won by 3 Wickets",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": true,
+      "tossDecision": "bowl",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "GRCC",
+          "runs": 95,
+          "wkts": 8,
+          "overs": "20"
+        },
+        {
+          "team": "Emerald Titans",
+          "runs": 96,
+          "wkts": 7,
+          "overs": "18.2"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Amol Deshmukh",
+          "r": 50,
+          "b": 46,
+          "f": 3,
+          "s": 1,
+          "out": true,
+          "pos": 1,
+          "how": "ro"
+        },
+        {
+          "name": "Suchit Shah",
+          "r": 0,
+          "b": 7,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ct"
+        },
+        {
+          "name": "Aniruddha Dhamal",
+          "r": 1,
+          "b": 5,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ro"
+        },
+        {
+          "name": "Ashish B",
+          "r": 12,
+          "b": 16,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ct"
+        },
+        {
+          "name": "Chaitanya Gollapudi",
+          "r": 17,
+          "b": 25,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "ro"
+        },
+        {
+          "name": "Abhiram Reddy",
+          "r": 0,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "ct"
+        },
+        {
+          "name": "Krishna Arava",
+          "r": 2,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 7
+        },
+        {
+          "name": "Arun Dharumar",
+          "r": 0,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 8,
+          "how": "ct"
+        },
+        {
+          "name": "Umang Tandon",
+          "r": 4,
+          "b": 5,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 9
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Krishna Arava",
+          "balls": 24,
+          "r": 22,
+          "w": 2,
+          "dots": 14,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Ashish B",
+          "balls": 24,
+          "r": 13,
+          "w": 2,
+          "dots": 16,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Amol Deshmukh",
+          "balls": 18,
+          "r": 15,
+          "w": 0,
+          "dots": 8,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Suneel Sharma",
+          "balls": 18,
+          "r": 15,
+          "w": 1,
+          "dots": 10,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Chaitanya Gollapudi",
+          "balls": 18,
+          "r": 16,
+          "w": 0,
+          "dots": 9,
+          "wd": 4,
+          "nb": 0
+        },
+        {
+          "name": "Arun Dharumar",
+          "balls": 18,
+          "r": 13,
+          "w": 2,
+          "dots": 7,
+          "wd": 0,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Arun Dharumar",
+          "r",
+          1
+        ],
+        [
+          "Ashish B",
+          "c",
+          1
+        ],
+        [
+          "Monish Peddapally",
+          "c",
+          1
+        ],
+        [
+          "Arun Dharumar",
+          "c",
+          1
+        ],
+        [
+          "Chaitanya Gollapudi",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-4056",
+      "date": "2026-06-28",
+      "series": "SRCA Summer 2026",
+      "seriesId": "legacy-110",
+      "opponent": "Kingfishers",
+      "ground": "Rancho",
+      "result": "Kingfishers won by 6 Wickets",
+      "forfeit": false,
+      "outcome": "L",
+      "tossWonByUs": true,
+      "tossDecision": "bat",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "Emerald Titans",
+          "runs": 78,
+          "wkts": 8,
+          "overs": "20"
+        },
+        {
+          "team": "Kingfishers",
+          "runs": 80,
+          "wkts": 4,
+          "overs": "15.2"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Arun Dharumar",
+          "r": 1,
+          "b": 12,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ctw"
+        },
+        {
+          "name": "Amol Deshmukh",
+          "r": 39,
+          "b": 57,
+          "f": 3,
+          "s": 0,
+          "out": false,
+          "pos": 2
+        },
+        {
+          "name": "Monish Peddapally",
+          "r": 4,
+          "b": 9,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ct"
+        },
+        {
+          "name": "Keyur M",
+          "r": 0,
+          "b": 3,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ctw"
+        },
+        {
+          "name": "Ashish Paandyaa SR",
+          "r": 14,
+          "b": 24,
+          "f": 1,
+          "s": 1,
+          "out": true,
+          "pos": 5,
+          "how": "ct"
+        },
+        {
+          "name": "Raju Karuppa",
+          "r": 6,
+          "b": 12,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "ct"
+        },
+        {
+          "name": "Abhiram Reddy",
+          "r": 1,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "ro"
+        },
+        {
+          "name": "Praveen Kumar",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 8,
+          "how": "ro"
+        },
+        {
+          "name": "Chaitanya Gollapudi",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 9,
+          "how": "ct"
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Krishna Arava",
+          "balls": 24,
+          "r": 13,
+          "w": 3,
+          "dots": 16,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Arun Dharumar",
+          "balls": 18,
+          "r": 21,
+          "w": 0,
+          "dots": 10,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Amol Deshmukh",
+          "balls": 8,
+          "r": 16,
+          "w": 0,
+          "dots": 3,
+          "wd": 4,
+          "nb": 0
+        },
+        {
+          "name": "Chaitanya Gollapudi",
+          "balls": 24,
+          "r": 12,
+          "w": 0,
+          "dots": 14,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Kotesh Gandu",
+          "balls": 18,
+          "r": 18,
+          "w": 1,
+          "dots": 10,
+          "wd": 3,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Ashish Paandyaa SR",
+          "c",
+          1
+        ],
+        [
+          "Raju Karuppa",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-4028",
+      "date": "2026-06-20",
+      "series": "SRCA Summer 2026",
+      "seriesId": "legacy-110",
+      "opponent": "Emerald Kings",
+      "ground": "GRMS",
+      "result": "Emerald Titans won by 5 Runs",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": false,
+      "tossDecision": "bowl",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "Emerald Titans",
+          "runs": 105,
+          "wkts": 9,
+          "overs": "20"
+        },
+        {
+          "team": "Emerald Kings",
+          "runs": 100,
+          "wkts": 9,
+          "overs": "20"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Amol Deshmukh",
+          "r": 15,
+          "b": 18,
+          "f": 2,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ctw"
+        },
+        {
+          "name": "Arun Dharumar",
+          "r": 4,
+          "b": 13,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ct"
+        },
+        {
+          "name": "Aniruddha Dhamal",
+          "r": 43,
+          "b": 36,
+          "f": 4,
+          "s": 2,
+          "out": true,
+          "pos": 3,
+          "how": "ct"
+        },
+        {
+          "name": "Keyur M",
+          "r": 16,
+          "b": 19,
+          "f": 1,
+          "s": 1,
+          "out": true,
+          "pos": 4,
+          "how": "ct"
+        },
+        {
+          "name": "Sasi B",
+          "r": 3,
+          "b": 7,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "b"
+        },
+        {
+          "name": "Raju Karuppa",
+          "r": 6,
+          "b": 8,
+          "f": 1,
+          "s": 0,
+          "out": false,
+          "pos": 6
+        },
+        {
+          "name": "Praveen Kumar",
+          "r": 0,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "ct"
+        },
+        {
+          "name": "Anirudh Kaushik SR",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 8,
+          "how": "ct"
+        },
+        {
+          "name": "Chaitanya Gollapudi",
+          "r": 9,
+          "b": 9,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 9,
+          "how": "ct"
+        },
+        {
+          "name": "Krishna Arava",
+          "r": 1,
+          "b": 4,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 10,
+          "how": "ct"
+        },
+        {
+          "name": "Shareef Shaik",
+          "r": 2,
+          "b": 3,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 11
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Krishna Arava",
+          "balls": 24,
+          "r": 27,
+          "w": 1,
+          "dots": 11,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Shareef Shaik",
+          "balls": 24,
+          "r": 12,
+          "w": 2,
+          "dots": 18,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Amol Deshmukh",
+          "balls": 24,
+          "r": 25,
+          "w": 1,
+          "dots": 12,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Chaitanya Gollapudi",
+          "balls": 24,
+          "r": 20,
+          "w": 2,
+          "dots": 15,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Raju Karuppa",
+          "balls": 6,
+          "r": 6,
+          "w": 0,
+          "dots": 3,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Arun Dharumar",
+          "balls": 18,
+          "r": 9,
+          "w": 0,
+          "dots": 11,
+          "wd": 1,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Krishna Arava",
+          "c",
+          1
+        ],
+        [
+          "Anirudh Kaushik SR",
+          "c",
+          1
+        ],
+        [
+          "Keyur M",
+          "k",
+          1
+        ],
+        [
+          "Chaitanya Gollapudi",
+          "r",
+          2
+        ],
+        [
+          "Keyur M",
+          "r",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-3997",
+      "date": "2026-06-06",
+      "series": "SRCA Spring 2026",
+      "seriesId": "legacy-99",
+      "opponent": "007",
+      "ground": "Rancho",
+      "result": "007 won by 24 Runs",
+      "forfeit": false,
+      "outcome": "L",
+      "tossWonByUs": false,
+      "tossDecision": "bat",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "007",
+          "runs": 72,
+          "wkts": 10,
+          "overs": "19.3"
+        },
+        {
+          "team": "Emerald Titans",
+          "runs": 48,
+          "wkts": 10,
+          "overs": "17.1"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Sai Koushik Haddunoori",
+          "r": 0,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "b"
+        },
+        {
+          "name": "Arun Dharumar",
+          "r": 21,
+          "b": 34,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "b"
+        },
+        {
+          "name": "Venkat Dirisala",
+          "r": 4,
+          "b": 10,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ct"
+        },
+        {
+          "name": "Umang Tandon",
+          "r": 2,
+          "b": 14,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "b"
+        },
+        {
+          "name": "Amol Deshmukh",
+          "r": 7,
+          "b": 20,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "ro"
+        },
+        {
+          "name": "Sai Krishna Nimmala",
+          "r": 0,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "ctw"
+        },
+        {
+          "name": "Keyur M",
+          "r": 6,
+          "b": 7,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "b"
+        },
+        {
+          "name": "Krishna Arava",
+          "r": 2,
+          "b": 5,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 8,
+          "how": "ct"
+        },
+        {
+          "name": "Chaitanya Gollapudi",
+          "r": 0,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 9,
+          "how": "b"
+        },
+        {
+          "name": "Suchit Shah",
+          "r": 2,
+          "b": 6,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 10
+        },
+        {
+          "name": "Shareef Shaik",
+          "r": 1,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 11,
+          "how": "ct"
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Krishna Arava",
+          "balls": 21,
+          "r": 8,
+          "w": 5,
+          "dots": 16,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Venkat Dirisala",
+          "balls": 24,
+          "r": 17,
+          "w": 0,
+          "dots": 13,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Arun Dharumar",
+          "balls": 6,
+          "r": 7,
+          "w": 0,
+          "dots": 1,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Sai Koushik Haddunoori",
+          "balls": 18,
+          "r": 14,
+          "w": 1,
+          "dots": 12,
+          "wd": 8,
+          "nb": 0
+        },
+        {
+          "name": "Shareef Shaik",
+          "balls": 24,
+          "r": 19,
+          "w": 2,
+          "dots": 12,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Chaitanya Gollapudi",
+          "balls": 24,
+          "r": 6,
+          "w": 2,
+          "dots": 20,
+          "wd": 2,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Sai Krishna Nimmala",
+          "c",
+          1
+        ],
+        [
+          "Suchit Shah",
+          "c",
+          2
+        ],
+        [
+          "Umang Tandon",
+          "k",
+          3
+        ],
+        [
+          "Chaitanya Gollapudi",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-3936",
+      "date": "2026-05-09",
+      "series": "SRCA Spring 2026",
+      "seriesId": "legacy-99",
+      "opponent": "Gale Ranch Warriors",
+      "ground": "GRMS",
+      "result": "Gale Ranch Warriors won by 3 Wickets",
+      "forfeit": false,
+      "outcome": "L",
+      "tossWonByUs": true,
+      "tossDecision": "bat",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "Emerald Titans",
+          "runs": 131,
+          "wkts": 5,
+          "overs": "20"
+        },
+        {
+          "team": "Gale Ranch Warriors",
+          "runs": 132,
+          "wkts": 7,
+          "overs": "20"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Umang Tandon",
+          "r": 30,
+          "b": 48,
+          "f": 2,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ct"
+        },
+        {
+          "name": "Keyur M",
+          "r": 19,
+          "b": 29,
+          "f": 2,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ctw"
+        },
+        {
+          "name": "Sai Krishna Nimmala",
+          "r": 63,
+          "b": 32,
+          "f": 4,
+          "s": 4,
+          "out": true,
+          "pos": 3,
+          "how": "ro"
+        },
+        {
+          "name": "Venkat Dirisala",
+          "r": 5,
+          "b": 6,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ct"
+        },
+        {
+          "name": "Hemanth Kumar",
+          "r": 0,
+          "b": 3,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "ct"
+        },
+        {
+          "name": "Prashanth Ajmeera",
+          "r": 3,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 6
+        },
+        {
+          "name": "Sai Krishna Boppudi",
+          "r": 0,
+          "b": 0,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 7
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Sai Krishna Boppudi",
+          "balls": 24,
+          "r": 24,
+          "w": 1,
+          "dots": 12,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Suneel Sharma",
+          "balls": 24,
+          "r": 27,
+          "w": 1,
+          "dots": 9,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Arun Dharumar",
+          "balls": 6,
+          "r": 9,
+          "w": 0,
+          "dots": 2,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Shareef Shaik",
+          "balls": 24,
+          "r": 26,
+          "w": 1,
+          "dots": 11,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Sai Krishna Nimmala",
+          "balls": 18,
+          "r": 22,
+          "w": 0,
+          "dots": 8,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Venkat Dirisala",
+          "balls": 24,
+          "r": 24,
+          "w": 2,
+          "dots": 11,
+          "wd": 5,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Ashish Paandyaa SR",
+          "c",
+          1
+        ],
+        [
+          "Sai Krishna Nimmala",
+          "r",
+          1
+        ],
+        [
+          "Hemanth Kumar",
+          "c",
+          2
+        ],
+        [
+          "Keyur M",
+          "c",
+          1
+        ],
+        [
+          "Umang Tandon",
+          "r",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-3910",
+      "date": "2026-05-02",
+      "series": "SRCA Spring 2026",
+      "seriesId": "legacy-99",
+      "opponent": "Kingfishers",
+      "ground": "Rancho",
+      "result": "Emerald Titans won by 26 Runs",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": false,
+      "tossDecision": "bowl",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "Emerald Titans",
+          "runs": 73,
+          "wkts": 8,
+          "overs": "20"
+        },
+        {
+          "team": "Kingfishers",
+          "runs": 47,
+          "wkts": 10,
+          "overs": "14.4"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Sai Koushik Haddunoori",
+          "r": 11,
+          "b": 15,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ctw"
+        },
+        {
+          "name": "Ashish B",
+          "r": 3,
+          "b": 5,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "b"
+        },
+        {
+          "name": "Suchit Shah",
+          "r": 0,
+          "b": 5,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ct"
+        },
+        {
+          "name": "Sai Krishna Nimmala",
+          "r": 10,
+          "b": 9,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "b"
+        },
+        {
+          "name": "Chaitanya Gollapudi",
+          "r": 11,
+          "b": 33,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "b"
+        },
+        {
+          "name": "Keyur M",
+          "r": 3,
+          "b": 10,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "ctw"
+        },
+        {
+          "name": "Venkat Dirisala",
+          "r": 3,
+          "b": 9,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "ctw"
+        },
+        {
+          "name": "Prashanth Ajmeera",
+          "r": 8,
+          "b": 23,
+          "f": 0,
+          "s": 1,
+          "out": false,
+          "pos": 8
+        },
+        {
+          "name": "Krishna Arava",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 9,
+          "how": "b"
+        },
+        {
+          "name": "Shareef Shaik",
+          "r": 7,
+          "b": 12,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 10
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Krishna Arava",
+          "balls": 16,
+          "r": 10,
+          "w": 2,
+          "dots": 10,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Sai Krishna Boppudi",
+          "balls": 12,
+          "r": 8,
+          "w": 0,
+          "dots": 7,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Venkat Dirisala",
+          "balls": 6,
+          "r": 6,
+          "w": 0,
+          "dots": 6,
+          "wd": 6,
+          "nb": 0
+        },
+        {
+          "name": "Shareef Shaik",
+          "balls": 24,
+          "r": 10,
+          "w": 1,
+          "dots": 17,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Ashish B",
+          "balls": 18,
+          "r": 5,
+          "w": 3,
+          "dots": 15,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Chaitanya Gollapudi",
+          "balls": 12,
+          "r": 8,
+          "w": 1,
+          "dots": 9,
+          "wd": 5,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Krishna Arava",
+          "r",
+          2
+        ],
+        [
+          "Keyur M",
+          "k",
+          1
+        ],
+        [
+          "Ashish B",
+          "k",
+          2
+        ],
+        [
+          "Chaitanya Gollapudi",
+          "r",
+          1
+        ],
+        [
+          "Krishna Arava",
+          "k",
+          2
+        ],
+        [
+          "Shareef Shaik",
+          "r",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-3870",
+      "date": "2026-04-05",
+      "series": "SRCA Spring 2026",
+      "seriesId": "legacy-99",
+      "opponent": "Punjab Battalion",
+      "ground": "Rancho",
+      "result": "Punjab Battalion won by 28 Runs",
+      "forfeit": false,
+      "outcome": "L",
+      "tossWonByUs": false,
+      "tossDecision": "bat",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "Punjab Battalion",
+          "runs": 98,
+          "wkts": 10,
+          "overs": "18.2"
+        },
+        {
+          "team": "Emerald Titans",
+          "runs": 70,
+          "wkts": 10,
+          "overs": "17.1"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Sai Koushik Haddunoori",
+          "r": 20,
+          "b": 26,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "b"
+        },
+        {
+          "name": "Sai Teja Kammari",
+          "r": 3,
+          "b": 6,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ctw"
+        },
+        {
+          "name": "Suchit Shah",
+          "r": 0,
+          "b": 5,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ctw"
+        },
+        {
+          "name": "Amol Deshmukh",
+          "r": 15,
+          "b": 18,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ct"
+        },
+        {
+          "name": "Keyur M",
+          "r": 4,
+          "b": 11,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "ct"
+        },
+        {
+          "name": "Sai Krishna Nimmala",
+          "r": 12,
+          "b": 16,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "ct"
+        },
+        {
+          "name": "Shareef Shaik",
+          "r": 3,
+          "b": 12,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "ct"
+        },
+        {
+          "name": "Venkat Dirisala",
+          "r": 3,
+          "b": 6,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 8,
+          "how": "ct"
+        },
+        {
+          "name": "Chaitanya Gollapudi",
+          "r": 3,
+          "b": 4,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 9
+        },
+        {
+          "name": "Krishna Arava",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 10,
+          "how": "ro"
+        },
+        {
+          "name": "Sai Krishna Boppudi",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 11,
+          "how": "b"
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Krishna Arava",
+          "balls": 18,
+          "r": 28,
+          "w": 0,
+          "dots": 9,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Sai Krishna Boppudi",
+          "balls": 18,
+          "r": 27,
+          "w": 0,
+          "dots": 5,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Sai Teja Kammari",
+          "balls": 24,
+          "r": 9,
+          "w": 3,
+          "dots": 20,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Shareef Shaik",
+          "balls": 20,
+          "r": 11,
+          "w": 3,
+          "dots": 14,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Sai Krishna Nimmala",
+          "balls": 6,
+          "r": 8,
+          "w": 0,
+          "dots": 1,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Chaitanya Gollapudi",
+          "balls": 24,
+          "r": 14,
+          "w": 1,
+          "dots": 16,
+          "wd": 0,
+          "nb": 1
+        }
+      ],
+      "fielding": [
+        [
+          "Sai Krishna Nimmala",
+          "c",
+          3
+        ],
+        [
+          "Amol Deshmukh",
+          "r",
+          1
+        ],
+        [
+          "Keyur M",
+          "r",
+          1
+        ],
+        [
+          "Shareef Shaik",
+          "r",
+          2
+        ],
+        [
+          "Keyur M",
+          "k",
+          2
+        ]
+      ]
+    },
+    {
+      "id": "legacy-3847",
+      "date": "2026-03-28",
+      "series": "SRCA Spring 2026",
+      "seriesId": "legacy-99",
+      "opponent": "007",
+      "ground": "GRMS",
+      "result": "Emerald Titans won by 26 Runs",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": true,
+      "tossDecision": "bat",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "Emerald Titans",
+          "runs": 145,
+          "wkts": 6,
+          "overs": "20"
+        },
+        {
+          "team": "007",
+          "runs": 119,
+          "wkts": 10,
+          "overs": "19.4"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Sai Koushik Haddunoori",
+          "r": 10,
+          "b": 4,
+          "f": 1,
+          "s": 1,
+          "out": true,
+          "pos": 1,
+          "how": "ct"
+        },
+        {
+          "name": "Arun Dharumar",
+          "r": 1,
+          "b": 7,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ct"
+        },
+        {
+          "name": "Umang Tandon",
+          "r": 18,
+          "b": 38,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "rt"
+        },
+        {
+          "name": "Amol Deshmukh",
+          "r": 0,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ct"
+        },
+        {
+          "name": "Krishna Arava",
+          "r": 4,
+          "b": 6,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "ct"
+        },
+        {
+          "name": "Keyur M",
+          "r": 9,
+          "b": 9,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "ctw"
+        },
+        {
+          "name": "Sai Krishna Nimmala",
+          "r": 76,
+          "b": 51,
+          "f": 8,
+          "s": 5,
+          "out": false,
+          "pos": 7
+        },
+        {
+          "name": "Venkat Dirisala",
+          "r": 20,
+          "b": 5,
+          "f": 0,
+          "s": 3,
+          "out": false,
+          "pos": 8
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Krishna Arava",
+          "balls": 24,
+          "r": 11,
+          "w": 4,
+          "dots": 17,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Sai Krishna Boppudi",
+          "balls": 24,
+          "r": 30,
+          "w": 2,
+          "dots": 14,
+          "wd": 3,
+          "nb": 0
+        },
+        {
+          "name": "Venkat Dirisala",
+          "balls": 12,
+          "r": 17,
+          "w": 0,
+          "dots": 6,
+          "wd": 6,
+          "nb": 0
+        },
+        {
+          "name": "Suneel Sharma",
+          "balls": 18,
+          "r": 11,
+          "w": 2,
+          "dots": 13,
+          "wd": 0,
+          "nb": 2
+        },
+        {
+          "name": "Shareef Shaik",
+          "balls": 24,
+          "r": 16,
+          "w": 0,
+          "dots": 13,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Sai Koushik Haddunoori",
+          "balls": 16,
+          "r": 32,
+          "w": 2,
+          "dots": 8,
+          "wd": 1,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Sai Krishna Nimmala",
+          "c",
+          3
+        ],
+        [
+          "Umang Tandon",
+          "k",
+          1
+        ],
+        [
+          "Suneel Sharma",
+          "c",
+          1
+        ],
+        [
+          "Keyur M",
+          "c",
+          1
+        ],
+        [
+          "Venkat Dirisala",
+          "c",
+          1
+        ],
+        [
+          "Krishna Arava",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-3837",
+      "date": "2026-03-22",
+      "series": "SRCA Spring 2026",
+      "seriesId": "legacy-99",
+      "opponent": "Preserve",
+      "ground": "Central Park1",
+      "result": "Emerald Titans won by 38 Runs",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": true,
+      "tossDecision": "bat",
+      "battedFirst": true,
+      "innings": [
+        {
+          "team": "Emerald Titans",
+          "runs": 109,
+          "wkts": 10,
+          "overs": "19.4"
+        },
+        {
+          "team": "Preserve",
+          "runs": 71,
+          "wkts": 9,
+          "overs": "20"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Arun Dharumar",
+          "r": 3,
+          "b": 10,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ct"
+        },
+        {
+          "name": "Sai Teja Kammari",
+          "r": 19,
+          "b": 27,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ct"
+        },
+        {
+          "name": "Umang Tandon",
+          "r": 7,
+          "b": 7,
+          "f": 1,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ctw"
+        },
+        {
+          "name": "Amol Deshmukh",
+          "r": 15,
+          "b": 19,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "ctw"
+        },
+        {
+          "name": "Keyur M",
+          "r": 31,
+          "b": 32,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "ct"
+        },
+        {
+          "name": "Sai Krishna Nimmala",
+          "r": 16,
+          "b": 11,
+          "f": 1,
+          "s": 1,
+          "out": true,
+          "pos": 6,
+          "how": "ct"
+        },
+        {
+          "name": "Chaitanya Gollapudi",
+          "r": 0,
+          "b": 4,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "b"
+        },
+        {
+          "name": "Suneel Sharma",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 8,
+          "how": "ctw"
+        },
+        {
+          "name": "Krishna Arava",
+          "r": 4,
+          "b": 5,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 9
+        },
+        {
+          "name": "Shareef Shaik",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 10,
+          "how": "ct"
+        },
+        {
+          "name": "Sai Krishna Boppudi",
+          "r": 0,
+          "b": 2,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 11,
+          "how": "b"
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Krishna Arava",
+          "balls": 24,
+          "r": 13,
+          "w": 1,
+          "dots": 13,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Sai Krishna Boppudi",
+          "balls": 24,
+          "r": 14,
+          "w": 3,
+          "dots": 15,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Sai Teja Kammari",
+          "balls": 18,
+          "r": 3,
+          "w": 1,
+          "dots": 15,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Suneel Sharma",
+          "balls": 12,
+          "r": 9,
+          "w": 0,
+          "dots": 7,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Chaitanya Gollapudi",
+          "balls": 12,
+          "r": 8,
+          "w": 0,
+          "dots": 7,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Shareef Shaik",
+          "balls": 18,
+          "r": 16,
+          "w": 1,
+          "dots": 8,
+          "wd": 2,
+          "nb": 0
+        },
+        {
+          "name": "Amol Deshmukh",
+          "balls": 6,
+          "r": 5,
+          "w": 1,
+          "dots": 3,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Sai Krishna Nimmala",
+          "balls": 6,
+          "r": 3,
+          "w": 1,
+          "dots": 5,
+          "wd": 1,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Sai Krishna Nimmala",
+          "c",
+          1
+        ],
+        [
+          "Umang Tandon",
+          "k",
+          2
+        ],
+        [
+          "Krishna Arava",
+          "c",
+          1
+        ],
+        [
+          "Umang Tandon",
+          "r",
+          1
+        ],
+        [
+          "Chaitanya Gollapudi",
+          "r",
+          1
+        ],
+        [
+          "Keyur M",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-3818",
+      "date": "2026-03-15",
+      "series": "SRCA Spring 2026",
+      "seriesId": "legacy-99",
+      "opponent": "Fallon Falcons",
+      "ground": "Rancho",
+      "result": "Fallon Falcons won by 10 Runs",
+      "forfeit": false,
+      "outcome": "L",
+      "tossWonByUs": false,
+      "tossDecision": "bat",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "Fallon Falcons",
+          "runs": 94,
+          "wkts": 9,
+          "overs": "20"
+        },
+        {
+          "team": "Emerald Titans",
+          "runs": 84,
+          "wkts": 10,
+          "overs": "18.3"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Ashish B",
+          "r": 10,
+          "b": 16,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ctw"
+        },
+        {
+          "name": "Suchit Shah",
+          "r": 0,
+          "b": 3,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ctw"
+        },
+        {
+          "name": "Arun Dharumar",
+          "r": 3,
+          "b": 6,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "b"
+        },
+        {
+          "name": "Shareef Shaik",
+          "r": 5,
+          "b": 9,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 4,
+          "how": "b"
+        },
+        {
+          "name": "Umang Tandon",
+          "r": 10,
+          "b": 26,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 5,
+          "how": "ct"
+        },
+        {
+          "name": "Keyur M",
+          "r": 6,
+          "b": 10,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 6,
+          "how": "ctw"
+        },
+        {
+          "name": "Sai Krishna Nimmala",
+          "r": 6,
+          "b": 8,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 7,
+          "how": "ro"
+        },
+        {
+          "name": "Sai Teja Kammari",
+          "r": 16,
+          "b": 21,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 8,
+          "how": "ct"
+        },
+        {
+          "name": "Krishna Arava",
+          "r": 0,
+          "b": 1,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 9,
+          "how": "ro"
+        },
+        {
+          "name": "Chaitanya Gollapudi",
+          "r": 17,
+          "b": 12,
+          "f": 2,
+          "s": 0,
+          "out": true,
+          "pos": 10,
+          "how": "b"
+        },
+        {
+          "name": "Suneel Sharma",
+          "r": 0,
+          "b": 0,
+          "f": 0,
+          "s": 0,
+          "out": false,
+          "pos": 11
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Krishna Arava",
+          "balls": 24,
+          "r": 20,
+          "w": 2,
+          "dots": 14,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Suneel Sharma",
+          "balls": 24,
+          "r": 26,
+          "w": 2,
+          "dots": 9,
+          "wd": 0,
+          "nb": 2
+        },
+        {
+          "name": "Sai Teja Kammari",
+          "balls": 24,
+          "r": 6,
+          "w": 3,
+          "dots": 21,
+          "wd": 0,
+          "nb": 1
+        },
+        {
+          "name": "Shareef Shaik",
+          "balls": 24,
+          "r": 20,
+          "w": 2,
+          "dots": 10,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Chaitanya Gollapudi",
+          "balls": 24,
+          "r": 22,
+          "w": 0,
+          "dots": 13,
+          "wd": 0,
+          "nb": 1
+        }
+      ],
+      "fielding": [
+        [
+          "Chaitanya Gollapudi",
+          "c",
+          1
+        ],
+        [
+          "Umang Tandon",
+          "k",
+          1
+        ],
+        [
+          "Suchit Shah",
+          "c",
+          2
+        ],
+        [
+          "Arun Dharumar",
+          "c",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "legacy-3790",
+      "date": "2026-03-07",
+      "series": "SRCA Spring 2026",
+      "seriesId": "legacy-99",
+      "opponent": "Emerald Kings",
+      "ground": "Rancho",
+      "result": "Emerald Titans won by 7 Wickets",
+      "forfeit": false,
+      "outcome": "W",
+      "tossWonByUs": true,
+      "tossDecision": "bowl",
+      "battedFirst": false,
+      "innings": [
+        {
+          "team": "Emerald Kings",
+          "runs": 85,
+          "wkts": 5,
+          "overs": "20"
+        },
+        {
+          "team": "Emerald Titans",
+          "runs": 86,
+          "wkts": 3,
+          "overs": "15.1"
+        }
+      ],
+      "batting": [
+        {
+          "name": "Ashish B",
+          "r": 7,
+          "b": 8,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 1,
+          "how": "ct"
+        },
+        {
+          "name": "Sai Krishna Nimmala",
+          "r": 0,
+          "b": 3,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 2,
+          "how": "ct"
+        },
+        {
+          "name": "Arun Dharumar",
+          "r": 11,
+          "b": 23,
+          "f": 0,
+          "s": 0,
+          "out": true,
+          "pos": 3,
+          "how": "ro"
+        },
+        {
+          "name": "Keyur M",
+          "r": 35,
+          "b": 38,
+          "f": 2,
+          "s": 0,
+          "out": false,
+          "pos": 4
+        },
+        {
+          "name": "Venkat Dirisala",
+          "r": 16,
+          "b": 21,
+          "f": 1,
+          "s": 0,
+          "out": false,
+          "pos": 5
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Krishna Arava",
+          "balls": 24,
+          "r": 13,
+          "w": 1,
+          "dots": 14,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Venkat Dirisala",
+          "balls": 24,
+          "r": 16,
+          "w": 1,
+          "dots": 15,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Suneel Sharma",
+          "balls": 12,
+          "r": 3,
+          "w": 0,
+          "dots": 9,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Ashish B",
+          "balls": 24,
+          "r": 23,
+          "w": 0,
+          "dots": 12,
+          "wd": 1,
+          "nb": 0
+        },
+        {
+          "name": "Shareef Shaik",
+          "balls": 12,
+          "r": 8,
+          "w": 0,
+          "dots": 9,
+          "wd": 0,
+          "nb": 0
+        },
+        {
+          "name": "Chaitanya Gollapudi",
+          "balls": 24,
+          "r": 20,
+          "w": 1,
+          "dots": 14,
+          "wd": 1,
+          "nb": 0
+        }
+      ],
+      "fielding": [
+        [
+          "Keyur M",
+          "k",
+          1
+        ],
+        [
+          "Suchit Shah",
+          "r",
+          1
+        ],
+        [
+          "Suneel Sharma",
+          "c",
+          1
+        ],
+        [
+          "Ashish B",
+          "r",
+          1
+        ]
+      ]
+    }
+  ],
+  "unresolvedFielders": 8
+}
