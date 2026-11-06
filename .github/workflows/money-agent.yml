@@ -1,0 +1,56 @@
+name: Money Agent
+
+on:
+  schedule:
+    # Every day at 14:23 UTC (about 6-7 AM in California), so the report is
+    # ready in the morning.
+    - cron: "23 14 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: money-agent
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r money-agent/requirements.txt
+
+      - name: Run agent
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python money-agent/agent.py
+
+      - name: Save report and memory
+        run: |
+          git config user.name "money-agent[bot]"
+          git config user.email "money-agent@users.noreply.github.com"
+          git add money-agent/reports money-agent/memory
+          if git diff --cached --quiet; then
+            echo "Nothing to commit."
+          else
+            git commit -m "Money Agent report $(date -u +%F)"
+            git pull --rebase
+            git push
+          fi
+
+      - name: Open an issue with today's report (sends you a notification)
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          today=$(date -u +%F)
+          title="Money Agent $today: $(head -c 200 money-agent/last_summary.txt)"
+          gh issue create --title "$title" --body-file "money-agent/reports/$today.md" --assignee "${{ github.repository_owner }}"

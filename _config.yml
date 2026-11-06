@@ -1,0 +1,3 @@
+# Keep the money agent's files out of the published website.
+exclude:
+  - money-agent
